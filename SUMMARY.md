@@ -15,6 +15,7 @@
       * [Slots and Cuts](creator/projects/front-end/slots/layouting.md)
       * [Size Types](creator/projects/front-end/slots/sizes.md)
     * [Components](creator/projects/front-end/elements.md)
+    * [Actions](creator/projects/front-end/actions.md)
     * [Variables](creator/projects/front-end/variables.md)
   * [Back-end](creator/projects/back-end/README.md)
     * [Tables](creator/projects/back-end/tables.md)
