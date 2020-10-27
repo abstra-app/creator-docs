@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Table of Contents](README.md)
-* [Workspaces and Memberships](workspaces.md)
+* [Workspaces](workspaces.md)
 
 ## Project Settings <a id="settings"></a>
 
