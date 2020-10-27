@@ -13,9 +13,9 @@
 * [Workspace](fronted/asdadasd/README.md)
   * [Memberships](fronted/asdadasd/memberships.md)
 * [Interfaces](fronted/interfaces/README.md)
-  * [Layouting](fronted/interfaces/layouting.md)
+  * [Slots and Cuts](fronted/interfaces/layouting.md)
+  * [Pages vs Interfaces](fronted/interfaces/screens-vs-components.md)
   * [Routes and nesting](fronted/interfaces/routes-and-nesting.md)
-  * [Screens vs Components](fronted/interfaces/screens-vs-components.md)
 * [Elements](fronted/elements.md)
 
 ## Backend

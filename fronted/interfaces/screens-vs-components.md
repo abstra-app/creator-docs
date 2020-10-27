@@ -1,2 +1,2 @@
-# Screens vs Components
+# Pages vs Interfaces
 
