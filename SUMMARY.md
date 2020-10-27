@@ -3,12 +3,6 @@
 * [Table of Contents](README.md)
 * [Workspaces](workspaces.md)
 
-## Project Settings <a id="settings"></a>
-
-* [Production](settings/production/README.md)
-  * [Domain](settings/production/domain.md)
-  * [Release](settings/production/release.md)
-
 ## Frontend <a id="fronted"></a>
 
 * [Interfaces](fronted/interfaces/README.md)
@@ -25,4 +19,10 @@
 
 * [Tables](backend/tables.md)
 * [Connectors](backend/connectors.md)
+
+## Project Settings <a id="settings"></a>
+
+* [Production](settings/production/README.md)
+  * [Domain](settings/production/domain.md)
+  * [Release](settings/production/release.md)
 
