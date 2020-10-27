@@ -20,6 +20,7 @@
   * [Slots and Cuts](fronted/slots/layouting.md)
   * [Size Types](fronted/slots/sizes.md)
 * [Components](fronted/elements.md)
+* [Variables](fronted/variables.md)
 
 ## Backend
 
