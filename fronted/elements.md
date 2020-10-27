@@ -1,2 +1,2 @@
-# Elements
+# Components
 

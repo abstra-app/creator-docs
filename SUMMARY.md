@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Table of Contents](README.md)
+* [Workspace](asdadasd/README.md)
+  * [Memberships](asdadasd/memberships.md)
 
 ## Settings
 
@@ -10,16 +12,14 @@
 
 ## Frontend <a id="fronted"></a>
 
-* [Workspace](fronted/asdadasd/README.md)
-  * [Memberships](fronted/asdadasd/memberships.md)
 * [Interfaces](fronted/interfaces/README.md)
-  * [Resizing](fronted/interfaces/resizing.md)
   * [Pages vs Interfaces](fronted/interfaces/screens-vs-components.md)
+  * [Resizing](fronted/interfaces/resizing.md)
   * [Routes and nesting](fronted/interfaces/routes-and-nesting.md)
 * [Slots](fronted/slots/README.md)
   * [Slots and Cuts](fronted/slots/layouting.md)
-  * [Sizes](fronted/slots/sizes.md)
-* [Elements](fronted/elements.md)
+  * [Size Types](fronted/slots/sizes.md)
+* [Components](fronted/elements.md)
 
 ## Backend
 

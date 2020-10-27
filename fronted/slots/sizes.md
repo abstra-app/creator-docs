@@ -1,6 +1,7 @@
-# Sizes
+# Size Types
 
-There are 3 size types for slots: **fixed**, **responsive** and **content size**
+There are 3 size types for slots: **fixed**, **responsive** and **content size**.  
+By default it is set to **responsive.** 
 
 ### Fixed
 
