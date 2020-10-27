@@ -2,6 +2,7 @@
 
 * [Table of Contents](README.md)
 * [Workspaces](workspaces.md)
+* [Projects](projects-1.md)
 
 ## Projects
 
