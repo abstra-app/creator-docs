@@ -8,18 +8,18 @@
   * [Domain](settings/production/domain.md)
   * [Release](settings/production/release.md)
 
-## Frontend <a id="fronted-docs"></a>
+## Frontend <a id="fronted"></a>
 
-* [Workspace](fronted-docs/asdadasd/README.md)
-  * [Memberships](fronted-docs/asdadasd/memberships.md)
-* [Interfaces](fronted-docs/interfaces/README.md)
-  * [Layouting](fronted-docs/interfaces/layouting.md)
-  * [Routes and nesting](fronted-docs/interfaces/routes-and-nesting.md)
-  * [Screens vs Components](fronted-docs/interfaces/screens-vs-components.md)
-* [Elements](fronted-docs/elements.md)
+* [Workspace](fronted/asdadasd/README.md)
+  * [Memberships](fronted/asdadasd/memberships.md)
+* [Interfaces](fronted/interfaces/README.md)
+  * [Layouting](fronted/interfaces/layouting.md)
+  * [Routes and nesting](fronted/interfaces/routes-and-nesting.md)
+  * [Screens vs Components](fronted/interfaces/screens-vs-components.md)
+* [Elements](fronted/elements.md)
 
-## Backend <a id="backend-docs"></a>
+## Backend
 
-* [Tables](backend-docs/tables.md)
-* [Connectors](backend-docs/connectors.md)
+* [Tables](backend/tables.md)
+* [Connectors](backend/connectors.md)
 
