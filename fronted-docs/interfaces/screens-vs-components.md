@@ -1,2 +1,0 @@
-# Screens vs Components
-
