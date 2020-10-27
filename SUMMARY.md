@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Table of Contents](README.md)
-* [Workspace](asdadasd/README.md)
-  * [Memberships](asdadasd/memberships.md)
+* [Workspaces](workspaces/README.md)
+  * [Memberships](workspaces/memberships.md)
 
 ## Project Settings <a id="settings"></a>
 
