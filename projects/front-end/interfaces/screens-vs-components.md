@@ -12,7 +12,7 @@ Pages are the interfaces that will accessible via URL.
 
 To change a generic interface to a page just put a `/` on the beginning of the name and it will be its path.
 
-![](../../.gitbook/assets/path.gif)
+![](../../../.gitbook/assets/path.gif)
 
 In the example above you will be able to access this interface with the URL `test.abstra.app/home` on the released application.
 

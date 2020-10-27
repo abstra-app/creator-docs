@@ -3,26 +3,23 @@
 * [Table of Contents](README.md)
 * [Workspaces](workspaces.md)
 
-## Frontend <a id="fronted"></a>
+## Projects
 
-* [Interfaces](fronted/interfaces/README.md)
-  * [Resizing](fronted/interfaces/resizing.md)
-  * [Pages vs Interfaces](fronted/interfaces/screens-vs-components.md)
-  * [Routes and nesting](fronted/interfaces/routes-and-nesting.md)
-* [Slots](fronted/slots/README.md)
-  * [Slots and Cuts](fronted/slots/layouting.md)
-  * [Size Types](fronted/slots/sizes.md)
-* [Components](fronted/elements.md)
-* [Variables](fronted/variables.md)
-
-## Backend
-
-* [Tables](backend/tables.md)
-* [Connectors](backend/connectors.md)
-
-## Project Settings <a id="settings"></a>
-
-* [Production](settings/production/README.md)
-  * [Domain](settings/production/domain.md)
-  * [Release](settings/production/release.md)
+* [Front-end](projects/front-end/README.md)
+  * [Interfaces](projects/front-end/interfaces/README.md)
+    * [Resizing](projects/front-end/interfaces/resizing.md)
+    * [Pages vs Interfaces](projects/front-end/interfaces/screens-vs-components.md)
+    * [Routes and nesting](projects/front-end/interfaces/routes-and-nesting.md)
+  * [Slots](projects/front-end/slots/README.md)
+    * [Slots and Cuts](projects/front-end/slots/layouting.md)
+    * [Size Types](projects/front-end/slots/sizes.md)
+  * [Components](projects/front-end/elements.md)
+  * [Variables](projects/front-end/variables.md)
+* [Back-end](projects/back-end/README.md)
+  * [Tables](projects/back-end/tables.md)
+  * [Connectors](projects/back-end/connectors.md)
+* [Settings](projects/settings/README.md)
+  * [Production](projects/settings/production.md)
+  * [Authentication](projects/settings/authentication.md)
+  * [Metadata](projects/settings/metadata.md)
 

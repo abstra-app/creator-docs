@@ -3,7 +3,7 @@
 Abstra takes a different approach in editing an interface:  **Slots** and **Cuts**.   
 You start with a resizable slot and then cut it as you wish to make your design.
 
-![](../../.gitbook/assets/cuts-and-slots.gif)
+![](../../../.gitbook/assets/cuts-and-slots.gif)
 
 ### Cuts
 
