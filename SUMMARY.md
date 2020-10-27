@@ -4,7 +4,7 @@
 * [Workspace](asdadasd/README.md)
   * [Memberships](asdadasd/memberships.md)
 
-## Settings
+## Project Settings <a id="settings"></a>
 
 * [Production](settings/production/README.md)
   * [Domain](settings/production/domain.md)
