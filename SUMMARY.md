@@ -44,5 +44,6 @@
   * [Upload files and save to a database](tutorials/common-tecniques/upload-files-and-save-to-a-database.md)
   * [Display external API data](tutorials/common-tecniques/display-external-api-data.md)
 * [Projects](tutorials/projects/README.md)
+  * [BMI Calculator](tutorials/projects/bmi-calculator.md)
   * [Simple e-commerce application](tutorials/projects/simple-e-commerce-application.md)
 
