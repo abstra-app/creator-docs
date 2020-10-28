@@ -5,7 +5,7 @@ The most common use case is multi platform responsiveness.
 
 Here is how you can do it:
 
-VIDEO HERE FOR MOBILE-DESKTOP RESPONSIVENESS
+{% embed url="https://www.youtube.com/watch?v=gsw4OHgHdec&feature=youtu.be" %}
 
 
 
