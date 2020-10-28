@@ -1,6 +1,6 @@
 # Slots
 
-A slot is a piece of a [interface](../interfaces/) that can house a [component](../elements.md) inside of it.
+Slots are the syntactic blocks of your application. A slot is a piece of a [interface](../interfaces/) that can house a semantic [component](../elements/) inside of it.
 
-It has a [size type](sizes.md). Other properties such as background, padding, variant and border can be specified.
+They have [size type](sizes.md), background, padding, variant and border properties for individual styling control.
 

@@ -1,6 +1,6 @@
 # Interfaces
 
-Interfaces are the building block of your front-end app that house the [slots](../slots/) for the [components](../elements.md).
+Interfaces are the building block of your front-end app that house the [slots](../slots/) for the [components](../elements/).
 
 You can name and nest them to organize your project
 

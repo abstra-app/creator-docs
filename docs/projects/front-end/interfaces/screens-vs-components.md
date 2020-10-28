@@ -4,7 +4,7 @@ There are two types of interfaces: **generic interfaces** and **pages**
 
 ### Generic ****interfaces
 
-Usually used inside other interfaces as a [reusable interface component](../elements.md) for better design experience and maintenance of the application.
+Usually used inside other interfaces as a [reusable interface component](../elements/) for better design experience and maintenance of the application.
 
 ### Pages
 
