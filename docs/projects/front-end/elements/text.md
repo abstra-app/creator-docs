@@ -1,4 +1,4 @@
-# text
+# Text
 
 This component lets you show rich text.   
 Common uses are titles, text content and descriptions.

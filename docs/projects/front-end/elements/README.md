@@ -4,18 +4,18 @@ Components are the semantic blocks of your application. Each component is housed
 
 Currently these are the supported components:
 
-* [text](text.md)
-* [button](button.md)
-* [image](image.md)
-* [input](input.md)
-* [choose](choose.md)
-* [video](video.md)
-* [table](table.md)
-* [html](html.md)
-* [form](form.md)
-* [collection](collection.md)
-* [subview](subview.md)
-* [iframe](iframe.md)
+* [Text](text.md)
+* [Button](button.md)
+* [Image](image.md)
+* [Input](input.md)
+* [Dropdown](choose.md)
+* [Video](video.md)
+* [Table](table.md)
+* [HTML](html.md)
+* [Form](form.md)
+* [List](collection.md)
+* [Subview](subview.md)
+* [Iframe](iframe.md)
 
 
 

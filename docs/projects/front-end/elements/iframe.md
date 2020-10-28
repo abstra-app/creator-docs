@@ -1,4 +1,4 @@
-# iframe
+# Iframe
 
 This component lets you render external pages with its embed URL
 
