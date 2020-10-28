@@ -25,3 +25,12 @@
     * [Authentication](creator/projects/settings/authentication.md)
     * [Metadata](creator/projects/settings/metadata.md)
 
+## Tutorials
+
+* [Common Tecniques](tutorials/common-tecniques/README.md)
+  * [Dynamic interfaces](tutorials/common-tecniques/dynamic-interfaces.md)
+  * [Upload files and save to a database](tutorials/common-tecniques/upload-files-and-save-to-a-database.md)
+  * [Display external API data](tutorials/common-tecniques/display-external-api-data.md)
+* [Projects](tutorials/projects/README.md)
+  * [Simple e-commerce application](tutorials/projects/simple-e-commerce-application.md)
+
