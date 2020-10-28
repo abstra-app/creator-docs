@@ -6,3 +6,13 @@ You can build a SPA [front-end](front-end/), have it reading and writing to a [d
 
 ![](../../.gitbook/assets/release.gif)
 
+Abstra projects are composed of three main sections
+
+{% page-ref page="front-end/" %}
+
+{% page-ref page="back-end/" %}
+
+{% page-ref page="settings/" %}
+
+
+
