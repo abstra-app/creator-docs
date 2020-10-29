@@ -91,5 +91,5 @@ The following are the events triggered by this component:
 
 #### On click
 
-When this component is clicked, a `click` event is triggered and actions with this trigger will be initiated. No aditional information is loaded on the context.
+When this component is clicked, a `click` event is triggered and actions with this trigger will be initiated. No additional information is loaded on the context.
 

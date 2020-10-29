@@ -28,9 +28,11 @@ Type: number
 
 #### Success
 
-What happens if everything goes ok with the analytics track
+What happens if everything goes ok with the analytics track  
+No additional information is loaded on the context.
 
 #### Fail
 
-What happens if something goes wrong with the analytics track
+What happens if something goes wrong with the analytics track.  
+The error is injected on the context for the next action, accessible via `{{error}}` with mustache notation or `$.error` on expression mode.
 

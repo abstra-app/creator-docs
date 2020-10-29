@@ -2,6 +2,8 @@
 
 This action is used to display a modal in the screen with a message for the user.
 
+![](../../../../.gitbook/assets/showmessage.gif)
+
 ### Arguments
 
 #### Title
@@ -23,5 +25,6 @@ Type: text
 
 #### Then
 
-What happens after the person closes the message.
+What happens after the person closes the message.  
+No additional information is loaded on the context.
 

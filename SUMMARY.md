@@ -30,7 +30,7 @@
     * [Actions](docs/projects/front-end/actions/README.md)
       * [Show message](docs/projects/front-end/actions/show-message.md)
       * [Send analytics event](docs/projects/front-end/actions/send-analytics-event.md)
-      * [Back Page](docs/projects/front-end/actions/back-page.md)
+      * [Go back](docs/projects/front-end/actions/back-page.md)
       * [Change Page](docs/projects/front-end/actions/change-page.md)
       * [Comment](docs/projects/front-end/actions/comment.md)
       * [Component Method](docs/projects/front-end/actions/component-method.md)
