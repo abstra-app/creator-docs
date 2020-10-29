@@ -49,23 +49,43 @@ It's expected an expression that can be evaluated as a number.
 
 ### boolean
 
+TBP
+
 ### component
+
+TBP
 
 ### componentId
 
+TBP
+
 ### componentMethod
+
+TBP
 
 ### variable
 
+TBP
+
 ### code
+
+TBP
 
 ### json
 
+TBP
+
 ### js
+
+TBP
 
 ### html
 
+TBP
+
 ### css
+
+TBP
 
 ### color
 
@@ -102,6 +122,8 @@ It's expected an expression that can be evaluated as one of the following string
 * `bottom-right`
 
 ### background
+
+TBP
 
 ### padding
 
@@ -181,13 +203,23 @@ It's expected an expression that can be evaluated as an object with the followin
 
 ### template
 
+TBP
+
 ### subview
+
+TBP
 
 ### statementId
 
+TBP
+
 ### columns
 
+TBP
+
 ### options
+
+TBP
 
 ### query
 
@@ -215,19 +247,29 @@ Also, it can be an object with the type
 
 When it is remote
 
-It
-
 ### row
+
+TBP
 
 ### route
 
+TBP
+
 ### rowId
+
+TBP
 
 ### tableId
 
+TBP
+
 ### viewId
 
+TBP
+
 ### expression
+
+TBP
 
 ### image
 
@@ -242,4 +284,6 @@ Input direct URL for the image or upload the asset.
 It's expected an expression that can be evaluated as string containing the direct URL for the asset.
 
 ### graphql
+
+TBP
 
