@@ -1,6 +1,6 @@
 # Components
 
-Components are the semantic blocks of your application. Each component is housed inside a [slot](../slots/) and has several arguments that control its behavior and appearance.
+Components are the semantic blocks of your application. Each component is housed inside a [slot](../slots/) and has several [arguments](../arguments/) that control its behavior and appearance.
 
 Currently these are the supported components:
 
@@ -8,7 +8,7 @@ Currently these are the supported components:
 * [Button](button.md)
 * [Image](image.md)
 * [Input](input.md)
-* [Dropdown](choose.md)
+* [Drop down](choose.md)
 * [Video](video.md)
 * [Table](table.md)
 * [HTML](html.md)
