@@ -2,6 +2,8 @@
 
 This action is used to make HTTP requests to an external API.
 
+![](../../../../.gitbook/assets/httprequest.gif)
+
 ### Arguments
 
 #### URL
