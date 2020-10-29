@@ -17,7 +17,7 @@ Text input. This input parses [mustache notation](mustache-notation.md).
 It's expected an expression that will be evaluated as a string.
 
 {% hint style="info" %}
-Interpolation can be achieved using JavaScript templating sintax.  
+Interpolation can be achieved using JavaScript template sintax.  
 Example: if there is a context text variable called `name` and the expression is ```My name is ${ $.name }```, on preview mode the variable value will replace it.
 {% endhint %}
 
@@ -32,12 +32,12 @@ Selecting brings the rich text editor with options such as **bold**, _italic_ an
 
 #### Expression Mode
 
-It's expected an expression that will be evaluated as a string.  
-For rich text formatting use html tags.
+It's expected an expression that can be evaluated as a string.  
+For rich text formatting use HTML tags.
 
 ### number
 
-Number
+![Positive, negative and decimal numbers](../../../../.gitbook/assets/number.gif)
 
 #### UI
 
@@ -45,7 +45,7 @@ Number input with up and down buttons.
 
 #### Expression Mode
 
-It's expected an expression that will be evaluated as a number.
+It's expected an expression that can be evaluated as a number.
 
 ### boolean
 
@@ -69,7 +69,7 @@ It's expected an expression that will be evaluated as a number.
 
 ### color
 
-Simple color represented by a named color \(white, black, green, ...\) or hex values with opacity.
+![Simple color represented by a named color or hex values with opacity.](../../../../.gitbook/assets/color.gif)
 
 #### UI
 
@@ -77,19 +77,19 @@ Color picker with hex values, opacity and default colors.
 
 #### Expression Mode
 
-It's expected an expression that will be evaluated as a string representing [CSS colors](https://developer.mozilla.org/pt-BR/docs/Web/CSS/color_value).
+It's expected an expression that can be evaluated as a string representing [CSS colors](https://developer.mozilla.org/pt-BR/docs/Web/CSS/color_value).
 
 ### alignment
 
-Aligment of a component inside a slot.
+![Alignment of a component inside a slot.](../../../../.gitbook/assets/image%20%284%29.png)
 
 #### UI
 
-Aligment input. Default is `center`.
+Alignment input. Default is `center`.
 
 #### Expression Mode
 
-It's expected an expression that will be evaluated as one os the following strings:
+It's expected an expression that can be evaluated as one of the following strings:
 
 * `top`
 * `left`
@@ -105,16 +105,20 @@ It's expected an expression that will be evaluated as one os the following strin
 
 ### padding
 
-The spacing between the contents and its border.
+![The spacing between the contents and its border.](../../../../.gitbook/assets/padding.gif)
 
 #### UI
 
-Default four number inputs for top, bottom, left and right paddings.  
-Alongside the inputs there is a checkbox that unifies them in pairs \(`top + bottom`, `left + right` and `vertical + horizontal`\).
+Four number inputs for top, bottom, left and right paddings.  
+Alongside the inputs there is a checkbox that unifies them in pairs 
+
+* `top + bottom`
+* `left + right`
+* `vertical + horizontal`
 
 #### Expression Mode
 
-It's expected an expression that will be evaluated as an object containing the following properties \(the dimension property must be one of [CSS units](https://www.w3schools.com/cssref/css_units.asp)\):
+It's expected an expression that can be evaluated as an object containing the following properties \(the dimension property must be one of [CSS units](https://www.w3schools.com/cssref/css_units.asp)\):
 
 ```text
 {
@@ -139,7 +143,7 @@ Four number inputs for offset x , offset y, blur and spread and a color picker f
 
 #### Expression Mode
 
-It's expected an expression that will be evaluated as an object containing the following properties:
+It's expected an expression that can be evaluated as an object containing the following properties:
 
 ```text
 {
@@ -154,7 +158,7 @@ It's expected an expression that will be evaluated as an object containing the f
 ### border
 
 Border properties: `width`, `color`, `style` and `radius`.  
-All properties can be individualy set for each side.
+All properties can be individually set for each side.
 
 #### UI
 
@@ -163,7 +167,7 @@ All inputs have a button alongside them that allows for individual setting of th
 
 #### Expression Mode
 
-It's expected an expression that will be evaluated as an object with the following properties \(where the `style` property is one of `none`, `solid`, `dashed` or `dotted`\)
+It's expected an expression that can be evaluated as an object with the following properties \(where the `style` property is one of `none`, `solid`, `dashed` or `dotted`\)
 
 ```text
 {
@@ -234,7 +238,7 @@ Input direct URL for the image or upload the asset.
 
 **Expression** Mode
 
-It's expected an expression that will be evaluated as string containing the direct URL for the asset.
+It's expected an expression that can be evaluated as string containing the direct URL for the asset.
 
 ### graphql
 
