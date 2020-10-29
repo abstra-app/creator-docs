@@ -9,7 +9,7 @@ This action is used to display a modal in the screen with a message for the user
 #### Title
 
 Title of the message displayed  
-Type: text
+Type: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
 #### Message
 
