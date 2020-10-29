@@ -134,7 +134,8 @@ It's expected an expression that can be evaluated as an object containing the fo
 
 ### shadow
 
-The shadow beneath the component.  
+![The shadow beneath the component.](../../../../.gitbook/assets/shadow.gif)
+
 Shadow offsets for vertical and horizontal axis, spread, blur and color properties can be set.
 
 #### UI
@@ -143,15 +144,15 @@ Four number inputs for offset x , offset y, blur and spread and a color picker f
 
 #### Expression Mode
 
-It's expected an expression that can be evaluated as an object containing the following properties:
+It's expected an expression that can be evaluated as an object containing the following properties \(the color property must be one of [CSS colors](https://developer.mozilla.org/pt-BR/docs/Web/CSS/color_value)\):
 
 ```text
 {
-  "x": 0,
-  "y": 0,
+  "x": 5,
+  "y": 4,
   "color": "rgba(0, 0, 0, 0.15)",
-  "blur": 0,
-  "spread": 0
+  "blur": 3,
+  "spread": 1
 }
 ```
 
