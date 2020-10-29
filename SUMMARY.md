@@ -42,7 +42,7 @@
       * [Logout](docs/projects/front-end/actions/logout.md)
       * [Modal](docs/projects/front-end/actions/modal.md)
       * [Remove](docs/projects/front-end/actions/remove.md)
-      * [Request](docs/projects/front-end/actions/request.md)
+      * [HTTP Request](docs/projects/front-end/actions/request.md)
       * [Retrieve Data](docs/projects/front-end/actions/retrieve-data.md)
       * [Scroll to](docs/projects/front-end/actions/scroll-to.md)
       * [Set Variable](docs/projects/front-end/actions/set-variable.md)
