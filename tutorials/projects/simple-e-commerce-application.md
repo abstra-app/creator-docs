@@ -1,2 +1,0 @@
-# Simple e-commerce application
-
