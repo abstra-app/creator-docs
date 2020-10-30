@@ -8,6 +8,10 @@ You can use the side handlers to resize the interface.
 
 ![](../../../../.gitbook/assets/resize.gif)
 
+{% hint style="warning" %}
+Be aware that this size is not the final size on the released application but a tool to help users see how their design will appear in different devices. The actual size depends on the device screen.
+{% endhint %}
+
 Be aware that this size is not the final size on the released application but a tool to help users see how their design will appear in different devices. The actual size depends on the device screen.
 
 ### Specifying a size \(BETA\)
