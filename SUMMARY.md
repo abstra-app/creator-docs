@@ -70,4 +70,5 @@
   * [Display external API data](tutorials/common-tecniques/display-external-api-data.md)
 * [Projects](tutorials/projects/README.md)
   * [BMI Calculator](tutorials/projects/bmi-calculator.md)
+  * [Joke Generator](tutorials/projects/joke-generator.md)
 
