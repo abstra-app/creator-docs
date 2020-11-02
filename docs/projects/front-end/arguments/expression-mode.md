@@ -8,5 +8,5 @@ As the name states, this field expects a JavaScript expression that will be eval
 **JavaScript Expressions** are any unit of code that can be evaluated to a value. Here is an interesting [article](https://medium.com/launch-school/javascript-expressions-and-statements-4d32ac9c0e74) about it.
 {% endhint %}
 
-
+There are several other use cases for expression modes such as [dynamic interfaces](../../../../tutorials/common-tecniques/dynamic-interfaces.md), check them out in the section [common techniques](../../../../tutorials/common-tecniques/)
 

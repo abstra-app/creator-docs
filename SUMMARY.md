@@ -63,7 +63,7 @@
 
 ## Tutorials
 
-* [Common Tecniques](tutorials/common-tecniques/README.md)
+* [Common Techniques](tutorials/common-tecniques/README.md)
   * [Dynamic interfaces](tutorials/common-tecniques/dynamic-interfaces.md)
   * [Centering elements](tutorials/common-tecniques/centering-elements.md)
   * [Upload files and save to a database](tutorials/common-tecniques/upload-files-and-save-to-a-database.md)
