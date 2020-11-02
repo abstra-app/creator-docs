@@ -4,7 +4,7 @@ description: Each argument has a type with a different UI and expected expressio
 
 # Argument types
 
-### text
+### stext
 
 ![Simple text, without formatting.](../../../../.gitbook/assets/image.png)
 

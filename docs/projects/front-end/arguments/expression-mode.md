@@ -1,4 +1,12 @@
 # Expression mode
 
-All arguments have on their top-right corner a `< >` symbol which toggles it from the normal UI to a text area where user can write JavaScript code and complex logic.
+All arguments have on their top-right corner a `<>` symbol which toggles it from the stock UI to a text area where user can write JavaScript code and complex logic.
+
+As the name states, this field expects a JavaScript expression that will be evaluated as the argument value itself, so the value must fit the expected [argument types](argument-types.md) and range of values \(when applicable\).
+
+{% hint style="info" %}
+**JavaScript Expressions** are any unit of code that can be evaluated to a value. Here is an interesting [article](https://medium.com/launch-school/javascript-expressions-and-statements-4d32ac9c0e74) about it.
+{% endhint %}
+
+
 
