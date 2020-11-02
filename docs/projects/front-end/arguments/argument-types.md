@@ -17,7 +17,7 @@ Text input. This input parses [mustache notation](mustache-notation.md).
 It's expected an expression that will be evaluated as a string.
 
 {% hint style="info" %}
-Interpolation can be achieved using JavaScript template sintax.  
+Interpolation can be achieved using JavaScript template syntax.  
 Example: if there is a context text variable called `name` and the expression is ```My name is ${ $.name }```, on preview mode the variable value will replace it.
 {% endhint %}
 
