@@ -14,12 +14,19 @@ Type: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-
 #### Message
 
 Content of the message displayed  
-Type: text
+Type: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
 #### Icon
 
-Icon displayed in the message's modal. The options are: success, error, warning, info and question  
-Type: text
+Icon displayed in the message's modal. The options are:
+
+* Success \(value `success`\)
+* Error \(value `error`\)  
+* Warning \(value `warning`\)   
+* Information \(value `info`\)  
+* Question mark \(value `question`\)
+
+Type: discrete [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
 ### Outcomes
 
