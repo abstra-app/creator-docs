@@ -7,7 +7,7 @@ This action is used to insert rows into a [table](../../back-end/tables.md) you 
 #### Table
 
 Select the table you are going to insert the data into.  
-Type: [tableId](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#tableId)
+Type: [tableId](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#tableid)
 
 #### Values
 
