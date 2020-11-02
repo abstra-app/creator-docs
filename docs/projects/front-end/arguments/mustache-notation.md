@@ -1,8 +1,6 @@
 # Mustache notation
 
-All text inputs values of arguments can have dynamic values with mustache notation. 
-
-Mustache notation is a template syntax for JavaScript that allows for logic-less templates.
+You can add dynamic values to all arguments that have a text input UI with mustache notation. Mustache notation is a template syntax that allows for logic-less templates.
 
 For example:
 
