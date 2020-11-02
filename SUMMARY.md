@@ -50,6 +50,7 @@
       * [Upload](docs/projects/front-end/actions/upload.md)
     * [Arguments](docs/projects/front-end/arguments/README.md)
       * [Expression mode](docs/projects/front-end/arguments/expression-mode.md)
+      * [References](docs/projects/front-end/arguments/references.md)
       * [Mustache notation](docs/projects/front-end/arguments/mustache-notation.md)
       * [Argument types](docs/projects/front-end/arguments/argument-types.md)
     * [Variables](docs/projects/front-end/variables.md)
