@@ -7,7 +7,7 @@ This action is used to fire a method from an [element](../elements/) on the scre
 #### Element
 
 Select the element and the method you wish to call.  
-Type: componentMethod
+Type: [componentMethod](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#componentmethod)
 
 ### Outcomes
 
