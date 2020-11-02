@@ -18,5 +18,5 @@ the evaluator will check the `isLoading` context [variable](../variables.md) to 
 
 ![](../../../../.gitbook/assets/isloading.gif)
 
-There are several other use cases for expression modes such as [dynamic interfaces](../../../../tutorials/common-tecniques/dynamic-interfaces.md), check them out in the section [common techniques](../../../../tutorials/common-tecniques/)
+There are several other use cases for expression modes such as [dynamic interfaces](../../../../tutorials/common-tecniques/dynamic-interfaces.md), check them out in the section [common techniques](../../../../tutorials/common-tecniques/).
 
