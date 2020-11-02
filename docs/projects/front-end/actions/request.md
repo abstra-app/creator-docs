@@ -14,7 +14,8 @@ Type: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-
 #### HTTP Method
 
 The method of the HTTP request. It should be one of  `GET`, `POST`, `PUT`, `PATCH`, `DELETE` or `OPTIONS`  
-Type: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
+Type: discrete [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)  
+Default: `GET`
 
 #### Headers
 
@@ -23,8 +24,13 @@ Type: [json](https://docs.abstra.app/docs/projects/front-end/arguments/argument-
 
 #### Loading type
 
-The loading feedback for while the request is being performed. Possible values are `overlay` and `none`  
-Type: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
+The loading feedback displayed while the request is being performed and processed. Possible values are:
+
+* Block screen \(value `overlay`\): a loading feedback will cover the screen
+* No feedback \(value `none`\): no feedback is displayed.
+
+Type: discrete [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)  
+Default: `overlay`
 
 #### Body
 
