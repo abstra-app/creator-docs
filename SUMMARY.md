@@ -70,7 +70,7 @@
   * [Centering elements](tutorials/common-tecniques/centering-elements.md)
   * [Upload files and save to a database](tutorials/common-tecniques/upload-files-and-save-to-a-database.md)
   * [Display external API data](tutorials/common-tecniques/display-external-api-data.md)
-* [Projects](tutorials/projects/README.md)
+* [Sample Projects](tutorials/projects/README.md)
   * [BMI Calculator](tutorials/projects/bmi-calculator.md)
   * [Joke Generator](tutorials/projects/joke-generator.md)
 

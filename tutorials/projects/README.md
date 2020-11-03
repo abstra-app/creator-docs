@@ -4,5 +4,5 @@ description: >-
   techniques and can be useful for beginers learning to use Abstra.
 ---
 
-# Projects
+# Sample Projects
 
