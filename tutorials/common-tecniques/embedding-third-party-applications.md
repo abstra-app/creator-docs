@@ -1,0 +1,8 @@
+# Embedding third party applications
+
+In this tutorial we will show you how to you can use the [iframe](../../docs/projects/front-end/elements/iframe.md) or [HTML](../../docs/projects/front-end/elements/html.md) elements to embed third party apps. The example is given with the video meeting app [Jitsi](https://meet.jit.si/).
+
+
+
+
+
