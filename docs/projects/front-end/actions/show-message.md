@@ -9,12 +9,12 @@ This action is used to display a modal in the screen with a message for the user
 #### Title
 
 Title of the message displayed  
-Type: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
+Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
 #### Message
 
 Content of the message displayed  
-Type: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
+Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
 #### Icon
 
@@ -26,7 +26,7 @@ Icon displayed in the message's modal. The options are:
 * Information \(value `info`\)  
 * Question mark \(value `question`\)
 
-Type: discrete [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
+Format: discrete [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
 ### Outcomes
 

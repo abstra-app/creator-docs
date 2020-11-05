@@ -7,12 +7,12 @@ This action is used to insert rows into a [table](../../back-end/tables.md) you 
 #### Table
 
 Select the table you are going to insert the data into.  
-Type: [tableId](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#tableid)
+Format: [tableId](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#tableid)
 
 #### Values
 
 Input the values of the columns for the row you are creating in the table. This field expects a JSON value in which the keys are the columns names and the values are the values you wish to insert. For example, if you have a table with columns `name` and `age`, and you wish to insert values `John` and `42`, the field should be `{"name": "John", "age": 42}`   
-Type: [json](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#json)
+Format: [json](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#json)
 
 ### Outcomes
 

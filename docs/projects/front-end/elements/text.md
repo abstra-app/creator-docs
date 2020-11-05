@@ -10,31 +10,31 @@ Common uses are titles, text content and descriptions.
 #### Text Value
 
 Text that will be displayed on the slot.  
-Type: [richText](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#richtext)  
+Format: [richText](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#richtext)  
 Default: `this is a text`
 
 #### Font Size
 
 Size of the font that will be displayed on the slot.  
-Type: [number](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#number)  
+Format: [number](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#number)  
 Default: `16`
 
 #### Font Color
 
 Color of the font that will be displayed on the slot.  
-Type: [color](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#color)  
+Format: [color](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#color)  
 Default: `#000000`
 
 #### Line Height
 
 Height of a line that will be displayed on the slot.  
-Type: [number](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#number)  
+Format: [number](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#number)  
 Default: `1.5`
 
 #### Alignment
 
 Text alignment inside the slot.  
-Type: [alignment](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#alignment)  
+Format: [alignment](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#alignment)  
 Default: `center`
 
 ### Methods

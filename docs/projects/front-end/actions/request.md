@@ -9,18 +9,18 @@ This action is used to make HTTP requests to an external API.
 #### URL
 
 The URL of the API for the HTTP request  
-Type: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
+Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
 #### HTTP Method
 
 The method of the HTTP request. It should be one of  `GET`, `POST`, `PUT`, `PATCH`, `DELETE` or `OPTIONS`  
-Type: discrete [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)  
+Format: discrete [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)  
 Default: `GET`
 
 #### Headers
 
 The header of the HTTP request. It should be a JSON object where the keys are the header fields, and the values are its respective values.  
-Type: [json](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#json)
+Format: [json](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#json)
 
 #### Loading type
 
@@ -29,13 +29,13 @@ The loading feedback displayed while the request is being performed and processe
 * Block screen \(value `overlay`\): a loading feedback will cover the screen
 * No feedback \(value `none`\): no feedback is displayed.
 
-Type: discrete [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)  
+Format: discrete [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)  
 Default: `overlay`
 
 #### Body
 
 The body of the HTTP request. It should be a JSON object where the keys are the header fields, and the values are its respective values.  
-Type: [json](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#json)
+Format: [json](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#json)
 
 ### Outcomes
 

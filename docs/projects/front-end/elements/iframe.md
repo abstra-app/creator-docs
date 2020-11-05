@@ -9,13 +9,13 @@ This component lets you render external pages with its embed URL
 #### **Source**
 
 Description: Iframe source URL  
-Type: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)  
+Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)  
 Default: Area 51 map in Google Maps 
 
 #### **Allow full screen**
 
 Description: Can this iframe be used in full screen?  
-Type: [boolean](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#boolean)  
+Format: [boolean](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#boolean)  
 Default: `false`
 
 ### Methods

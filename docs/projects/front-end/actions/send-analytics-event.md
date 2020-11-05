@@ -7,22 +7,22 @@ This action helps you integrate events that happen in your application with Goog
 #### Event Action
 
 Name of the event action for the analytics track  
-Type: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
+Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
 #### Event Category
 
 Name of the event category for the analytics track  
-Type: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
+Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
 #### Event Label
 
 Name of the event label for the analytics track  
-Type: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
+Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
 #### Event Value
 
 Value of the event for the analytics track  
-Type: [number](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#number)
+Format: [number](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#number)
 
 ### Outcomes
 

@@ -9,7 +9,7 @@ This action reroutes the user to a different page in your application
 #### Route
 
 What's the route of the page in your application you wish to redirect the user.  
-Type: [route](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#route)
+Format: [route](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#route)
 
 ### Outcomes
 
