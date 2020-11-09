@@ -14,7 +14,7 @@ For example if you set a text value argument of a [text component](../elements/t
 $.isLoading ? "Loading" : "Done!"
 ```
 
-the evaluator will check the `isLoading` context [variable](../variables/) to decide if its going display `Loading` or `Done!`. \(Yes, that is a ternary operator and they are very frequently used in expressions\)
+the evaluator will check the context object `$` for a `isLoading` [variable](../variables/) to decide if its going display `Loading` or `Done!`. \(Yes, that is a ternary operator and they are very frequently used in expressions\)
 
 ![](../../../../.gitbook/assets/isloading.gif)
 
