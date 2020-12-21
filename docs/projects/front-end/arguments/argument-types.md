@@ -142,7 +142,7 @@ Alongside the inputs there is a checkbox that unifies them in pairs
 
 It's expected an expression that can be evaluated as an object containing the following properties \(the dimension property must be one of [CSS units](https://www.w3schools.com/cssref/css_units.asp)\):
 
-```text
+```json
 {
   "top": { "value": 8, "dimension": "px" },
   "bottom": { "value": 8, "dimension": "px" },
@@ -168,7 +168,7 @@ Four number inputs for offset x , offset y, blur and spread and a color picker f
 
 It's expected an expression that can be evaluated as an object containing the following properties \(the color property must be one of [CSS colors](https://developer.mozilla.org/pt-BR/docs/Web/CSS/color_value)\):
 
-```text
+```json
 {
   "x": 5,
   "y": 4,
@@ -192,7 +192,7 @@ All inputs have a button alongside them that allows for individual setting of th
 
 It's expected an expression that can be evaluated as an object with the following properties \(where the `style` property is one of `none`, `solid`, `dashed` or `dotted`\)
 
-```text
+```json
 {
   "width": 0,
   "style": "solid",
@@ -223,15 +223,15 @@ It's expecter an array of objects with a "label" and a "value" property, eg:
 ``` json
 [
   {
-    label: "Option A",
-    value: 1
+    "label": "Option A",
+    "value": 1
   },
   {
-    label: "Option B",
-    value: 2
+    "label": "Option B",
+    "value": 2
   },{
-    label: "Option C",
-    value: 3
+    "label": "Option C",
+    "value": 3
   }
 ]
 ```
@@ -247,13 +247,13 @@ Remote refers to connectors or SQL queries
 
 When local, it allows any JS Array, eg:
 
-```text
+```json
 [ {name: "John", age: 45}, {name: "Anne", age: 34} ]
 ```
 
 Also, it can be an object with the type
 
-```text
+```json
 {
     remote: false,
     data: [ HERE IS THE DATA HARDCODED ],
