@@ -4,6 +4,7 @@
 
 ## Documentation <a id="docs"></a>
 
+* [Introduction (pt-BR)](intro/pt-BR.md)
 * [Workspace](docs/workspace.md)
 * [Projects](docs/projects/README.md)
   * [Front-end](docs/projects/front-end/README.md)
