@@ -219,7 +219,23 @@ TBP
 
 ### options
 
-TBP
+It's expecter an array of objects with a "label" and a "value" property, eg:
+``` json
+[
+  {
+    label: "Option A",
+    value: 1
+  },
+  {
+    label: "Option B",
+    value: 2
+  },{
+    label: "Option C",
+    value: 3
+  }
+]
+```
+The value of the input will be the "value" property of the selected option.
 
 ### query
 
