@@ -219,7 +219,7 @@ TBP
 
 ### options
 
-It's expecter an array of objects with a "label" and a "value" property, eg:
+It's expecter an array of objects with a `label` and a `value` property, eg:
 ``` json
 [
   {
@@ -235,7 +235,7 @@ It's expecter an array of objects with a "label" and a "value" property, eg:
   }
 ]
 ```
-The value of the input will be the "value" property of the selected option.
+The value of the input will be the `value` property of the selected option.
 
 ### query
 
@@ -248,16 +248,16 @@ Remote refers to connectors or SQL queries
 When local, it allows any JS Array, eg:
 
 ```json
-[ {name: "John", age: 45}, {name: "Anne", age: 34} ]
+[ { "name": "John", "age": 45 }, { "name": "Anne", "age": 34 } ]
 ```
 
 Also, it can be an object with the type
 
 ```json
 {
-    remote: false,
-    data: [ HERE IS THE DATA HARDCODED ],
-    arguments
+    "remote": false,
+    "data": [ HERE IS THE DATA HARDCODED ],
+    "arguments": {}
 }
 ```
 
