@@ -60,7 +60,7 @@
     * [Tables](docs/projects/back-end/tables.md)
     * [Connectors](docs/projects/back-end/connectors.md)
   * [Settings](docs/projects/settings/README.md)
-    * [Production](docs/projects/settings/production.md)
+    * [Releases](docs/projects/settings/releases.md)
     * [Authentication](docs/projects/settings/authentication.md)
     * [Metadata](docs/projects/settings/metadata.md)
 
