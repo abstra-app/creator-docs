@@ -4,110 +4,110 @@ description: Each argument has a type with a different UI and expected expressio
 
 # Argument types
 
-### text
+## text
 
 ![Simple text, without formatting.](../../../../.gitbook/assets/image.png)
 
-#### UI
+### UI
 
 Text input. This input parses [mustache notation](mustache-notation.md).
 
-#### Expression Mode
+### Expression Mode
 
 It's expected an expression that will be evaluated as a string.
 
 {% hint style="info" %}
 Interpolation can be achieved using JavaScript template syntax.  
-Example: if there is a context text variable called `name` and the expression is ```My name is ${ $.name }```, on preview mode the variable value will replace it.
+Example: if there is a context text variable called `name` and the expression is `My name is ${ $.name }`, on preview mode the variable value will replace it.
 {% endhint %}
 
-### richText
+## richText
 
 ![Rich text formatting implemented over simple text type.](../../../../.gitbook/assets/richtext.gif)
 
-#### UI
+### UI
 
 Rich text input.  
 Selecting brings the rich text editor with options such as **bold**, _italic_ and `code`. Rich text shortcuts are also available.
 
-#### Expression Mode
+### Expression Mode
 
 It's expected an expression that can be evaluated as a string.  
 For rich text formatting use HTML tags.
 
-### number
+## number
 
 ![Positive, negative and decimal numbers](../../../../.gitbook/assets/number.gif)
 
-#### UI
+### UI
 
 Number input with up and down buttons.
 
-#### Expression Mode
+### Expression Mode
 
 It's expected an expression that can be evaluated as a number.
 
-### boolean
+## boolean
 
 TBP
 
-### component
+## component
 
 TBP
 
-### componentId
+## componentId
 
 TBP
 
-### componentMethod
+## componentMethod
 
 TBP
 
-### variable
+## variable
 
 TBP
 
-### code
+## code
 
 TBP
 
-### json
+## json
 
 TBP
 
-### js
+## js
 
 TBP
 
-### html
+## html
 
 TBP
 
-### css
+## css
 
 TBP
 
-### color
+## color
 
 ![Simple color represented by a named color or hex values with opacity.](../../../../.gitbook/assets/color.gif)
 
-#### UI
+### UI
 
 Color picker with hex values, opacity and default colors.
 
-#### Expression Mode
+### Expression Mode
 
 It's expected an expression that can be evaluated as a string representing [CSS colors](https://developer.mozilla.org/pt-BR/docs/Web/CSS/color_value).
 
-### alignment
+## alignment
 
 ![Alignment of a component inside a slot.](../../../../.gitbook/assets/image%20%284%29.png)
 
-#### UI
+### UI
 
 Alignment input. Default is `center`.
 
-#### Expression Mode
+### Expression Mode
 
 It's expected an expression that can be evaluated as one of the following strings:
 
@@ -121,28 +121,28 @@ It's expected an expression that can be evaluated as one of the following string
 * `bottom-left`
 * `bottom-right`
 
-### background
+## background
 
 TBP
 
-### padding
+## padding
 
 ![The spacing between the contents and its border.](../../../../.gitbook/assets/padding.gif)
 
-#### UI
+### UI
 
 Four number inputs for top, bottom, left and right paddings.  
-Alongside the inputs there is a checkbox that unifies them in pairs 
+Alongside the inputs there is a checkbox that unifies them in pairs
 
 * `top + bottom`
 * `left + right`
 * `vertical + horizontal`
 
-#### Expression Mode
+### Expression Mode
 
 It's expected an expression that can be evaluated as an object containing the following properties \(the dimension property must be one of [CSS units](https://www.w3schools.com/cssref/css_units.asp)\):
 
-```json
+```javascript
 {
   "top": { "value": 8, "dimension": "px" },
   "bottom": { "value": 8, "dimension": "px" },
@@ -154,21 +154,21 @@ It's expected an expression that can be evaluated as an object containing the fo
 }
 ```
 
-### shadow
+## shadow
 
 ![The shadow beneath the component.](../../../../.gitbook/assets/shadow.gif)
 
 Shadow offsets for vertical and horizontal axis, spread, blur and color properties can be set.
 
-#### UI
+### UI
 
 Four number inputs for offset x , offset y, blur and spread and a color picker for the shadow color.
 
-#### Expression Mode
+### Expression Mode
 
 It's expected an expression that can be evaluated as an object containing the following properties \(the color property must be one of [CSS colors](https://developer.mozilla.org/pt-BR/docs/Web/CSS/color_value)\):
 
-```json
+```javascript
 {
   "x": 5,
   "y": 4,
@@ -178,21 +178,21 @@ It's expected an expression that can be evaluated as an object containing the fo
 }
 ```
 
-### border
+## border
 
 Border properties: `width`, `color`, `style` and `radius`.  
 All properties can be individually set for each side.
 
-#### UI
+### UI
 
 Two number inputs for border width and radius in pixels, one color picker for border color and one options input for border style \(available styles are none, solid, dashed and doted\).  
 All inputs have a button alongside them that allows for individual setting of the property.
 
-#### Expression Mode
+### Expression Mode
 
 It's expected an expression that can be evaluated as an object with the following properties \(where the `style` property is one of `none`, `solid`, `dashed` or `dotted`\)
 
-```json
+```javascript
 {
   "width": 0,
   "style": "solid",
@@ -201,26 +201,27 @@ It's expected an expression that can be evaluated as an object with the followin
 }
 ```
 
-### template
+## template
 
 TBP
 
-### subview
+## subview
 
 TBP
 
-### statementId
+## statementId
 
 TBP
 
-### columns
+## columns
 
 TBP
 
-### options
+## options
 
 It's expecter an array of objects with a `label` and a `value` property, eg:
-``` json
+
+```javascript
 [
   {
     "label": "Option A",
@@ -235,25 +236,26 @@ It's expecter an array of objects with a `label` and a `value` property, eg:
   }
 ]
 ```
+
 The value of the input will be the `value` property of the selected option.
 
-### query
+## query
 
 It can be remote or local
 
 Remote refers to connectors or SQL queries
 
-#### Expression Mode
+### Expression Mode
 
 When local, it allows any JS Array, eg:
 
-```json
+```javascript
 [ { "name": "John", "age": 45 }, { "name": "Anne", "age": 34 } ]
 ```
 
 Also, it can be an object with the type
 
-```json
+```javascript
 {
     "remote": false,
     "data": [ HERE IS THE DATA HARDCODED ],
@@ -263,31 +265,31 @@ Also, it can be an object with the type
 
 When it is remote
 
-### row
+## row
 
 TBP
 
-### route
+## route
 
 TBP
 
-### rowId
+## rowId
 
 TBP
 
-### tableId
+## tableId
 
 TBP
 
-### viewId
+## viewId
 
 TBP
 
-### expression
+## expression
 
 TBP
 
-### image
+## image
 
 Image file.
 
@@ -299,7 +301,7 @@ Input direct URL for the image or upload the asset.
 
 It's expected an expression that can be evaluated as string containing the direct URL for the asset.
 
-### graphql
+## graphql
 
 TBP
 
