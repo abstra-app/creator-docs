@@ -14,5 +14,3 @@ Abstra projects are composed of three main sections
 
 {% page-ref page="settings/" %}
 
-
-

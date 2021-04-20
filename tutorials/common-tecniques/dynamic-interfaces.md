@@ -4,7 +4,5 @@ You can use [the reusable interface component](../../docs/projects/front-end/ele
 
 Here is how you can do it:
 
-{% embed url="https://www.youtube.com/watch?v=gsw4OHgHdec&feature=youtu.be" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=gsw4OHgHdec&feature=youtu.be" caption="" %}
 

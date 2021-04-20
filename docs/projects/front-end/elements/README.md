@@ -19,5 +19,3 @@ Currently these are the supported components:
 * [Subview](subview.md)
 * [Iframe](iframe.md)
 
-
-

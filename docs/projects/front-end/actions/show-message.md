@@ -4,19 +4,19 @@ This action is used to display a modal in the screen with a message for the user
 
 ![](../../../../.gitbook/assets/showmessage.gif)
 
-### Arguments
+## Arguments
 
-#### Title
+### Title
 
 Title of the message displayed  
 Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
-#### Message
+### Message
 
 Content of the message displayed  
 Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
-#### Icon
+### Icon
 
 Icon displayed in the message's modal. The options are:
 
@@ -28,9 +28,9 @@ Icon displayed in the message's modal. The options are:
 
 Format: discrete [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
-### Outcomes
+## Outcomes
 
-#### Then
+### Then
 
 What happens after the person closes the message.  
 No additional information is loaded on the context.

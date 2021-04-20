@@ -4,25 +4,25 @@ This action is used to make HTTP requests to an external API.
 
 ![](../../../../.gitbook/assets/httprequest.gif)
 
-### Arguments
+## Arguments
 
-#### URL
+### URL
 
 The URL of the API for the HTTP request  
 Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
-#### HTTP Method
+### HTTP Method
 
-The method of the HTTP request. It should be one of  `GET`, `POST`, `PUT`, `PATCH`, `DELETE` or `OPTIONS`  
+The method of the HTTP request. It should be one of `GET`, `POST`, `PUT`, `PATCH`, `DELETE` or `OPTIONS`  
 Format: discrete [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)  
 Default: `GET`
 
-#### Headers
+### Headers
 
 The header of the HTTP request. It should be a JSON object where the keys are the header fields, and the values are its respective values.  
 Format: [json](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#json)
 
-#### Loading type
+### Loading type
 
 The loading feedback displayed while the request is being performed and processed. Possible values are:
 
@@ -32,18 +32,18 @@ The loading feedback displayed while the request is being performed and processe
 Format: discrete [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)  
 Default: `overlay`
 
-#### Body
+### Body
 
 The body of the HTTP request. It should be a JSON object where the keys are the header fields, and the values are its respective values.  
 Format: [json](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#json)
 
-### Outcomes
+## Outcomes
 
-#### Success
+### Success
 
-The action you wish to execute after the request is successfully made.  The response is fed into the context as the response variable, accessible through mustache notation as `{{ response }}` or in the expression mode as `$.response`
+The action you wish to execute after the request is successfully made. The response is fed into the context as the response variable, accessible through mustache notation as `{{ response }}` or in the expression mode as `$.response`
 
-#### Failure
+### Failure
 
 The action you wish to execute if something goes wrong with the request. The error is fed into the context as the error variable, accessible through mustache notation as `{{ error }}` or in the expression mode as `$.error`
 

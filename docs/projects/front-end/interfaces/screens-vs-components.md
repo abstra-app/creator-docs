@@ -2,11 +2,11 @@
 
 There are two types of interfaces: **generic interfaces** and **pages**
 
-### Generic ****interfaces
+## Generic _\*\*_interfaces
 
 Usually used inside other interfaces as a [reusable interface component](../elements/subview.md) for better design experience and maintenance of the application.
 
-### Pages
+## Pages
 
 Pages are the interfaces that will accessible via URL.
 

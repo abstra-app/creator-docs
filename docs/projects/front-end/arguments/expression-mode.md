@@ -8,7 +8,7 @@ As the name states, this field expects a JavaScript expression that will be eval
 **JavaScript Expressions** are any unit of code that can be evaluated to a value. Here is an interesting [article](https://medium.com/launch-school/javascript-expressions-and-statements-4d32ac9c0e74) about it.
 {% endhint %}
 
-For example if you set a text value argument of a [text component](../elements/text.md) with expression mode to 
+For example if you set a text value argument of a [text component](../elements/text.md) with expression mode to
 
 ```text
 $.isLoading ? "Loading" : "Done!"

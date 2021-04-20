@@ -4,9 +4,3 @@ In this tutorial we will show you how to you can use the [iframe](../../docs/pro
 
 {% embed url="https://www.youtube.com/watch?v=WilsCqqNS9c" caption="note that the permission errors shown are due to the tutorial recording conflict with the browser API" %}
 
-
-
-
-
-
-

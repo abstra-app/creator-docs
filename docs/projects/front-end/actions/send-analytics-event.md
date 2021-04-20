@@ -2,36 +2,36 @@
 
 This action helps you integrate events that happen in your application with Google Analytics.
 
-### Arguments
+## Arguments
 
-#### Event Action
+### Event Action
 
 Name of the event action for the analytics track  
 Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
-#### Event Category
+### Event Category
 
 Name of the event category for the analytics track  
 Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
-#### Event Label
+### Event Label
 
 Name of the event label for the analytics track  
 Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
 
-#### Event Value
+### Event Value
 
 Value of the event for the analytics track  
 Format: [number](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#number)
 
-### Outcomes
+## Outcomes
 
-#### Success
+### Success
 
 What happens if everything goes OK with the analytics track  
 No additional information is loaded on the context.
 
-#### Fail
+### Fail
 
 What happens if something goes wrong with the analytics track.  
 The error is injected on the context for the next action, accessible via `{{error}}` with mustache notation or `$.error` on expression mode.
