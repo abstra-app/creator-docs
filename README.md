@@ -1,4 +1,4 @@
 # What is Abstra?
 
-Abstra é uma plataforma lowcode 
+Abstra é uma plataforma lowcode
 
