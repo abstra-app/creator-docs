@@ -4,5 +4,5 @@ description: >-
   applications or very useful but may not be intuitive.
 ---
 
-# Common Techniques
+# Tutorials
 

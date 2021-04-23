@@ -5,34 +5,30 @@
   * [Workspace](quickstart/workspace.md)
 * [FAQ](faq.md)
 * [Whats New?](whats-new.md)
-* [Data Privacy and Security](data-privacy-and-security.md)
+
+## Connectors
+
+* [What is a Connector?](connectors/what-is-a-connector/README.md)
+  * [Telegram](connectors/what-is-a-connector/telegram.md)
+  * [SSH Server](connectors/what-is-a-connector/ssh-server.md)
+  * [MS SQL Server \(Beta\)](connectors/what-is-a-connector/ms-sql-server-beta.md)
+  * [RESTful API](connectors/what-is-a-connector/restful-api.md)
+  * [PostgreSQL](connectors/what-is-a-connector/postgresql.md)
+  * [MySQL](connectors/what-is-a-connector/mysql.md)
+  * [GraphQL](connectors/what-is-a-connector/graphql.md)
 
 ## Guides
 
-* [Exemplos de uso do Abstra?](guides/exemplos-de-uso-do-abstra.md)
-* [Mercado Financeiro](guides/mercado-financeiro.md)
-* [Industria](guides/industria.md)
-* [Dashboard](guides/dashboard.md)
-* [Agenda](guides/agenda.md)
-* [Common Techniques](guides/common-tecniques/README.md)
+* [Tutorials](guides/common-tecniques/README.md)
   * [Dynamic interfaces](guides/common-tecniques/dynamic-interfaces.md)
   * [Centering elements](guides/common-tecniques/centering-elements.md)
   * [Embedding third party applications](guides/common-tecniques/embedding-third-party-applications.md)
   * [Authentication with Auth0](guides/common-tecniques/auth-with-auth0.md)
 * [Sample Projects](guides/projects/README.md)
   * [BMI Calculator](guides/projects/bmi-calculator.md)
+  * [Agenda](guides/projects/agenda/README.md)
+    * [Dashboard](guides/projects/agenda/dashboard.md)
   * [Joke Generator](guides/projects/joke-generator.md)
-
-## Connectors
-
-* [What is a Connector?](connectors/what-is-a-connector.md)
-* [GraphQL](connectors/graphql.md)
-* [MySQL](connectors/mysql.md)
-* [PostgreSQL](connectors/postgresql.md)
-* [RESTful API](connectors/restful-api.md)
-* [MS SQL Server \(Beta\)](connectors/ms-sql-server-beta.md)
-* [SSH Server](connectors/ssh-server.md)
-* [Telegram](connectors/telegram.md)
 
 ## Reference <a id="docs"></a>
 
