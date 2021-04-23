@@ -1,6 +1,6 @@
 # Quickstart
 
-## Getting Super Powers
+Vídeo da landing versão longa, "explicativo"
 
 
 
