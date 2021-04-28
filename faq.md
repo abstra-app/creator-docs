@@ -6,7 +6,7 @@ description: Frequently Asked Questions
 
 ## **What does Abstra do? - G**
 
-Abstra is a low code tool made for automating internal demands and to create MVPs.
+Abstra is a low code developing platform, designed to to make software development faster and easier. It's a powerful tool for building internal tools, dashboards, MVPs and basically any type of CRUD application.
 
 ## **Who is a user in Abstra?**
 
@@ -24,9 +24,19 @@ Not much. You can learn in few minutes the general workflow of creating apps, an
 
 Yes. We recommend you to use the connector API for that kind of situation
 
-##  **What kind of app can I develop with Abstra? -M**
+
+
+##  **What kind of app can I develop with Abstra?**
+
+Abstra is perfect for Data Apps
 
 ## **What's the difference between editor and end user? -M**
+
+
+
+An Editor is anyone who's using Abstra to develop an app.
+
+An End User is anyone who's using that application after it's done.
 
 ## Do I have to pay a license for each end user?
 
