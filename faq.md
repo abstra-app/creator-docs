@@ -18,7 +18,7 @@ We have a variety of connectors: to SQL databases \(Postgres, MySQL, MS SQL\) as
 
 ## **How long does it take to learn Abstra? -A**
 
-Not much. You can learn in few minutes the general workflow of creating apps, and a few hours to understand more complicated logics
+Not much. You can learn in few minutes the general workflow of creating apps, and a few hours to understand more complicated logics.
 
 ## **I have complicated logic in my app. Will Abstra work for me? -A**
 
