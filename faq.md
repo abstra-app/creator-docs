@@ -48,5 +48,7 @@ Yes. You can export your app and deploy in any cloud service.
 
 ## **How does authentication work in Abstra?** 
 
+We use Auth0 as authentication service.
+
 \*\*\*\*
 

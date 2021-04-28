@@ -1,4 +1,38 @@
 # GraphQL
 
-![](https://github.com/abstra-app/docs/tree/5dbaa723b27ddb6989a9ebb8833cc3d83d135916/.gitbook/assets/screenshot-from-2021-04-20-15-19-05.png)
+
+
+![](../../.gitbook/assets/screenshot_from_2021-04-26_09-35-32.png)
+
+You can write regular GraphQL here, for example:
+
+```text
+SELECT * FROM "Users" u WHERE u.name LIKE '%John%'
+```
+
+#### Passing parameters to the query
+
+You can add **params** to your query by naming them **$variable**. When you use this query in the frontend, you can dinamically fill the parameters:
+
+```text
+SELECT * FROM "Users" u WHERE u.name = $name
+```
+
+Insert example:
+
+```text
+INSERT INTO "Users"(name, email) VALUES ($name,$email)
+```
+
+Update example:
+
+```text
+UPDATE "Users" SET name = $name WHERE u.email = $email
+```
+
+Delete example:
+
+```text
+DELETE FROM "Users" WHERE u.email = $email
+```
 
