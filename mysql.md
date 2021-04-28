@@ -1,10 +1,12 @@
-# GraphQL
+# MySQL
 
+![Configuration](.gitbook/assets/screenshot_from_2021-04-26_16-04-31.png)
 
+![Queries](.gitbook/assets/image%20%2821%29.png)
 
-![](../../.gitbook/assets/screenshot_from_2021-04-26_09-35-32.png)
+#### MySQL Queries
 
-You can write regular GraphQL here, for example:
+You can write regular [MySQL queries](https://dev.mysql.com/doc/) here, for example:
 
 ```text
 SELECT * FROM "Users" u WHERE u.name LIKE '%John%'

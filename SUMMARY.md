@@ -1,22 +1,24 @@
 # Table of contents
 
 * [What is Abstra?](README.md)
-* [Quickstart](quickstart/README.md)
-  * [Workspace](quickstart/workspace.md)
+* [Quickstart](quickstart.md)
 * [FAQ](faq.md)
 * [Whats New?](whats-new.md)
 
 ## Connectors
 
-* [What is a Connector?](connectors/what-is-a-connector/README.md)
-  * [GraphQL](connectors/what-is-a-connector/graphql.md)
-  * [PostgreSQL](connectors/what-is-a-connector/postgresql.md)
-  * [MySQL](connectors/what-is-a-connector/mysql.md)
-  * [RESTful API](connectors/what-is-a-connector/restful-api.md)
-  * [MS SQL Server \(Beta\)](connectors/what-is-a-connector/ms-sql-server-beta.md)
-  * [SSH Server](connectors/what-is-a-connector/ssh-server.md)
-  * [Telegram](connectors/what-is-a-connector/telegram.md)
-  * [MongoDB](connectors/what-is-a-connector/mongodb.md)
+* [Why use Connectors?](connectors/what-is-a-connector.md)
+
+---
+
+* [GraphQL](graphql.md)
+* [PostgreSQL](postgresql.md)
+* [MySQL](mysql.md)
+* [RESTful API](restful-api.md)
+* [MS SQL Server \(Beta\)](ms-sql-server-beta.md)
+* [SSH Server](ssh-server.md)
+* [Telegram](telegram.md)
+* [MongoDB](mongodb.md)
 
 ## Guides
 

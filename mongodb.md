@@ -1,6 +1,6 @@
 # MongoDB
 
-![](../../.gitbook/assets/screenshot_from_2021-04-26_16-14-57.png)
+![](.gitbook/assets/screenshot_from_2021-04-26_16-14-57.png)
 
 #### Mongodb Queries
 
