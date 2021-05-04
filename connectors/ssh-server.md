@@ -2,9 +2,9 @@
 
 
 
-![Configuration](.gitbook/assets/screenshot_from_2021-04-26_16-10-46.png)
+![Configuration](../.gitbook/assets/screenshot_from_2021-04-26_16-10-46.png)
 
-![Queries](.gitbook/assets/image%20%2810%29.png)
+![Queries](../.gitbook/assets/image%20%2810%29.png)
 
 #### SSH Commands
 

@@ -1,8 +1,8 @@
 # MS SQL Server \(Beta\)
 
-![Configuration](.gitbook/assets/screenshot_from_2021-04-26_16-08-55.png)
+![Configuration](../.gitbook/assets/screenshot_from_2021-04-26_16-08-55.png)
 
-![Queries](.gitbook/assets/image%20%2816%29.png)
+![Queries](../.gitbook/assets/image%20%2816%29.png)
 
 You can write regular [SQL Server queries](https://www.sqlservertutorial.net/) here, for example:
 

@@ -2,9 +2,9 @@
 
 
 
-![Configuration](.gitbook/assets/screenshot_from_2021-04-26_09-35-32.png)
+![Configuration](../.gitbook/assets/screenshot_from_2021-04-26_09-35-32.png)
 
-![Queries](.gitbook/assets/image%20%289%29.png)
+![Queries](../.gitbook/assets/image%20%289%29.png)
 
 
 

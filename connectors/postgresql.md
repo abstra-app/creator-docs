@@ -1,8 +1,8 @@
 # PostgreSQL
 
-![Configuration ](.gitbook/assets/screenshot_from_2021-04-26_16-05-57.png)
+![Configuration ](../.gitbook/assets/screenshot_from_2021-04-26_16-05-57.png)
 
-![Queries](.gitbook/assets/image%20%2812%29.png)
+![Queries](../.gitbook/assets/image%20%2812%29.png)
 
 
 
