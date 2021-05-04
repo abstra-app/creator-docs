@@ -77,5 +77,13 @@
 
 ## Connectors
 
-* [Untitled](connectors/untitled.md)
-
+* [What is a connector?](connectors/what-is-a-connector.md)
+* [REST APIs](connectors/restful-api.md)
+* [GraphQL](connectors/graphql.md)
+* [PostgreSQL](connectors/postgresql.md)
+* [MongoDB](connectors/mongodb.md)
+* [DynamoDB](connectors/dynamodb.md)
+* [MySQL](connectors/mysql.md)
+* [Microsoft SQL Server](connectors/ms-sql-server-beta.md)
+* [SSH](connectors/ssh-server.md)
+* [Telegram](connectors/telegram.md)
