@@ -1,12 +1,10 @@
-# SSH Server
-
-
+# SSH
 
 ![Configuration](../.gitbook/assets/screenshot_from_2021-04-26_16-10-46.png)
 
 ![Queries](../.gitbook/assets/image%20%2810%29.png)
 
-#### SSH Commands
+## SSH Commands
 
 You can write regular shell commands here, for example:
 
@@ -14,7 +12,7 @@ You can write regular shell commands here, for example:
 python cli.py 'Abstra'
 ```
 
-#### Passing parameters to the command
+## Passing parameters to the command
 
 You can add **params** to your command by adding **:** in front of named keywords. When you use this query in the frontend, you can can dinamically fill the parameters:
 

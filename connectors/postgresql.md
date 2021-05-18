@@ -4,15 +4,13 @@
 
 ![Queries](../.gitbook/assets/image%20%2812%29.png)
 
-
-
 You can write regular [PostgreSQL queries](https://www.postgresql.org/docs/9.4/queries.html) here, for example:
 
 ```text
 SELECT * FROM "Users" u WHERE u.name LIKE '%John%'
 ```
 
-#### Passing parameters to the query
+## Passing parameters to the query
 
 You can add **params** to your query by naming them **$1**, **$2**, **$3**, ... When you use this query in the frontend, you can dinamically fill the parameters:
 
