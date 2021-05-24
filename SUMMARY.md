@@ -67,6 +67,7 @@
 ## Tutorials
 
 * [Common Techniques](tutorials/common-tecniques/README.md)
+  * [Connecting with Google Sheets](tutorials/common-tecniques/google-sheets.md)
   * [Dynamic interfaces](tutorials/common-tecniques/dynamic-interfaces.md)
   * [Centering elements](tutorials/common-tecniques/centering-elements.md)
   * [Embedding third party applications](tutorials/common-tecniques/embedding-third-party-applications.md)
