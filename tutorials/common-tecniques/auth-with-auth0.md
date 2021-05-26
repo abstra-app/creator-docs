@@ -1,6 +1,6 @@
 # Authentication with Auth0
 
-In this tutorial we will show you how to integrate [Auth0](https://auth0.com/) with Abstra to enable in app [authentication](../../docs/projects/settings/authentication.md) with the [Sign-in](../../docs/projects/front-end/actions/login.md) and [Sign-out](../../docs/projects/front-end/actions/logout.md) actions.
+In this tutorial we will show you how to integrate [Auth0](https://auth0.com/) with Abstra to enable in app [authentication](../../docs/projects/settings/authentication.md) with the [Sign-in]() and [Sign-out]() actions.
 
 ## Auth0 Settings
 
@@ -42,7 +42,7 @@ Paste the `Client ID` in the respective field.
 
 ![](../../.gitbook/assets/auth0-abstra.png)
 
-And that's it, now you can use the [Sign-in](../../docs/projects/front-end/actions/login.md) and [Sign-out](../../docs/projects/front-end/actions/logout.md) actions.
+And that's it, now you can use the [Sign-in]() and [Sign-out]() actions.
 
 ## Example
 

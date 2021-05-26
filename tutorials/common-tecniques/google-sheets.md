@@ -1,6 +1,6 @@
 # Connecting with Google Sheets
 
-In this tutorial we will show you how to integrate [Sheets API](https://developers.google.com/sheets/api/guides/concepts) data using the [values.get](https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets.values/get) method with Abstra and display them in a [table](../../docs/projects/front-end/elements/table.md) or [list](../../docs/projects/front-end/elements/collection.md).
+In this tutorial we will show you how to integrate [Sheets API](https://developers.google.com/sheets/api/guides/concepts) data using the [values.get](https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets.values/get) method with Abstra and display them in a [table]() or [list]().
 
 ## Google Sheets API
 
