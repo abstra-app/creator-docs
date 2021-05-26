@@ -2,6 +2,19 @@
 
 * [Table of Contents](README.md)
 
+## Tutorials
+
+* [Sample Projects](tutorials/projects/README.md)
+  * [BMI Calculator](tutorials/projects/bmi-calculator.md)
+  * [Joke Generator](tutorials/projects/joke-generator.md)
+* [Common Techniques](tutorials/common-tecniques/README.md)
+  * [Connecting with Google Sheets](tutorials/common-tecniques/google-sheets.md)
+  * [Dynamic interfaces](tutorials/common-tecniques/dynamic-interfaces.md)
+  * [Centering elements](tutorials/common-tecniques/centering-elements.md)
+  * [Embedding third party applications](tutorials/common-tecniques/embedding-third-party-applications.md)
+  * [Authentication with Auth0](tutorials/common-tecniques/auth-with-auth0.md)
+  * [Integrating with Auth0 Roles](tutorials/common-tecniques/auth0-roles.md)
+
 ## Connectors
 
 * [What is a connector?](connectors/what-is-a-connector.md)
@@ -14,19 +27,6 @@
 * [Microsoft SQL Server](connectors/ms-sql-server-beta.md)
 * [SSH](connectors/ssh-server.md)
 * [Telegram](connectors/telegram.md)
-
-## Tutorials
-
-* [Common Techniques](tutorials/common-tecniques/README.md)
-  * [Connecting with Google Sheets](tutorials/common-tecniques/google-sheets.md)
-  * [Dynamic interfaces](tutorials/common-tecniques/dynamic-interfaces.md)
-  * [Centering elements](tutorials/common-tecniques/centering-elements.md)
-  * [Embedding third party applications](tutorials/common-tecniques/embedding-third-party-applications.md)
-  * [Authentication with Auth0](tutorials/common-tecniques/auth-with-auth0.md)
-  * [Integrating with Auth0 Roles](tutorials/common-tecniques/auth0-roles.md)
-* [Sample Projects](tutorials/projects/README.md)
-  * [BMI Calculator](tutorials/projects/bmi-calculator.md)
-  * [Joke Generator](tutorials/projects/joke-generator.md)
 
 ## Documentation <a id="docs"></a>
 
