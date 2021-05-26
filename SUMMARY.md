@@ -30,7 +30,6 @@
 
 ## Documentation <a id="docs"></a>
 
-* [Introduction \(pt-BR\)](docs/pt-br.md)
 * [Workspace](docs/workspace.md)
 * [Projects](docs/projects/README.md)
   * [Front-end](docs/projects/front-end/README.md)
