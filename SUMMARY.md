@@ -8,6 +8,7 @@
   * [BMI Calculator](tutorials/projects/bmi-calculator.md)
   * [Joke Generator](tutorials/projects/joke-generator.md)
 * [Common Techniques](tutorials/common-tecniques/README.md)
+  * [Using Table Types](tutorials/common-tecniques/table-types.md)
   * [Connecting with Google Sheets](tutorials/common-tecniques/google-sheets.md)
   * [Dynamic interfaces](tutorials/common-tecniques/dynamic-interfaces.md)
   * [Centering elements](tutorials/common-tecniques/centering-elements.md)
