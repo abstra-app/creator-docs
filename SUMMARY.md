@@ -4,10 +4,8 @@
 
 ## Tutorials
 
-* [Sample Projects](tutorials/projects/README.md)
-  * [BMI Calculator](tutorials/projects/bmi-calculator.md)
-  * [Joke Generator](tutorials/projects/joke-generator.md)
-* [Common Techniques](tutorials/common-tecniques/README.md)
+* [Lessons](tutorials/common-tecniques/README.md)
+  * [Replicating an ER Diagram on Hosted Tables](tutorials/common-tecniques/replicating-an-er-diagram-on-hosted-tables.md)
   * [Basic form](tutorials/common-tecniques/basic-form.md)
   * [Using Table Types](tutorials/common-tecniques/table-types.md)
   * [Connecting with Google Sheets](tutorials/common-tecniques/google-sheets.md)
@@ -16,6 +14,9 @@
   * [Embedding third party applications](tutorials/common-tecniques/embedding-third-party-applications.md)
   * [Authentication with Auth0](tutorials/common-tecniques/auth-with-auth0.md)
   * [Integrating with Auth0 Roles](tutorials/common-tecniques/auth0-roles.md)
+* [Sample Projects](tutorials/projects/README.md)
+  * [BMI Calculator](tutorials/projects/bmi-calculator.md)
+  * [Joke Generator](tutorials/projects/joke-generator.md)
 
 ## Connectors
 
