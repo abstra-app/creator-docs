@@ -30,6 +30,7 @@
 * [Microsoft SQL Server](connectors/ms-sql-server-beta.md)
 * [SSH](connectors/ssh-server.md)
 * [Telegram](connectors/telegram.md)
+* [E-mail](connectors/e-mail.md)
 
 ## Documentation <a id="docs"></a>
 
