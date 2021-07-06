@@ -14,7 +14,7 @@
   * [Embedding third party applications](tutorials/common-tecniques/embedding-third-party-applications.md)
   * [Authentication with Auth0](tutorials/common-tecniques/auth-with-auth0.md)
   * [Integrating with Auth0 Roles](tutorials/common-tecniques/auth0-roles.md)
-  * [Iterating over a variable](tutorials/common-tecniques/iterating-over-a-variable.md)
+  * [Iterating over a list](tutorials/common-tecniques/iterating-over-a-variable.md)
 * [Sample Projects](tutorials/projects/README.md)
   * [BMI Calculator](tutorials/projects/bmi-calculator.md)
   * [Joke Generator](tutorials/projects/joke-generator.md)
