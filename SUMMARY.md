@@ -45,6 +45,7 @@
       * [Slots and Cuts](docs/projects/front-end/slots/layouting.md)
       * [Size Types](docs/projects/front-end/slots/sizes.md)
     * [Components](docs/projects/front-end/elements/README.md)
+      * [Chart](docs/projects/front-end/elements/chart.md)
       * [Text](docs/projects/front-end/elements/text.md)
       * [Button](docs/projects/front-end/elements/button.md)
       * [Iframe](docs/projects/front-end/elements/iframe.md)
