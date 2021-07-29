@@ -43,3 +43,23 @@ After that, you can select the table you want to grab the data
 
 Now you can use this connector with Tables, Collections or Actions
 
+## Filtering
+
+Sometimes, you want to filter which elements of Airtable you will want to use. For this, we have a filtering feature.
+
+We will create another method for listing only completed tasks.
+
+![Creating a new task](../.gitbook/assets/create-list-only-completed.gif)
+
+Then we will add the filter property to this method
+
+![Adding a filter property](../.gitbook/assets/adding-a-filter-prop.gif)
+
+Now we can use [Airtable's formula syntax](https://support.airtable.com/hc/en-us/articles/203255215-Formula-field-reference)
+
+![Filter by formula](../.gitbook/assets/addind-filters.gif)
+
+Additionally, you can pass parameters to theses filters.
+
+![Passing parameters](../.gitbook/assets/passing-parameters.gif)
+
