@@ -4,6 +4,9 @@
 
 ## Tutorials
 
+* [Getting started](tutorials/getting-started.md)
+* [Reference](tutorials/reference/README.md)
+  * [Variables](tutorials/reference/variables.md)
 * [Lessons](tutorials/common-tecniques/README.md)
   * [Replicating an ER Diagram on Hosted Tables](tutorials/common-tecniques/replicating-an-er-diagram-on-hosted-tables.md)
   * [Basic form](tutorials/common-tecniques/basic-form.md)
