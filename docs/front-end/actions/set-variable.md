@@ -12,5 +12,5 @@ The `Variable name` selector displays all local and global variables available a
 
 ![](../../../.gitbook/assets/screenshot-from-2021-08-03-16-12-22.png)
 
-After successfully binding the value to your variable, you can execute any other action using that variable.
+After successfully binding the value to your variable, you can execute any other action using it.
 
