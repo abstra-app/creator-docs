@@ -4,7 +4,7 @@ There are two types of interfaces: **generic interfaces** and **pages**
 
 ### Generic ****interfaces
 
-Usually used inside other interfaces as a [reusable interface component]() for better design experience and maintenance of the application.
+Usually used inside other interfaces as a reusable interface component for better design experience and maintenance of the application.
 
 ### Pages
 
@@ -16,5 +16,5 @@ To change a generic interface to a page just put a `/` on the beginning of the n
 
 In the example above you will be able to access this interface with the URL `test.abstra.app/home` on the released application.
 
-For more on routes and parameters visit [routes and nesting]().
+For more on routes and parameters visit routes and nesting.
 
