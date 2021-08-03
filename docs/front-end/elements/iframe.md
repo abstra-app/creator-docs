@@ -9,18 +9,32 @@ This component lets you render external pages with its embed URL
 #### **Source**
 
 Description: Iframe source URL  
-Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)  
+Format: [text](https://docs.abstra.app/docs/front-end/arguments/argument-types#text)  
 Default: Area 51 map in Google Maps 
 
 #### **Allow full screen**
 
 Description: Can this iframe be used in full screen?  
-Format: [boolean](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#boolean)  
+Format: [boolean](https://docs.abstra.app/docs/front-end/arguments/argument-types#boolean)  
 Default: `false`
 
-### Methods
+#### **Allow camera**
 
-There is no method available for this component.
+Description: Can this iframe request camera use?  
+Format: [boolean](https://docs.abstra.app/docs/front-end/arguments/argument-types#boolean)  
+Default: `false`
+
+#### **Allow** microphone
+
+Description: Can this iframe request microphone use?  
+Format: [boolean](https://docs.abstra.app/docs/front-end/arguments/argument-types#boolean)  
+Default: `false`
+
+#### **Allow** diplay capture
+
+Description: Can this iframe request display capture?  
+Format: [boolean](https://docs.abstra.app/docs/front-end/arguments/argument-types#boolean)  
+Default: `false`
 
 ### Events
 

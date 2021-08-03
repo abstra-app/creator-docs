@@ -10,42 +10,45 @@ Common uses are titles, text content and descriptions.
 #### Text Value
 
 Text that will be displayed on the slot.  
-Format: [richText](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#richtext)  
+Format: [richText](https://docs.abstra.app/docs/front-end/arguments/argument-types#richtext)  
 Default: `this is a text`
 
 #### Font Size
 
 Size of the font that will be displayed on the slot.  
-Format: [number](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#number)  
+Format: [number](https://docs.abstra.app/docs/front-end/arguments/argument-types#number)  
 Default: `16`
 
 #### Font Color
 
 Color of the font that will be displayed on the slot.  
-Format: [color](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#color)  
+Format: [color](https://docs.abstra.app/docs/front-end/arguments/argument-types#color)  
 Default: `#000000`
 
 #### Line Height
 
 Height of a line that will be displayed on the slot.  
-Format: [number](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#number)  
+Format: [number](https://docs.abstra.app/docs/front-end/arguments/argument-types#number)  
 Default: `1.5`
 
 #### Alignment
 
 Text alignment inside the slot.  
-Format: [alignment](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#alignment)  
+Format: [alignment](https://docs.abstra.app/docs/front-end/arguments/argument-types#alignment)  
 Default: `center`
 
-### Methods
+#### Font Style
 
-There is no method available for this component.
+Font families for the element. Options are [CSS font-family](https://www.w3schools.com/cssref/pr_font_font-family.asp) properties.
+
+Format: discrete [text](https://docs.abstra.app/docs/front-end/arguments/argument-types#text)  
+Default: "Roboto", sans-serif
 
 ### Events
 
-The following are the events triggered by this component:
+The following are the events triggered by this element:
 
 #### On click
 
-When this component is clicked, a `click` event is triggered and actions with this trigger will be initiated. No additional information is loaded on the context.
+When this element is clicked, a `click` event is triggered and actions with this trigger will be initiated. No additional information is loaded on the context.
 
