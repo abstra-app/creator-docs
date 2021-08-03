@@ -1,4 +1,4 @@
-# Interfaces
+# Pages
 
 Interfaces are the building block of your front-end app that house the [slots](../slots/) for the [components](../elements/).
 

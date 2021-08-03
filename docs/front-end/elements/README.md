@@ -1,8 +1,6 @@
-# Components
+# Elements
 
-Components are the semantic blocks of your application. Each component is housed inside a [slot](../slots/) and has several [arguments](../arguments/) that control its behavior and appearance.
-
-GIF SELECTING COMPONENT HERE
+Elements are the semantic blocks of your application. Each element is housed inside a [slot](../slots/) and has several [arguments](../arguments/) that control its behavior and appearance.
 
 Currently these are the supported components:
 
