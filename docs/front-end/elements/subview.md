@@ -16,7 +16,7 @@ Use this component as a placeholder slot for you to add and organize your compon
 
 #### subview
 
-The interface to be rendered.  
+The component to be rendered.  
 Format: [subview](https://docs.abstra.app/docs/front-end/arguments/argument-types#subview)
 
 #### overflow
