@@ -1,6 +1,6 @@
 # Integrating with Auth0 Roles
 
-In this tutorial we will show you how to use [Auth0](https://auth0.com/) roles with Abstra to enable in app [authentication](../../docs/projects/settings/authentication.md) and permissions. We assume you have configured Auth0 credentials in your project \(see more [here](auth-with-auth0.md)\) 
+In this tutorial we will show you how to use [Auth0](https://auth0.com/) roles with Abstra to enable in app [authentication](../../docs/project-settings/authentication.md) and permissions. We assume you have configured Auth0 credentials in your project \(see more [here](auth-with-auth0.md)\) 
 
 ## Configuring Auth0
 

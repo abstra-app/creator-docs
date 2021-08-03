@@ -146,7 +146,7 @@ These are the reutilized elements on your interface. You can use them for navbar
 
 ### Global variables
 
-See [variables](reference/variables.md).
+See [variables](../docs/front-end/variables.md).
 
 See [Local variables](getting-started.md#local-variables).
 
@@ -182,7 +182,7 @@ This is the area where you can navigate through the entities of your view \(page
 
 ### Local variables
 
-See [variables](reference/variables.md).
+See [variables](../docs/front-end/variables.md).
 
 Variables are used to coordinate your application state. Just like in programming.
 

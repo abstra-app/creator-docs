@@ -1,6 +1,6 @@
 # Authentication with Auth0
 
-In this tutorial we will show you how to integrate [Auth0](https://auth0.com/) with Abstra to enable in app [authentication](../../docs/projects/settings/authentication.md) with the [Sign-in]() and [Sign-out]() actions.
+In this tutorial we will show you how to integrate [Auth0](https://auth0.com/) with Abstra to enable in app [authentication](../../docs/project-settings/authentication.md) with the [Sign-in]() and [Sign-out]() actions.
 
 ## Auth0 Settings
 
@@ -54,7 +54,7 @@ The first has a `Button`, an `Sign-in` action when it is clicked and a `Go To Pa
 
 ![](../../.gitbook/assets/auth0-p1.png)
 
-The second has a `Text` with [Mustache Notation](../../docs/projects/front-end/arguments/mustache-notation.md) and the `Text Value` is `My name is {{ user.profile.name }}`.  
+The second has a `Text` with [Mustache Notation](../../docs/front-end/arguments/mustache-notation.md) and the `Text Value` is `My name is {{ user.profile.name }}`.  
 
 
 ![](../../.gitbook/assets/auth0-p2.png)

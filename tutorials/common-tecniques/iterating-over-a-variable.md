@@ -10,5 +10,5 @@ You can dispatch an action for each item of that list creating a `forEach` actio
 
 This will execute the `welcomeMessage` method from `Email Provider` connector for each e-mail inside the emails list variable.  
   
-[Click here](../../connectors/e-mail.md) check out how to setup your an `E-mail Connector`.
+[Click here](../../docs/back-end/connectors/e-mail.md) check out how to setup your an `E-mail Connector`.
 
