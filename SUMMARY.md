@@ -52,7 +52,7 @@
     * [DynamoDB](docs/back-end/connectors/dynamodb.md)
     * [E-mail](docs/back-end/connectors/e-mail.md)
     * [GraphQL](docs/back-end/connectors/graphql.md)
-    * [Microsoft SQL Server](docs/back-end/connectors/ms-sql-server-beta.md)
+    * [Microsoft SQL Server](docs/back-end/connectors/ms-sql-server.md)
     * [MongoDB](docs/back-end/connectors/mongodb.md)
     * [MySQL](docs/back-end/connectors/mysql.md)
     * [PostgreSQL](docs/back-end/connectors/postgresql.md)
