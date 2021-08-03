@@ -14,3 +14,7 @@ The `Variable name` selector displays all local and global variables available a
 
 After successfully binding the value to your variable, you can execute any other action using it.
 
+The example below shows how to set a variable based on a previous action and use it on a next:
+
+![](../../../.gitbook/assets/getposts-example.gif)
+
