@@ -1,6 +1,6 @@
 # Call Element Method
 
-This action is used to fire a method from an [element](../elements/) on the screen.
+The `Call element method` action is used to fire a method from an [element](../elements/) on the screen.
 
 ![](../../../.gitbook/assets/screenshot-from-2021-08-04-13-38-08.png)
 
