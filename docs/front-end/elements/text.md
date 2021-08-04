@@ -1,6 +1,6 @@
 # Text
 
-This component lets you show rich text.   
+This element lets you show rich text.   
 Common uses are titles, text content and descriptions.
 
 ![](../../../.gitbook/assets/text.gif)

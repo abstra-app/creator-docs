@@ -44,6 +44,7 @@
     * [Argument types](docs/front-end/arguments/argument-types.md)
   * [Components](docs/front-end/components.md)
   * [Elements](docs/front-end/elements/README.md)
+    * [Collection](docs/front-end/elements/collection.md)
     * [Button](docs/front-end/elements/button.md)
     * [Chart](docs/front-end/elements/chart.md)
     * [Iframe](docs/front-end/elements/iframe.md)
