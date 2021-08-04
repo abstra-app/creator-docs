@@ -1,37 +1,14 @@
 # Show message
 
-This action is used to display a modal in the screen with a message for the user.
+The `Show message` action is used to display a message to the users of your application.
 
-![](../../../.gitbook/assets/showmessage.gif)
+![](../../../.gitbook/assets/screenshot-from-2021-08-04-18-27-14.png)
 
-### Arguments
+You can choose a `Title`,  a `Message`, a `Button Text` and an `Icon` to your message modal.
 
-#### Title
+![](../../../.gitbook/assets/screenshot-from-2021-08-04-18-27-18.png)
 
-Title of the message displayed  
-Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
+The example below shows the message with a title of "Welcome" and a message with the current user's name. After the user's confirmation, it redirects the user to the `/dashboard` page.
 
-#### Message
-
-Content of the message displayed  
-Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
-
-#### Icon
-
-Icon displayed in the message's modal. The options are:
-
-* Success \(value `success`\)
-* Error \(value `error`\)  
-* Warning \(value `warning`\)   
-* Information \(value `info`\)  
-* Question mark \(value `question`\)
-
-Format: discrete [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
-
-### Outcomes
-
-#### Then
-
-What happens after the person closes the message.  
-No additional information is loaded on the context.
+![](../../../.gitbook/assets/screenshot-from-2021-08-04-18-28-40.png)
 
