@@ -17,6 +17,13 @@ function getPostContent() {
 getPostContent();
 ```
 
+You are not restricted to define and call functions inside the `code` argument, any valid JS code snippet can be executed. Example:
+
+```javascript
+const foo = "bar";
+console.log(foo);
+```
+
 You can trigger subsequent actions in case of success or error. The example below shows the message `Success` when the code executes without any errors and shows the message `Error` when the code throws an error.
 
 ![](../../../.gitbook/assets/screenshot-from-2021-08-04-13-36-13.png)
