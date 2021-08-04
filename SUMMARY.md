@@ -24,6 +24,7 @@
 
 * [Front-end](docs/front-end/README.md)
   * [Actions](docs/front-end/actions/README.md)
+    * [Hosted Tables](docs/front-end/actions/hosted-tables.md)
     * [Set variable](docs/front-end/actions/set-variable.md)
     * [If ... then ... else](docs/front-end/actions/if-then-else.md)
     * [Execute JavaScript code](docs/front-end/actions/execute-javascript-code.md)
