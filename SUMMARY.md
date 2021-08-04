@@ -28,6 +28,7 @@
     * [If ... then ... else](docs/front-end/actions/if-then-else.md)
     * [Execute JavaScript code](docs/front-end/actions/execute-javascript-code.md)
     * [Call Element Method](docs/front-end/actions/component-method.md)
+    * [Load external script](docs/front-end/actions/load-external-script.md)
     * [Show message](docs/front-end/actions/show-message.md)
     * [Send analytics event](docs/front-end/actions/send-analytics-event.md)
     * [Go back](docs/front-end/actions/back-page.md)
