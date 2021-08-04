@@ -1,6 +1,6 @@
 # If ... then ... else
 
-The `If ... then ... else` action lets test a condition and control your application's action flow.
+The `If ... then ... else` action tests a condition and control your application's action flow.
 
 ![](../../../.gitbook/assets/screenshot-from-2021-08-03-19-38-46.png)
 
