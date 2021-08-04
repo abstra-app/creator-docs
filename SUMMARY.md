@@ -32,6 +32,7 @@
     * [Upload file](docs/front-end/actions/upload-file.md)
     * [Scroll to element](docs/front-end/actions/scroll-to-element.md)
     * [Periodic](docs/front-end/actions/periodic.md)
+    * [For each](docs/front-end/actions/for-each.md)
     * [Show message](docs/front-end/actions/show-message.md)
     * [Send analytics event](docs/front-end/actions/send-analytics-event.md)
     * [Go back](docs/front-end/actions/back-page.md)
