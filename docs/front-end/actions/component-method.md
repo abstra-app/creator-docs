@@ -1,4 +1,4 @@
-# Call Element Method
+# Call element method
 
 The `Call element method` action is used to fire a method from an [element](../elements/) on the screen.
 
