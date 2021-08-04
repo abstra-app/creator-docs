@@ -4,7 +4,7 @@ description: Plot data
 
 # Chart
 
-When you want to plot data, you can use the Chart component. _\(Only on the flex engine\)_
+When you want to plot data, you can use the Chart element. _\(Only on the flex engine\)_
 
 ![Example usage](../../../.gitbook/assets/image%20%2811%29.png)
 
