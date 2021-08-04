@@ -12,3 +12,5 @@ A common use case is loading the Google Charts library to create custom charts f
 
 ![](../../../.gitbook/assets/chartts.gif)
 
+You can also use it to load a JS library like `lodash` and use it in your custom JS code snippets.
+
