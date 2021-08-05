@@ -36,6 +36,7 @@
     * [Periodic](docs/front-end/actions/periodic.md)
     * [For each](docs/front-end/actions/for-each.md)
     * [Show message](docs/front-end/actions/show-message.md)
+    * [Show modal](docs/front-end/actions/show-modal.md)
     * [Send analytics event](docs/front-end/actions/send-analytics-event.md)
     * [Go back](docs/front-end/actions/back-page.md)
     * [Go to page](docs/front-end/actions/change-page.md)
