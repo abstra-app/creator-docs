@@ -1,7 +1,7 @@
 # Text
 
-This element lets you show rich text.   
-Common uses are titles, text content and descriptions.
+This element lets you show rich text, such as paragraphs or a simple label.  
+Common uses are titles, text content, and descriptions.
 
 ![](../../../.gitbook/assets/text.gif)
 
