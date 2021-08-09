@@ -43,6 +43,7 @@
     * [Go back](docs/front-end/actions/back-page.md)
     * [External link](docs/front-end/actions/external-link.md)
     * [Sign in / Sign up](docs/front-end/actions/sign-in-sign-up.md)
+    * [Logout / Sign out](docs/front-end/actions/logout-sign-out.md)
   * [Arguments](docs/front-end/arguments/README.md)
     * [Expression mode](docs/front-end/arguments/expression-mode.md)
     * [References](docs/front-end/arguments/references.md)
