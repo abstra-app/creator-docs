@@ -4,6 +4,7 @@ Elements are the semantic blocks of your application. Each element is housed ins
 
 Currently these are the supported components:
 
+* [Rectangle](rectangle.md)
 * [Text](text.md)
 * [Button](button.md)
 * [Image]()
