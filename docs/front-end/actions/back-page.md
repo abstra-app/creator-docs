@@ -1,17 +1,16 @@
 # Go back
 
-This action sends your user to the last page he visited on your application.
+The `Go back` action is used to redirect the user of your application to the last page visited by the user.
 
-### Arguments
+![](../../../.gitbook/assets/screenshot-from-2021-08-09-11-19-20.png)
 
-This action needs no arguments
+You don't need to configure any argument for this action.
 
-### Outcomes
+![](../../../.gitbook/assets/screenshot-from-2021-08-09-11-19-24.png)
 
-#### Then
+The example below redirects the user to the previously accessed page after clicking the `Go back` button. After the redirect, it displays the `Success` message.
 
-What happens after the user is rerouted  
-No additional information is loaded on the context.
+![](../../../.gitbook/assets/screenshot-from-2021-08-09-11-21-32.png)
 
 
 
