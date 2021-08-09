@@ -1,38 +1,16 @@
 # Send analytics event
 
-This action helps you integrate events that happen in your application with Google Analytics.
+The `Send analytics event` action is used to dispatch your application's events to Google Analytics.
 
-### Arguments
+![](../../../.gitbook/assets/screenshot-from-2021-08-09-10-59-09.png)
 
-#### Event Action
+You can choose an `Event Action`, an `Event Category`, an `Event label` and an `Event value`.
 
-Name of the event action for the analytics track  
-Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
+![](../../../.gitbook/assets/screenshot-from-2021-08-09-10-59-26.png)
 
-#### Event Category
+The example below sends an analytics event after clicking on the `Get Posts` button. This event has the action `click`, the category `interaction`, the label `Get Posts` and the value `1`. In case of success, it displays the `Success` message. In case of an error, it displays the `Error` message with the `error` object thrown by the `Send analytics action`.
 
-Name of the event category for the analytics track  
-Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
+![](../../../.gitbook/assets/screenshot-from-2021-08-09-11-09-55.png)
 
-#### Event Label
 
-Name of the event label for the analytics track  
-Format: [text](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#text)
-
-#### Event Value
-
-Value of the event for the analytics track  
-Format: [number](https://docs.abstra.app/docs/projects/front-end/arguments/argument-types#number)
-
-### Outcomes
-
-#### Success
-
-What happens if everything goes OK with the analytics track  
-No additional information is loaded on the context.
-
-#### Fail
-
-What happens if something goes wrong with the analytics track.  
-The error is injected on the context for the next action, accessible via `{{error}}` with mustache notation or `$.error` on expression mode.
 
