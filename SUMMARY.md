@@ -41,6 +41,7 @@
     * [Send analytics event](docs/front-end/actions/send-analytics-event.md)
     * [Go to page](docs/front-end/actions/change-page.md)
     * [Go back](docs/front-end/actions/back-page.md)
+    * [External link](docs/front-end/actions/external-link.md)
   * [Arguments](docs/front-end/arguments/README.md)
     * [Expression mode](docs/front-end/arguments/expression-mode.md)
     * [References](docs/front-end/arguments/references.md)
