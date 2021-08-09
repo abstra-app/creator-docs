@@ -10,5 +10,3 @@ Actions can be reordered and reused. Just drag its trigger pills and delete obso
 
 ![](../../../.gitbook/assets/reorder-actions.gif)
 
-These are the actions and their description:
-
