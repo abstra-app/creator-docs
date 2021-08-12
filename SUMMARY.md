@@ -11,14 +11,12 @@
   * [Using Table Types](tutorials/common-tecniques/table-types.md)
   * [Connecting with Google Sheets](tutorials/common-tecniques/google-sheets.md)
   * [Dynamic interfaces](tutorials/common-tecniques/dynamic-interfaces.md)
-  * [Centering elements](tutorials/common-tecniques/centering-elements.md)
   * [Embedding third party applications](tutorials/common-tecniques/embedding-third-party-applications.md)
   * [Authentication with Auth0](tutorials/common-tecniques/auth-with-auth0.md)
   * [Integrating with Auth0 Roles](tutorials/common-tecniques/auth0-roles.md)
   * [Iterating over a list](tutorials/common-tecniques/iterating-over-a-variable.md)
 * [Sample Projects](tutorials/projects/README.md)
   * [BMI Calculator](tutorials/projects/bmi-calculator.md)
-  * [Joke Generator](tutorials/projects/joke-generator.md)
 
 ## Documentation <a id="docs"></a>
 
