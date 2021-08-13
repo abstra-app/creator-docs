@@ -93,7 +93,7 @@ TBP
 
 ## color
 
-![Simple color represented by a named color or hex values with opacity.](../../../.gitbook/assets/color.gif)
+![](../../../.gitbook/assets/color.png)
 
 ### UI
 
@@ -105,7 +105,7 @@ It's expected an expression that can be evaluated as a string representing [CSS 
 
 ## alignment
 
-![Alignment of a component inside a slot.](../../../.gitbook/assets/image%20%284%29.png)
+![](../../../.gitbook/assets/alignment.png)
 
 ### UI
 
@@ -131,7 +131,7 @@ TBP
 
 ## padding
 
-![The spacing between the contents and its border.](../../../.gitbook/assets/padding.gif)
+![](../../../.gitbook/assets/padding%20%281%29.gif)
 
 ### UI
 
@@ -160,7 +160,7 @@ It's expected an expression that can be evaluated as an object containing the fo
 
 ## shadow
 
-![The shadow beneath the component.](../../../.gitbook/assets/shadow.gif)
+![](../../../.gitbook/assets/shadow%20%281%29.gif)
 
 Shadow offsets for vertical and horizontal axis, spread, blur and color properties can be set.
 
@@ -184,6 +184,8 @@ It's expected an expression that can be evaluated as an object containing the fo
 
 ## border
 
+![](../../../.gitbook/assets/border.gif)
+
 Border properties: `width`, `color`, `style` and `radius`.  
 All properties can be individually set for each side.
 
@@ -204,10 +206,6 @@ It's expected an expression that can be evaluated as an object with the followin
   "radius": 4
 }
 ```
-
-## template
-
-TBP
 
 ## subview
 
