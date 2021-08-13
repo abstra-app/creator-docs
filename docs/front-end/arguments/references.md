@@ -8,23 +8,11 @@ You can reference four types of entities:
 
 * Variables
 * Components
-* Tables
 * Interfaces
 
 For example:
 
-In the `options` argument of a drop down component you can enter expression mode and create a reference `int` to a interface and use its `children` property to dynamically display them with the code:
-
-```text
-$.int.children.map(i => 
-  ({
-    label: i.name, 
-    value: i.id
-  })
-)
-```
-
-Here how it works:
+In the `Page or component` argument of a [Subview element](../elements/subview.md) you can enter expression mode and create references to other [components](../components.md) and create a logic to dynamically switch them with code:
 
 ![](../../../.gitbook/assets/referenceinteface.gif)
 

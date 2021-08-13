@@ -43,7 +43,7 @@ After that, you can select the table you want to grab the data
 
 Now you can use this connector with Tables, Collections or Actions
 
-## Filtering
+### Filtering
 
 Sometimes, you want to filter which elements of Airtable you will want to use. For this, we have a filtering feature.
 
@@ -62,4 +62,14 @@ Now we can use [Airtable's formula syntax](https://support.airtable.com/hc/en-us
 Additionally, you can pass parameters to theses filters.
 
 ![Passing parameters](../../../.gitbook/assets/passing-parameters.gif)
+
+### Additional properties
+
+![](../../../.gitbook/assets/airtable-others.gif)
+
+Other properties you can define are:
+
+* **Maximum number of records**. Specify this to limit the number of records returned
+* **List of fields to return**: Specify which fields you want to query.
+* **List of fields to sort**: Specify fields and directions to order your query.
 
