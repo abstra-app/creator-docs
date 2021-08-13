@@ -14,5 +14,5 @@ For example:
 
 In the `Page or component` argument of a [Subview element](../elements/subview.md) you can enter expression mode and create references to other [components](../components.md) and create a logic to dynamically switch them with code:
 
-![](../../../.gitbook/assets/referenceinteface.gif)
+![](../../../.gitbook/assets/dynamic-int.gif)
 
