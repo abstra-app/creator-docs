@@ -6,7 +6,7 @@ description: Each argument has a type with a different UI and expected expressio
 
 ## text
 
-![Simple text, without formatting.](../../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/text.png)
 
 ### UI
 
@@ -23,7 +23,7 @@ Example: if there is a context text variable called `name` and the expression is
 
 ## richText
 
-![Rich text formatting implemented over simple text type.](../../../.gitbook/assets/richtext.gif)
+![](../../../.gitbook/assets/richtext.png)
 
 ### UI
 
@@ -37,7 +37,7 @@ For rich text formatting use HTML tags.
 
 ## number
 
-![Positive, negative and decimal numbers](../../../.gitbook/assets/number.gif)
+![](../../../.gitbook/assets/number.png)
 
 ### UI
 
