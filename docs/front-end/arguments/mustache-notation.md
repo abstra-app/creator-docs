@@ -16,18 +16,9 @@ My name is {{ name }}
 I am {{ profile.age }} yo
 ```
 
-* if you have a friends array variable in the context and you want to display a list with them you can type:
-
-```text
-These are my friends:
-{{ #friends }}
-{{ . })
-{{ /friends }}
-```
-
 See the result:
 
-![](../../../.gitbook/assets/mustache.gif)
+![](../../../.gitbook/assets/mustache%20%281%29.gif)
 
 For more on the mustache notation check [common techniques](../../../tutorials/common-tecniques/) or the [official documentation](https://github.com/janl/mustache.js).
 
