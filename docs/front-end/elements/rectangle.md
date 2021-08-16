@@ -52,5 +52,19 @@ You can also add a shadow to your rectangle and adjust its properties, like blur
 
 You can also control the border of your rectangle. _To **remove** it, you should set the border style to "None"._
 
-![](../../../.gitbook/assets/rectangle10.png)
+![Rectangle with a white border and a background image](../../../.gitbook/assets/rectangle10.png)
+
+You can adjust the border properties using the Border menu on the right sidebar:
+
+![](../../../.gitbook/assets/rectangle11.png)
+
+You can expand the input fields for each property by clicking on the icon below them, so you can edit each side of the rectangle individually
+
+![](../../../.gitbook/assets/rectangle12.png)
+
+Using this menu, you can control border **thickness**, **color**, **style** and **radius**.
+
+You can also adjust the border radius using the circles that appear near the border when you select the rectangle.
+
+![](../../../.gitbook/assets/rectangle13.gif)
 
