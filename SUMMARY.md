@@ -15,6 +15,7 @@
   * [Authentication with Auth0](tutorials/common-tecniques/auth-with-auth0.md)
   * [Integrating with Auth0 Roles](tutorials/common-tecniques/auth0-roles.md)
   * [Iterating over a list](tutorials/common-tecniques/iterating-over-a-variable.md)
+  * [Adding charts](tutorials/common-tecniques/adding-charts.md)
 * [Sample Projects](tutorials/projects/README.md)
   * [BMI Calculator](tutorials/projects/bmi-calculator.md)
 
