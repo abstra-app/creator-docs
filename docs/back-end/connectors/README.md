@@ -4,7 +4,7 @@ description: What is a connector?
 
 # Connectors
 
-![](../../../.gitbook/assets/image%20%285%29.png)
+![](../../../.gitbook/assets/image%20%2815%29%20%281%29.png)
 
 With Connectors, you can:
 
