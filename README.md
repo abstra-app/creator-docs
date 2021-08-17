@@ -16,7 +16,7 @@ With Abstra, designers and devs, and even other people, can work together - real
 
 ### Security by default
 
-The Abstra team makes all the necessary effort to make your project secure and compliant with all the actual rules, good practices, and regulamentation.
+The Abstra team is dedicated to securing your project in compliance with rules, regulations and standards using industry best practices.
 
 #### Private Cloud
 
