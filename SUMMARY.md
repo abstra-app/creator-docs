@@ -15,6 +15,7 @@
   * [Embedding third party applications](tutorials/common-tecniques/embedding-third-party-applications.md)
   * [Authentication with Auth0](tutorials/common-tecniques/auth-with-auth0.md)
   * [Integrating with Auth0 Roles](tutorials/common-tecniques/auth0-roles.md)
+  * [Calling Connectors or Tables from outside Abstra](tutorials/common-tecniques/calling-connectors-or-tables-from-outside-abstra.md)
   * [Iterating over a list](tutorials/common-tecniques/iterating-over-a-variable.md)
   * [Adding charts](tutorials/common-tecniques/adding-charts.md)
 * [Sample Projects](tutorials/projects/README.md)
