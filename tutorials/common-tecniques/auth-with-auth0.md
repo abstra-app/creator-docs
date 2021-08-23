@@ -42,7 +42,14 @@ Paste the `Client ID` in the respective field.
 
 ![](../../.gitbook/assets/auth0-abstra.png)
 
-And that's it, now you can use the [Sign-in]() and [Sign-out]() actions.
+And that's it, now you can test these settings. Scroll a bit further to the Try now section and try signing-in:
+
+![](../../.gitbook/assets/sign-in.gif)
+
+Right bellow will appear a box containing all the information the provider sends, which can be accessed with the user context variable with `$.user` or `{{ user }}`.  
+For example name can be accessed with `$.user.profile.name` or `{{ user.profile.name }}`.
+
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 ## Example
 
@@ -52,15 +59,14 @@ We have a two pages:
 The first has a `Button`, an `Sign-in` action when it is clicked and a `Go To Page` for the second page if the sign-in was successful.  
 
 
-![](../../.gitbook/assets/auth0-p1.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
-The second has a `Text` with [Mustache Notation](../../docs/front-end/arguments/mustache-notation.md) and the `Text Value` is `My name is {{ user.profile.name }}`.  
+The second has a `Text` with [Mustache Notation](../../docs/front-end/arguments/mustache-notation.md) and the `Text Value` is`My name is {{ user.profile.name }}`.
 
-
-![](../../.gitbook/assets/auth0-p2.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 This is the result.  
 
 
-![](../../.gitbook/assets/auth0-login-wf.gif)
+![](../../.gitbook/assets/login.gif)
 
