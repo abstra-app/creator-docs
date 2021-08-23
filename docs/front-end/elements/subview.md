@@ -8,9 +8,7 @@ The **subview** element lets you choose where and how to easily add your custom 
 
 Use this component as a placeholder slot for you to add and organize your component canvas
 
-![Subview on the flex engine](../../../.gitbook/assets/flex-subview.gif)
-
-![Subview on the elastic engine](../../../.gitbook/assets/elastic-subview.gif)
+![](../../../.gitbook/assets/elastic-subview.gif)
 
 ### Arguments
 
@@ -21,7 +19,7 @@ Format: [subview](https://docs.abstra.app/docs/front-end/arguments/argument-type
 
 #### overflow
 
-_\(Only in the elastic engine\)_ What to do when the selected component exceeds its limits. Options are:
+What to do when the selected component exceeds its limits. Options are:
 
 * Hidden \(value `hidden`\): Do not show the exceeded content
 * Auto \(value `auto`\): Scroll when needed
