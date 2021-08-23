@@ -1,8 +1,12 @@
 # Button
 
-A simple clickable button.
+A simple clickable button element.
 
-![](../../../.gitbook/assets/button.gif)
+![Button element general settings ](../../../.gitbook/assets/screenshot-from-2021-08-23-19-50-07.png)
+
+![Button element style settings](../../../.gitbook/assets/screenshot-from-2021-08-23-19-50-10.png)
+
+![Button element text settings](../../../.gitbook/assets/screenshot-from-2021-08-23-19-50-14.png)
 
 ### Arguments
 
@@ -11,22 +15,6 @@ A simple clickable button.
 Text that will be displayed inside the button.  
 Format: [text](https://docs.abstra.app/docs/front-end/arguments/argument-types#text)  
 Default: `Right click to add actions`
-
-#### Variant
-
-_\(Only in the Flex engine\)_ Styles presets that implement additional styling for the component. Options are:
-
-* Basic \(value `basic`\): default preset with no additional styles implemented.  
-* Full Width \(value `full`\): preset implementing width 100% for the button.   
-
-Format: discrete [text](https://docs.abstra.app/docs/front-end/arguments/argument-types#text)  
-Default: `basic`
-
-#### Alignment
-
-_\(Only in the Flex engine\)_ Button alignment inside the slot.  
-Format: [alignment](https://docs.abstra.app/docs/front-end/arguments/argument-types#alignment)  
-Default: `center`
 
 #### Background Color
 
@@ -83,14 +71,14 @@ Format: [image](https://docs.abstra.app/docs/front-end/arguments/argument-types#
 
 #### Font Style
 
-_\(Only in the Elastic engine\)_ Font families for the element. Options are [CSS font-family](https://www.w3schools.com/cssref/pr_font_font-family.asp) properties.
+Font families for the element. Options are [CSS font-family](https://www.w3schools.com/cssref/pr_font_font-family.asp) properties.
 
 Format: discrete [text](https://docs.abstra.app/docs/front-end/arguments/argument-types#text)  
 Default: "Roboto", sans-serif
 
 #### Line Height
 
-_\(Only in the Elastic engine\)_ Line height as a multiplier, not pixels  
+Line height as a multiplier, not pixels  
 Format: [number](https://docs.abstra.app/docs/front-end/arguments/argument-types#number)  
 Default: `1.5`
 
