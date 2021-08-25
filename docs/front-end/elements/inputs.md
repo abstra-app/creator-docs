@@ -6,7 +6,7 @@ There are many types of input elements you can add to your application. Each one
 
 ![](../../../.gitbook/assets/screenshot-from-2021-08-25-19-16-49.png)
 
-You are able to configure your inputs style and interactivity at the sidebar on the right side of the editor.
+You are able to configure your inputs properties and style at the sidebar on the right side of the editor. All inputs have triggers that can be bound to actions when their values change. You can use this triggers to add interactivity to your application.
 
 ![](../../../.gitbook/assets/screenshot-from-2021-08-25-19-13-11.png)
 
