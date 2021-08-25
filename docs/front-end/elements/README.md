@@ -10,7 +10,7 @@ You can alter an element's behavior by selecting it and changing its [arguments]
 
 ![](../../../.gitbook/assets/changecolor.gif)
 
-You can change the element's position and dimensions by dragging and stretching it, or by manually changing it on the sidebar.
+You can change the element's position and dimensions by dragging and stretching it, or by manually changing it on the sidebar. By clicking at the padlock you preserve the aspect ratio of your element while editing the dimensions at the sidebar.
 
 ![](../../../.gitbook/assets/movingrect.gif)
 
