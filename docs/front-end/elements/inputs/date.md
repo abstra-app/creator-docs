@@ -4,7 +4,7 @@ Date inputs are basic date selection inputs for your application. They are commo
 
 ![](../../../../.gitbook/assets/screenshot-from-2021-08-27-11-48-43.png)
 
-When users click at this input they open a date picker.
+When users click at this input it opens a date picker.
 
 ![](../../../../.gitbook/assets/datepicker.gif)
 
