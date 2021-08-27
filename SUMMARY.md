@@ -61,6 +61,7 @@
       * [Text](docs/front-end/elements/inputs/text.md)
       * [Date](docs/front-end/elements/inputs/date.md)
       * [Time](docs/front-end/elements/inputs/time.md)
+      * [Password](docs/front-end/elements/inputs/password.md)
     * [Collection](docs/front-end/elements/collection.md)
     * [Button](docs/front-end/elements/button.md)
     * [Iframe](docs/front-end/elements/iframe.md)

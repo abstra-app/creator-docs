@@ -1,6 +1,6 @@
 # Text
 
-Text inputs are basic single text line inputs for your application. They are commonly used when building forms.
+Text inputs are basic single line text inputs for your application. They are commonly used when building forms.
 
 ![](../../../../.gitbook/assets/screenshot-from-2021-08-26-11-33-23.png)
 
