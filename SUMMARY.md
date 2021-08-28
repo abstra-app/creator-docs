@@ -68,6 +68,7 @@
     * [Iframe](docs/front-end/elements/iframe.md)
     * [Subview](docs/front-end/elements/subview.md)
   * [Variables](docs/front-end/variables.md)
+  * [Shortcuts](docs/front-end/shortcuts.md)
 * [Back-end](docs/back-end/README.md)
   * [Connectors](docs/back-end/connectors/README.md)
     * [Airtable](docs/back-end/connectors/airtable.md)
