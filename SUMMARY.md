@@ -66,6 +66,7 @@
       * [Text Area](docs/front-end/elements/inputs/text-area.md)
       * [Dropdown](docs/front-end/elements/inputs/dropdown.md)
     * [Collection](docs/front-end/elements/collection.md)
+    * [Button](docs/front-end/elements/button-1.md)
     * [Button](docs/front-end/elements/button.md)
     * [Iframe](docs/front-end/elements/iframe.md)
     * [Subview](docs/front-end/elements/subview.md)
