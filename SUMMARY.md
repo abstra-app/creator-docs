@@ -6,9 +6,9 @@
 
 * [Getting started](tutorials/getting-started.md)
 * [Lessons](tutorials/common-tecniques/README.md)
-  * [Formating numbers](tutorials/common-tecniques/formating-numbers.md)
   * [Running Abstra apps natively on Android with Cordova](tutorials/common-tecniques/running-abstra-apps-natively-on-android-with-cordova.md)
   * [Replicating an ER Diagram on Hosted Tables](tutorials/common-tecniques/replicating-an-er-diagram-on-hosted-tables.md)
+  * [Formating numbers](tutorials/common-tecniques/formating-numbers.md)
   * [Basic form](tutorials/common-tecniques/basic-form.md)
   * [Using Table Types](tutorials/common-tecniques/table-types.md)
   * [Connecting with Google Sheets](tutorials/common-tecniques/google-sheets.md)
