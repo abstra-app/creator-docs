@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction to Abstra](README.md)
+* [Changelog](changelog.md)
 
 ## Tutorials
 
