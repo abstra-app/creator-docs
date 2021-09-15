@@ -16,7 +16,7 @@ Select the spreadsheet
 
 ![](../../../.gitbook/assets/image%20%2831%29.png)
 
-Add a method for each "query" you want to make.
+Add a method for each query you want to make.
 
 ![Use A1 notation for ranges](../../../.gitbook/assets/image%20%2834%29.png)
 
