@@ -18,9 +18,23 @@ Select the spreadsheet
 
 Add a method for each query you want to make.
 
-![Use A1 notation for ranges](../../../.gitbook/assets/image%20%2834%29.png)
+![Use A1 notation for ranges](../../../.gitbook/assets/image%20%2843%29.png)
 
 Test to see if this is working
 
 ![](../../../.gitbook/assets/image%20%2830%29.png)
+
+Also you can set the first row as a header. For example you have a sheet like this:
+
+![](../../../.gitbook/assets/image%20%2840%29.png)
+
+If you check the _set first row as header_ box, your result will be transformed into:
+
+![](../../../.gitbook/assets/image%20%2841%29.png)
+
+![](../../../.gitbook/assets/image%20%2844%29.png)
+
+This makes it easier to use the data in [collections](../../front-end/elements/collection.md) and tables like so:
+
+![](../../../.gitbook/assets/image%20%2842%29.png)
 
