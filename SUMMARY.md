@@ -77,6 +77,7 @@
 * [Back-end](docs/back-end/README.md)
   * [Connectors](docs/back-end/connectors/README.md)
     * [Airtable](docs/back-end/connectors/airtable.md)
+    * [Google Sheets](docs/back-end/connectors/google-sheets.md)
     * [DynamoDB](docs/back-end/connectors/dynamodb.md)
     * [E-mail](docs/back-end/connectors/e-mail.md)
     * [GraphQL](docs/back-end/connectors/graphql.md)
