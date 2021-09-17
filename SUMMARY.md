@@ -75,6 +75,7 @@
   * [Shortcuts](docs/front-end/shortcuts.md)
 * [Back-end](docs/back-end/README.md)
   * [Connectors](docs/back-end/connectors/README.md)
+    * [Storage](docs/back-end/connectors/storage.md)
     * [Airtable](docs/back-end/connectors/airtable.md)
     * [Google Sheets](docs/back-end/connectors/google-sheets.md)
     * [DynamoDB](docs/back-end/connectors/dynamodb.md)
