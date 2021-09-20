@@ -11,7 +11,7 @@ description: Lists important changes to the editor
 * Fixed the bug related to style arguments showing a default value when disabled;
 * Fixed the bug related to the color input changing the color to black randomly.
 * Added an option to set the first row as a header in the Get Range method of [Google Sheets Connector](docs/back-end/connectors/google-sheets.md)
-* Added a Storage Connector to allow you to upload, list and download files from a storage provider.
+* Added a Storage Connector to allow you to upload and list files from a storage provider.
 
 
 

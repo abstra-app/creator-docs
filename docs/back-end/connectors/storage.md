@@ -51,11 +51,3 @@ This method lists files from your Storage provider. You can filter files by a pr
 }
 ```
 
-### Download
-
-This method allows you to download files from your Storage provider. You must provide the key of the object you want to download.
-
-![](../../../.gitbook/assets/list-and-download.gif)
-
-
-
