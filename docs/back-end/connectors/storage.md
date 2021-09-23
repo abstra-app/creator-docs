@@ -19,6 +19,30 @@ Currently we only support _AWS S3_
 
 There are 2 available methods: Upload and List
 
+In order for our connector to work you need to configure your S3 Bucket CORS as follows:
+
+```javascript
+[
+    {
+        "AllowedHeaders": [
+            "*"
+        ],
+        "AllowedMethods": [
+            "PUT",
+            "GET"
+        ],
+        "AllowedOrigins": [
+            "*"
+        ],
+        "ExposeHeaders": []
+    }
+]
+```
+
+This CORS setting enables uploading and downloading files from your bucket.
+
+There are 3 available methods: Upload, List and Download
+
 ### Upload
 
 You can specify the `type` and `amount` of the uploaded files. Also a prefix to to prepend to the file name to create or use folders. Abstra also adds an unique hash before the file name to differentiate between files with identical name and fixes it to be URL friendly, so if you upload a picture called `awesome cat.png` its actual uploaded name will be something like `9217e761-957d-43d9-9d5d-5f27b6ac805c-awesome-cat-png`
