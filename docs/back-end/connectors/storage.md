@@ -17,7 +17,7 @@ Currently we only support _AWS S3_
 
 ![](../../../.gitbook/assets/image%20%2845%29.png)
 
-There are 3 available methods: Upload, List and Download
+There are 2 available methods: Upload and List
 
 ### Upload
 
