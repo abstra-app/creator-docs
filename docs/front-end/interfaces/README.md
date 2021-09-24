@@ -1,14 +1,16 @@
 # Pages
 
-Interfaces are the building block of your front-end app that house the slots for the [components](../elements/).
+Pages are where you will organize your entire app and where your users will navigate through your application.
 
-You can name and nest them to organize your project
+You can create as many pages as your app seems fit, name them as you want but remember to keep the `/` on the beginning.
 
-![](../../../.gitbook/assets/nest.gif)
+Example: `/helloworld`
 
-And clone them for fast development
+![](../../../.gitbook/assets/changepagename%20%281%29.gif)
 
-![](../../../.gitbook/assets/clone.gif)
+You can also change the background of your page by clicking anywhere on the screen and changing it on the editor.
+
+![](../../../.gitbook/assets/changebackgroundcolor%20%281%29.gif)
 
 
 
