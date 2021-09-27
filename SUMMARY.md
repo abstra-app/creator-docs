@@ -69,6 +69,7 @@
     * [Collection](docs/front-end/elements/collection.md)
     * [Button](docs/front-end/elements/button-1.md)
     * [Button](docs/front-end/elements/button.md)
+    * [Image](docs/front-end/elements/image.md)
     * [Iframe](docs/front-end/elements/iframe.md)
     * [Subview](docs/front-end/elements/subview.md)
     * [HTML](docs/front-end/elements/html.md)
