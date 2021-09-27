@@ -4,6 +4,15 @@ description: Lists important changes to the editor
 
 # Changelog
 
+#### 19/09/2021 - 25/09/2021
+
+* Now you can add members to your workspace that are not yet enrolled with Abstra
+* New [live example](https://youtu.be/DDmXRdX9qd8)
+* New users will receive a welcome email with useful information
+* Fix some bugs with page or components names
+* Expression editor popup now remembers its position
+* Projects open in the last opened view or the first
+
 #### 12/09/2021 - 18/09/2021
 
 * We are happy to announce that the [Google Sheets Connector](docs/back-end/connectors/google-sheets.md) is now on Beta;
