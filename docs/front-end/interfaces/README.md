@@ -8,9 +8,33 @@ Example: `/helloworld`
 
 ![](../../../.gitbook/assets/changepagename%20%281%29.gif)
 
-You can also change the background of your page by clicking anywhere on the screen and changing it on the editor.
+There is also some configurations you can apply to your page.
+
+* Background.
+* Block pages until all actions are done.
+* Protect page.
+* Horizontal/Vertical scroll.
+
+#### Background
+
+ It is possible to set the background of your page as a color of your choice, transparent or for it to be some uploaded image also of your choice.
+
+To do it, just click anywhere on the screen to make the editor appear on the right side and, on it, choose which one you want on the dropdown.
 
 ![](../../../.gitbook/assets/changebackgroundcolor%20%281%29.gif)
 
+#### Block pages until all actions are done 
 
+This configuration is a bit more technical. If you choose to toggle it on, your page will be blocked for your users until all your actions finish.
+
+Example: until your API finishes loading.
+
+#### Protect page
+
+When toggled on this option will protect your page against non-logged in users. :\)  
+So, for them to be allowed to access it, they have to be logged in.
+
+#### Horizontal/Vertical scroll
+
+Toggle this on to choose in which axis your page will scroll. Usually the web community accepts the vertical scroll as it most common pattern, but we let the decision up to you to decide. :\) 
 
