@@ -128,7 +128,7 @@ This is where you can see the entities of your projects.
 
 ![add page](../.gitbook/assets/project-inspector-add-page.gif)
 
-![rename page](../.gitbook/assets/project-inspector-rename-page%20%281%29.gif)
+![rename page](../.gitbook/assets/project-inspector-rename-page%20%281%29%20%281%29.gif)
 
 ![delete page \(need confirmation\)](../.gitbook/assets/project-inspector-delete-page.gif)
 
