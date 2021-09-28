@@ -7,7 +7,7 @@ description: Lists important changes to the editor
 #### 19/09/2021 - 25/09/2021
 
 * Now you can add members to your workspace that are not yet enrolled with Abstra
-* New [live example](https://youtu.be/DDmXRdX9qd8)
+* New [live example](https://youtu.be/g7zXapUv_ik)
 * New users will receive a welcome email with useful information
 * Fix some bugs with page or components names
 * Expression editor popup now remembers its position
