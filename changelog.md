@@ -4,7 +4,7 @@ description: Lists important changes to the editor
 
 # Changelog
 
-#### 26/09/2021 - 02/10/2021
+## 26/09/2021 - 02/10/2021
 
 * New design for backend \(connectors + tables\);
 * New hints on how to build your apps using Abstra;
