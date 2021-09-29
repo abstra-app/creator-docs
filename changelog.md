@@ -9,6 +9,7 @@ description: Lists important changes to the editor
 * New design for backend \(connectors + tables\);
 * New hints on how to build your apps using Abstra;
 * Fixed rendering bug after changing pages or components;
+* When you reload the page, the state of the locks are preserved;
 
 ## 19/09/2021 - 25/09/2021
 
