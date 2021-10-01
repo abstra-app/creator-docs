@@ -10,6 +10,10 @@ In the component, the value of the current item in the collection is available t
 
 ![](../../../.gitbook/assets/collectionsubview.gif)
 
+Collections have a method that reloads their data based on a trigger. Consider you have a collection and want to refetch it's data after clicking a button. You can bind a [Call Element Method](../actions/component-method.md) action to your button click event, select the collection and the `Reload` method.
+
+![](../../../.gitbook/assets/screen-shot-2021-10-01-at-12.26.49.png)
+
 ### Arguments
 
 #### Data source
