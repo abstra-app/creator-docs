@@ -18,5 +18,5 @@ Now we can toggle our [Reutilized Component](../../docs/front-end/elements/subvi
 
 Working example:
 
-
+![](../../.gitbook/assets/squidbob.gif)
 
