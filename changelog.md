@@ -13,6 +13,7 @@ description: Lists important changes to the editor
 * Fixed an issue with arguments re-rendering queries
 * Reload element methods for table and collection are back!
 * Fixed an issue with special chars in postgres connection string 
+* Now when componetizing your elements together, those on the border will receive a spring automatically in order to preserve the resposivity.
 
 ## 19/09/2021 - 25/09/2021
 
