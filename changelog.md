@@ -7,6 +7,7 @@ description: Lists important changes to the editor
 ## 03/10/2021 - 09/10/2021
 
 * [components](docs/front-end/components.md) can emit events and [subview](docs/front-end/elements/subview.md) elements can handle emitted elements with actions
+* action [external link](docs/front-end/actions/external-link.md) can open in same tab
 
 ## 26/09/2021 - 02/10/2021
 
