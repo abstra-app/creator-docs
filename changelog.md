@@ -4,6 +4,10 @@ description: Lists important changes to the editor
 
 # Changelog
 
+## 03/10/2021 - 09/10/2021
+
+* [components](docs/front-end/components.md) can emit events and [subview](docs/front-end/elements/subview.md) elements can handle emitted elements with actions
+
 ## 26/09/2021 - 02/10/2021
 
 * New design for backend \(connectors + tables\)
