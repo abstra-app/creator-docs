@@ -10,6 +10,7 @@ description: Lists important changes to the editor
 * Action [external link](docs/front-end/actions/external-link.md) can open in same tab
 * Date picker allows more format options
 * Inputs now accepts double clicks to edit the placeholder \(Only on those where this applies, for instance checklist don't have this function\).  
+* now when you select "add all fields" on the query builder, it will remain highlighted and new columns will be added to the result \(equivalent to "\*" on SQL\)
 
 ## 26/09/2021 - 02/10/2021
 
