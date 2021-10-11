@@ -4,17 +4,19 @@ description: Lists important changes to the editor
 
 # Changelog
 
+## 10/10/2021 - 16/10/2021
+
 ## 03/10/2021 - 09/10/2021
 
 * [Components](docs/front-end/components.md) can emit events and [subview](docs/front-end/elements/subview.md) elements can handle emitted elements with actions
 * Action [external link](docs/front-end/actions/external-link.md) can open in same tab
 * Date picker allows more format options
-* Inputs now accepts double clicks to edit the placeholder \(Only on those where this applies, for instance checklist don't have this function\).  
-* now when you select "add all fields" on the query builder, it will remain highlighted and new columns will be added to the result \(equivalent to "\*" on SQL\)
+* Inputs now accepts double clicks to edit the placeholder (Only on those where this applies, for instance checklist don't have this function).  
+* now when you select "add all fields" on the query builder, it will remain highlighted and new columns will be added to the result (equivalent to "\*" on SQL)
 
 ## 26/09/2021 - 02/10/2021
 
-* New design for backend \(connectors + tables\)
+* New design for backend (connectors + tables)
 * New hints on how to build your apps using Abstra
 * Fixed rendering bug after changing pages or components
 * When you reload the page, the state of the locks are preserved
@@ -35,9 +37,8 @@ description: Lists important changes to the editor
 ## 12/09/2021 - 18/09/2021
 
 * We are happy to announce that the [Google Sheets Connector](docs/back-end/connectors/google-sheets.md) is now on Beta;
-* Now when you press alt while dragging a component and release the mouse button it will duplicate your component. \(Before it would only do so if you were pressing alt at the start of the click\);
+* Now when you press alt while dragging a component and release the mouse button it will duplicate your component. (Before it would only do so if you were pressing alt at the start of the click);
 * Fixed the bug related to style arguments showing a default value when disabled;
 * Fixed the bug related to the color input changing the color to black randomly.
 * Added an option to set the first row as a header in the Get Range method of [Google Sheets Connector](docs/back-end/connectors/google-sheets.md)
 * Added a Storage Connector to allow you to upload and list files from a storage provider.
-
