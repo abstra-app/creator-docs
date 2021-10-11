@@ -6,9 +6,8 @@ Using our `forEach` action you are able to iterate over a list and perform an ac
 
 You can dispatch an action for each item of that list creating a `forEach` action:
 
-![](../../.gitbook/assets/sendemailloop%20%281%29.gif)
+![](<../../.gitbook/assets/sendemailloop (1).gif>)
 
-This will execute the `welcomeMessage` method from `Email Provider` connector for each e-mail inside the emails list variable.  
-  
+This will execute the `welcomeMessage` method from `Email Provider` connector for each e-mail inside the emails list variable.\
+\
 [Click here](../../docs/back-end/connectors/e-mail.md) check out how to setup your an `E-mail Connector`.
-

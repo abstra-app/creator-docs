@@ -1,18 +1,18 @@
 # Shortcuts
 
-Whenever you are on our editor page you'll have some shortcuts to actually help you on the layout of your web app. :\)
+Whenever you are on our editor page you'll have some shortcuts to actually help you on the layout of your web app. :)
 
 Here you can find a list of them:
 
 #### Fine Adjusting a Selection
 
-With the **Arrow keys** you can fine adjust any selection you make. That way you can guarantee your component is where you want.
+With the **Arrow keys **you can fine adjust any selection you make. That way you can guarantee your component is where you want.
 
 ![Element moving a little with key arrows](../../.gitbook/assets/arrowmovement.gif)
 
 #### Select All Components
 
-By pressing **Ctrl/Cmd + A** you can select all the components within your view.
+By pressing **Ctrl/Cmd + A **you can select all the components within your view.
 
 ![All components being selected with ctrl/cmd+a](../../.gitbook/assets/selectall.gif)
 
@@ -50,9 +50,9 @@ If you want to separate the components within a subview again and bring them to 
 
 Editing something and made a mistake? Don't worry. Just undo it with **Ctrl/Cmd + Z** and keep working on your app.
 
-Also if you change your mind and now decided that it was not a mistake at all just go with  **Ctrl/Cmd + Shift + Z**.
+Also if you change your mind and now decided that it was not a mistake at all just go with ** Ctrl/Cmd + Shift + Z**.
 
-![Components being dragged and then undo and redo the dragging that was just made. ](../../.gitbook/assets/undo-and-redo%20%281%29.gif)
+![Components being dragged and then undo and redo the dragging that was just made. ](<../../.gitbook/assets/undo-and-redo (1).gif>)
 
 #### Fix Line of Movement on Drag
 
@@ -64,7 +64,7 @@ While dragging a component, keep **Shift** pressed to fix the line of movement o
 
 #### Proportional Resize
 
-If you want to resize your component, but don't want it to lose its proportion just keep **Shift** pressed while doing so.
+If you want to resize your component, but don't want it to lose its proportion just keep **Shift **pressed while doing so.
 
 ![Component being resized maintaining its proportion.](../../.gitbook/assets/shiftresize.gif)
 
@@ -82,5 +82,4 @@ While you are selecting some components in our editor you can easily duplicate t
 
 
 
-### 
-
+###

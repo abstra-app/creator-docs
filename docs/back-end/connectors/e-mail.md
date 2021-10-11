@@ -14,7 +14,7 @@ With this method you can send plain text e-mails. When creating the template you
 
 You can add **parameters** to your subject and body by adding `$` in front of named keywords. When you use this method in the front-end, you can can dynamically fill the parameters. For example, sending e-mail like:
 
-```text
+```
 Hello $name.
 
 Today we sold $number units of $product.
@@ -30,10 +30,8 @@ Another **parameter** that you can dynamically fill is additional e-mail address
 
 You can fill it by passing a comma separated list of emails such as:
 
-```text
+```
 me@example.com,admin@abstra.app,test@example.com
 ```
 
-  
-
-
+\

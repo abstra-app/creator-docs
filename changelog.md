@@ -6,6 +6,8 @@ description: Lists important changes to the editor
 
 ## 10/10/2021 - 16/10/2021
 
+* Now when you clone a page or component, the new one will have the original name plus `- copy`
+
 ## 03/10/2021 - 09/10/2021
 
 * [Components](docs/front-end/components.md) can emit events and [subview](docs/front-end/elements/subview.md) elements can handle emitted elements with actions

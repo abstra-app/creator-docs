@@ -23,10 +23,11 @@
 * [Sample Projects](tutorials/projects/README.md)
   * [BMI Calculator](tutorials/projects/bmi-calculator.md)
 
-## Documentation <a id="docs"></a>
+## Documentation <a href="docs" id="docs"></a>
 
 * [Front-end](docs/front-end/README.md)
   * [Actions](docs/front-end/actions/README.md)
+    * [Emit Event](docs/front-end/actions/emit-event.md)
     * [Hosted Tables](docs/front-end/actions/hosted-tables.md)
     * [Call Connector](docs/front-end/actions/call-connector.md)
     * [Set variable](docs/front-end/actions/set-variable.md)
@@ -93,4 +94,3 @@
     * [Telegram](docs/back-end/connectors/telegram.md)
 * [Project Settings](docs/project-settings/README.md)
   * [Authentication](docs/project-settings/authentication.md)
-
