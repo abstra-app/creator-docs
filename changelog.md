@@ -4,8 +4,13 @@ description: Lists important changes to the editor
 
 # Changelog
 
+## 17/10/2021 - 23/10/2021
+
+
+
 ## 10/10/2021 - 16/10/2021
 
+*
 * Now when you clone a page or component, the new one will have the original name plus `- copy`
 
 ## 03/10/2021 - 09/10/2021
@@ -13,7 +18,7 @@ description: Lists important changes to the editor
 * [Components](docs/front-end/components.md) can emit events and [subview](docs/front-end/elements/subview.md) elements can handle emitted elements with actions
 * Action [external link](docs/front-end/actions/external-link.md) can open in same tab
 * Date picker allows more format options
-* Inputs now accepts double clicks to edit the placeholder (Only on those where this applies, for instance checklist don't have this function).  
+* Inputs now accepts double clicks to edit the placeholder (Only on those where this applies, for instance checklist don't have this function). &#x20;
 * now when you select "add all fields" on the query builder, it will remain highlighted and new columns will be added to the result (equivalent to "\*" on SQL)
 
 ## 26/09/2021 - 02/10/2021
@@ -24,13 +29,13 @@ description: Lists important changes to the editor
 * When you reload the page, the state of the locks are preserved
 * Fixed an issue with arguments re-rendering queries
 * Reload element methods for table and collection are back!
-* Fixed an issue with special chars in postgres connection string 
+* Fixed an issue with special chars in postgres connection string&#x20;
 * Now when componetizing your elements together, those on the border will receive a spring automatically in order to preserve the resposivity.
 
 ## 19/09/2021 - 25/09/2021
 
 * Now you can add members to your workspace that are not yet enrolled with Abstra
-* New [live example](https://youtu.be/g7zXapUv_ik)
+* New [live example](https://youtu.be/g7zXapUv\_ik)
 * New users will receive a welcome email with useful information
 * Fix some bugs with page or components names
 * Expression editor popup now remembers its position
