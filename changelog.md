@@ -6,11 +6,17 @@ description: Lists important changes to the editor
 
 ## 17/10/2021 - 23/10/2021
 
+* Now you can add params to the prefixes of storage connector
+* Now you can edit buttons when double clicking them.
+* We added number type to our text input.
+* We added events to our modal, now you can listen to an event through your modal.
+* Fixed some pesky bugs within editing inputs.
+* Fixed our checklist not inputing when checking a box.
+
 
 
 ## 10/10/2021 - 16/10/2021
 
-*
 * Now when you clone a page or component, the new one will have the original name plus `- copy`
 
 ## 03/10/2021 - 09/10/2021
