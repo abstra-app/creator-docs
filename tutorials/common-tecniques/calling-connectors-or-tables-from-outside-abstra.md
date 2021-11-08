@@ -151,11 +151,8 @@ So the body should look like this:
 {
     "id": "TEST_ID",
     "new": {
-        "name": "",
-        "value": [
-            123123123123,
-            "% reyel %"
-        ]
+        "name": "TEST_NAME",
+        "value": "TEST_VALUE"
     }
 }
 ```
@@ -172,19 +169,11 @@ So the body should look like this:
 
 ```javascript
 {
-    "query": "mutation ExecuteStatement($statementId: ID!, $args: [Arg]) { execute_statement(statement_id: $statementId, args: $args) { rows } }",
-    "variables": {
-        "statementId": <STATEMENT-ID>,
-        "args": [
-            {
-                "param": "write.name",
-                "value": "Joao"
-            },
-            {
-                "param": "filter.id",
-                "value": 1231
-            }
-        ]
+    "filter": {
+        "id": "TEST_ID"
+    },
+    "write": {
+        "name": "TEST_NAME"
     }
 }
 ```

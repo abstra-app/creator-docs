@@ -4,10 +4,14 @@ description: Lists important changes to the editor
 
 # Changelog
 
+## 31/10/2021 - 06/11/2021
+
+* Now you are able to configure your elements responsivity at the right sidebar.
+
 ## 24/10/2021 - 30/10/2021
 
-* Now you have group mechanics to deal with your frontend elements.
-* Hosted Tables queries now accept named parameters
+* Now you have group mechanics to deal with your frontend elements;
+* Hosted Tables queries now accept named parameters.
 
 ## 17/10/2021 - 23/10/2021
 
