@@ -42,14 +42,14 @@ Paste the `Client ID` in the respective field.\
 
 ![](../../.gitbook/assets/auth0-abstra.png)
 
-And that's it, now you can test these settings. Scroll a bit further to the Try now section and try signing-in:
+And that's it, now you can test these settings. On the right there is the Try now section:
 
-![](../../.gitbook/assets/sign-in.gif)
+![](../../.gitbook/assets/try-now.gif)
 
 Right bellow will appear a box containing all the information the provider sends, which can be accessed with the user context variable with `$.user` or `{{ user }}`.\
 For example name can be accessed with `$.user.profile.name` or `{{ user.profile.name }}`.
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (49).png>)
 
 ## Example
 

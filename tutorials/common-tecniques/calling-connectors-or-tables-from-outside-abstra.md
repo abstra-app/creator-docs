@@ -143,7 +143,7 @@ With SQL queries you specify named parameters (`$name`, `$foo`, etc...) so your 
 
 Example: The following query requires three parameters `$id`, `$new.name` and `$new.value.`
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (50) (1).png>)
 
 So the body should look like this:
 
