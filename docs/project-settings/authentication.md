@@ -56,3 +56,5 @@ For the **`role`** type you need to specify the path of the role inside the user
 Notice that inside the profile object there is an entry named **`https://example.com/roles`** (per OIDC standards the key must be an **uri**, but it may vary in your provider). That entry is the roles list in our case, so we can configure the access rule as follows:
 
 ![](<../../.gitbook/assets/image (51).png>)
+
+To see an example check out [using Auth0 roles](../../tutorials/common-tecniques/auth0-roles.md).
