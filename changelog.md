@@ -4,6 +4,10 @@ description: Lists important changes to the editor
 
 # Changelog
 
+## 07/11/2021 - 13/11/2021
+
+* We introduced the new access rule feature that simplifies granular access control of some assets in your application. Learn more in [access control](docs/project-settings/authentication.md#access-rules) or this [lesson](tutorials/common-tecniques/auth0-roles.md#using-roles-in-abstra)
+
 ## 31/10/2021 - 06/11/2021
 
 * Now you are able to configure your elements responsivity at the right sidebar.
