@@ -77,7 +77,7 @@ data.addRows(
 Then we render the line chart inside our HTML element we added earlier
 
 ```javascript
-var chart = new google.charts.Line(
+var chart = new google.charts.LineChart(
   document.getElementById('my-chart')
 );
 
@@ -91,4 +91,3 @@ And after clicking to preview our application this is the end result
 If you need to debug your draw chart action, you can always add a `Show message` action to catch errors and fix your chart.
 
 ![](../../.gitbook/assets/screenshot-from-2021-08-16-12-02-05.png)
-
