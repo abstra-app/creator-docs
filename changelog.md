@@ -4,6 +4,14 @@ description: Lists important changes to the editor
 
 # Changelog
 
+##
+
+## 16/11/2021 - 19/11/2021
+
+*   Now you can turn your projects into templates. Utilize that project you have as a base for other new applications you wanna build!&#x20;
+
+    We also will be releasing more and more templates curated by Abstra so you can get your projects out of the box faster.
+
 ## 07/11/2021 - 13/11/2021
 
 * We introduced the new access rule feature that simplifies granular access control of some assets in your application. Learn more in [access control](docs/project-settings/authentication.md#access-rules) or this [lesson](tutorials/common-tecniques/auth0-roles.md#using-roles-in-abstra)
