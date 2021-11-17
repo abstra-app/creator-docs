@@ -20,6 +20,7 @@
   * [Iterating over a list](tutorials/common-tecniques/iterating-over-a-variable.md)
   * [Adding charts](tutorials/common-tecniques/adding-charts.md)
   * [Conditional rendering](tutorials/common-tecniques/conditional-rendering.md)
+  * [Creating Templates](tutorials/common-tecniques/creating-templates.md)
 * [Sample Projects](tutorials/projects/README.md)
   * [BMI Calculator](tutorials/projects/bmi-calculator.md)
 
