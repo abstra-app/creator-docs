@@ -11,6 +11,7 @@ description: Lists important changes to the editor
 *   Now you can turn your projects into templates. Utilize that project you have as a base for other new applications you wanna build!&#x20;
 
     We also will be releasing more and more templates curated by Abstra so you can get your projects out of the box faster.
+* Fixed some bugs with group duplication
 
 ## 07/11/2021 - 13/11/2021
 
