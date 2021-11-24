@@ -4,7 +4,9 @@ description: Lists important changes to the editor
 
 # Changelog
 
-##
+## 21/11/2021 - 27/11/2021
+
+* Added create and update methods to AirTable connector
 
 ## 16/11/2021 - 19/11/2021
 
