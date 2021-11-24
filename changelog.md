@@ -6,7 +6,7 @@ description: Lists important changes to the editor
 
 ## 21/11/2021 - 27/11/2021
 
-* Added create and update methods to AirTable connector
+* Added create and update methods to Airtable connector
 
 ## 16/11/2021 - 19/11/2021
 

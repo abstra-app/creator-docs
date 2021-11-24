@@ -17,13 +17,13 @@ In order to get data from Airtable, you should have the following information in
 
 Visit [https://airtable.com/api](https://airtable.com/api), then you should see something like this
 
-![Airtable&apos;s API page](../../../.gitbook/assets/image%20%2817%29.png)
+![Airtable's API page](<../../../.gitbook/assets/image (17).png>)
 
 Select the base you want to connect, then copy the id from URL
 
-![Selecting the application in the Airtable&apos;s API](../../../.gitbook/assets/get-base-api.gif)
+![Selecting the application in the Airtable's API](../../../.gitbook/assets/get-base-api.gif)
 
-![The base ID in the API URL](../../../.gitbook/assets/image%20%2822%29.png)
+![The base ID in the API URL](<../../../.gitbook/assets/image (22).png>)
 
 ### Generating an API key
 
@@ -35,6 +35,8 @@ You can generate API keys on your [account page](https://airtable.com/account).
 
 You can make queries by adding methods.
 
+### List Records
+
 ![Adding a method for Airtable](../../../.gitbook/assets/adding-method.gif)
 
 After that, you can select the table you want to grab the data
@@ -43,7 +45,7 @@ After that, you can select the table you want to grab the data
 
 Now you can use this connector with Tables, Collections or Actions
 
-### Filtering
+#### Filtering
 
 Sometimes, you want to filter which elements of Airtable you will want to use. For this, we have a filtering feature.
 
@@ -63,7 +65,7 @@ Additionally, you can pass parameters to theses filters.
 
 ![Passing parameters](../../../.gitbook/assets/passing-parameters.gif)
 
-### Additional properties
+#### Additional properties
 
 ![](../../../.gitbook/assets/airtable-others.gif)
 
@@ -72,4 +74,26 @@ Other properties you can define are:
 * **Maximum number of records**. Specify this to limit the number of records returned
 * **List of fields to return**: Specify which fields you want to query.
 * **List of fields to sort**: Specify fields and directions to order your query.
+* **Include Record ID**: A boolean value to decide if the record id should be included in the result fields
 
+### Create One Record
+
+Here you can create one record on a table. There are 3 possible arguments:
+
+* **table**: Name of the table from where you will be fetching data from. Same as in the **list records** method.
+* **fields**: A JSON template (it supports named params like _$params_) to insert in the database
+* (optional) **include Record Id**: A boolean value to decide if the record id should be included in the result fields.
+
+![](../../../.gitbook/assets/create-air.gif)
+
+### Update Record
+
+Here you can create one record on a table. There are 3 possible arguments:
+
+* **table**: Name of the table from where you will be fetching data from. Same as in the **list records** method.
+* **fields**: A JSON template (it supports named params like _$params_) to insert in the database
+* (optional) **include Record Id**: A boolean value to decide if the record id should be included in the result fields.
+
+During the use of this method the ID parameter will be prompted. This parameter is required by AirTable to update the specific record. In order to use this the user must have requested (or saved) the ID in a prior action. To get this ID you must toggle on the _includeRecordId_ parameter in the method that retrieves the record data.
+
+![](../../../.gitbook/assets/update-air.gif)
