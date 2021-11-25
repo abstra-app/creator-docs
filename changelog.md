@@ -8,6 +8,8 @@ description: Lists important changes to the editor
 
 * Added create and update methods to Airtable connector
 * Now you can see who is online with you in your project when you are editing
+* invalid iframe sources will no longer render the current page
+* fixed a bug that allows you to paste images while in preview mode
 
 ## 16/11/2021 - 19/11/2021
 
