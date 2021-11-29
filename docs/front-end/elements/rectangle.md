@@ -38,13 +38,13 @@ You can also add a shadow to your rectangle and adjust its properties, like blur
 
 **Offset Y** (vertical offset) defines de displacement in the Y-axis. It can also be positive or negative.
 
-**Blur** defines how blurred the shadow will be. If set to 0, the shadow will be sharp, similar to a border. The higher the number you define, the more blurred the shadow will be. 
+**Blur** defines how blurred the shadow will be. If set to 0, the shadow will be sharp, similar to a border. The higher the number you define, the more blurred the shadow will be.&#x20;
 
 **Spread** increases the overall size of the shadow, defining the distance between its blurred part and the element.
 
 ![](<../../../.gitbook/assets/rectangle8 (1).png>)
 
-**Color** is also a property that you can change to create different visual effects on your interface. 
+**Color** is also a property that you can change to create different visual effects on your interface.&#x20;
 
 ![Rectangles with different colors of shadow](../../../.gitbook/assets/rectangle9.png)
 
@@ -62,7 +62,7 @@ You can expand the input fields for each property by clicking on the icon below 
 
 ![](../../../.gitbook/assets/rectangle12.png)
 
-Using this menu, you can control border **thickness**, **color**, **style** and** radius**.
+Using this menu, you can control border **thickness**, **color**, **style** and **radius**.
 
 You can also adjust the border radius using the circles that appear near the border when you select the rectangle.
 

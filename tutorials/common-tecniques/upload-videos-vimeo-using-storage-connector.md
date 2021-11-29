@@ -28,7 +28,7 @@ Create a method called Submit. The **HTTP Method** should be `POST` and the **UR
 
 In this tutorial the video submitted will first uploaded to an AWS S3 Bucket and then uploaded to Vimeo. For this make sure you have a fully configured [Storage connector](../../docs/back-end/connectors/storage.md) with an [upload](../../docs/back-end/connectors/storage.md#upload) method as well.
 
-![](<../../.gitbook/assets/image (62).png>)
+![](<../../.gitbook/assets/image (62) (1).png>)
 
 ![](<../../.gitbook/assets/image (60).png>)
 
@@ -51,7 +51,7 @@ On the `success` of this action add another connetor call to the Vimeo connector
 }
 ```
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (59) (1).png>)
 
 Create a global variable called `vimeoLink` and set the result of the API call in it: `$.response.link`
 
@@ -61,7 +61,7 @@ Create a global variable called `vimeoLink` and set the result of the API call i
 
 This vimeoLink variable stores the final link of the uploaded video. So if you want you can save on your database with [hosted tables](../../docs/front-end/actions/hosted-tables.md) or send an [email](../../docs/back-end/connectors/e-mail.md) to notify someone. In this tutorial you will simply redirect to it with an [External Link](../../docs/front-end/actions/external-link.md) action.
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (66) (1).png>)
 
 ## Testing your application
 
@@ -71,4 +71,4 @@ That's it. Now we just test the application.
 
 Note that the video may not be available right away but in a few moments (depending on the video size) it will be live:
 
-![](<../../.gitbook/assets/image (63).png>)
+![](<../../.gitbook/assets/image (63) (1).png>)
