@@ -4,11 +4,6 @@ description: Lists important changes to the editor
 
 # Changelog
 
-## 28/11/2021 - 04/12/2021
-
-* Change the default behaviour of the upload method on the storage connector: now you need to opt-in to add a hash to the filename
-* Add Code connector with the first method: Python Code!
-
 ## 21/11/2021 - 27/11/2021
 
 * Added create and update methods to Airtable connector

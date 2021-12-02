@@ -43,7 +43,7 @@ There are 2 available methods: `Upload` and `List`
 
 ### Upload
 
-You can specify the `type` and `amount` of the uploaded files. Also a `prefix` to to prepend to the file name to create or use folders.&#x20;
+You can specify the `type` and `amount` of the uploaded files. Also a `prefix` to prepend to the file name to create or use folders. If you want you can now opt-in to add a hash before the filenaame.
 
 {% hint style="info" %}
 #### Adding parameters to the prefix
@@ -59,7 +59,9 @@ rootFolder/:nestedFolder
 ```
 {% endhint %}
 
-Abstra also adds an unique hash before the file name to differentiate between files with identical name and fixes it to be URL friendly, so if you upload a picture called `awesome cat.png` its actual uploaded name will be something like `9217e761-957d-43d9-9d5d-5f27b6ac805c-awesome-cat-png`
+#### Using Hash
+
+If you opt-in, Abstra adds an unique hash before the file name to differentiate between files with identical name and fixes it to be URL friendly, so if you upload a picture called `awesome cat.png` its actual uploaded name will be something like `9217e761-957d-43d9-9d5d-5f27b6ac805c-awesome-cat-png`
 
 After the file/files are uploaded the connector response will be the following:
 
