@@ -30,7 +30,7 @@ In this tutorial the video submitted will first uploaded to an AWS S3 Bucket and
 
 ![](<../../.gitbook/assets/image (62) (1).png>)
 
-![](<../../.gitbook/assets/image (60).png>)
+![](<../../.gitbook/assets/image (60) (1).png>)
 
 ## Frontend Setup
 
@@ -51,7 +51,7 @@ On the `success` of this action add another connetor call to the Vimeo connector
 }
 ```
 
-![](<../../.gitbook/assets/image (59) (1).png>)
+![](<../../.gitbook/assets/image (59) (1) (1).png>)
 
 Create a global variable called `vimeoLink` and set the result of the API call in it: `$.response.link`
 

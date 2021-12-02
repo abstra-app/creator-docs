@@ -24,7 +24,7 @@
 * [Sample Projects](tutorials/projects/README.md)
   * [BMI Calculator](tutorials/projects/bmi-calculator.md)
 
-## Documentation <a href="docs" id="docs"></a>
+## Documentation <a href="#docs" id="docs"></a>
 
 * [Front-end](docs/front-end/README.md)
   * [Actions](docs/front-end/actions/README.md)
@@ -80,6 +80,7 @@
   * [Shortcuts](docs/front-end/shortcuts.md)
 * [Back-end](docs/back-end/README.md)
   * [Connectors](docs/back-end/connectors/README.md)
+    * [Code](docs/back-end/connectors/code.md)
     * [Storage](docs/back-end/connectors/storage.md)
     * [Airtable](docs/back-end/connectors/airtable.md)
     * [Google Sheets](docs/back-end/connectors/google-sheets.md)

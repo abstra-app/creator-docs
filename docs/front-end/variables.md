@@ -43,7 +43,7 @@ Abstra comes with 7 different variable types: &#x20;
 
 When you have some hosted tables created, you can create variables with types according to them:
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (59) (1).png>)
 
 ![](<../../.gitbook/assets/image (66).png>)
 
