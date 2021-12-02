@@ -45,7 +45,7 @@ You can import modules (currently only requests) and use it normally:
 
 #### Running Async
 
-If you tick the box ""u
+If you tick the box "run asynchronously" your method will return `running async` and don't wait for the code to finish. Otherwise it will wait for the code to finish before returning the `output_data`
 
 
 
