@@ -2,7 +2,7 @@
 
 Abstra allows you to use your own authentication provider (OIDC and OAuth2.0) for in app authentication / authorization. You only need to fill the **`Authority`** (the URL of the provider) and the **`Client ID`** (your client application's identifier as registered with the OIDC/OAuth2 provider).
 
-![](<../../.gitbook/assets/image (57) (1).png>)
+![](<../../.gitbook/assets/image (57) (1) (1).png>)
 
 {% hint style="warning" %}
 For this to work you need to allow `https://*.abstra.app/sign-in` as a callback URL and `https://*.abstra.app/sign-out` as a logout URL&#x20;
@@ -55,6 +55,6 @@ For the **`role`** type you need to specify the path of the role inside the user
 
 Notice that inside the profile object there is an entry named **`https://example.com/roles`** (per OIDC standards the key must be an **uri**, but it may vary in your provider). That entry is the roles list in our case, so we can configure the access rule as follows:
 
-![](<../../.gitbook/assets/image (51) (1).png>)
+![](<../../.gitbook/assets/image (51) (1) (1).png>)
 
 To see an example check out [using Auth0 roles](../../tutorials/common-tecniques/auth0-roles.md).

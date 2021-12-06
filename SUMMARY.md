@@ -2,6 +2,7 @@
 
 * [Introduction to Abstra](README.md)
 * [Changelog](changelog.md)
+* [Security](security.md)
 
 ## Tutorials
 

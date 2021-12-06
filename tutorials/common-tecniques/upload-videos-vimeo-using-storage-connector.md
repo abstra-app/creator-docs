@@ -57,7 +57,7 @@ Create a global variable called `vimeoLink` and set the result of the API call i
 
 ![](<../../.gitbook/assets/image (47).png>)
 
-![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (51) (1).png>)
 
 This vimeoLink variable stores the final link of the uploaded video. So if you want you can save on your database with [hosted tables](../../docs/front-end/actions/hosted-tables.md) or send an [email](../../docs/back-end/connectors/e-mail.md) to notify someone. In this tutorial you will simply redirect to it with an [External Link](../../docs/front-end/actions/external-link.md) action.
 
