@@ -25,7 +25,7 @@ To call a method you need at least the `method id` and the `connector type`
 To execute it all you have to do is a POST request on:
 
 ```
-https://remote-actions.services.abstra.app/v2/execute/<CONNECTOR-TYPE>
+https://remote-actions.abstra.cloud/v2/execute/<CONNECTOR-TYPE>
 ```
 
 The body should be JSON-encoded and follow the template:
@@ -118,7 +118,7 @@ To call a query you need at least the `statement id`&#x20;
 To execute it all you have to do is a POST request on:
 
 ```
-https://tables.services.abstra.app/execute/:statementId
+https://tables.abstra.cloud/execute/:statementId
 ```
 
 The body should be JSON-encoded with the params you specified.
