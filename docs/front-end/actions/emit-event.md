@@ -6,12 +6,12 @@ When you have a component with custom internal behavior and you want to send inf
 
 To do that you can add an action that dispatches the event
 
-![](<../../../.gitbook/assets/image (48) (1) (1).png>)
+![](<../../../.gitbook/assets/image (48) (1) (1) (1).png>)
 
 On the component element on the page displaying the component you can add a trigger that catches the event so you can start an action flow
 
-![](<../../../.gitbook/assets/image (47) (1) (1).png>)
+![](<../../../.gitbook/assets/image (47) (1) (1) (1).png>)
 
 To select which event you what to capture you can click on the trigger and edit the event filter
 
-![](<../../../.gitbook/assets/image (49) (1) (1).png>)
+![](<../../../.gitbook/assets/image (49) (1) (1) (1).png>)
