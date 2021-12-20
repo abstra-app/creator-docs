@@ -4,6 +4,10 @@ description: Lists important changes to the editor
 
 # Changelog
 
+## 19/12/2021 - 25/12/2021
+
+* Added Breakpoints functionality;
+
 ## 28/11/2021 - 04/12/2021
 
 * Change the default behaviour of the upload method on the storage connector: now you need to opt-in to add a hash to the filename
