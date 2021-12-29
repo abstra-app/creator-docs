@@ -4,7 +4,7 @@ description: This page explains how Abstra applications work and how we deal wit
 
 # Security
 
-![](<.gitbook/assets/image (51).png>)
+![](<.gitbook/assets/image (51) (1).png>)
 
 Abstra is mostly a frontend editor, that said, almost all sensitive data you deal with your applications are not stored with us. In fact, most of it does not even pass through our servers.
 

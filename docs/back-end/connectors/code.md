@@ -27,11 +27,11 @@ To return data, just create a variable called output\_data its value will be ret
 
 For example, the following method passes an object with a key `num` as the `input_data` and has the `$num` param; The `output_data` is the squares of integers smaller then the input:
 
-![](<../../../.gitbook/assets/image (64).png>)
+![](<../../../.gitbook/assets/image (64) (1).png>)
 
 And can be used like this:
 
-![](<../../../.gitbook/assets/image (59) (1).png>)
+![](<../../../.gitbook/assets/image (59) (1) (1).png>)
 
 About `imports`
 
@@ -41,7 +41,7 @@ Importing python modules is currently limited to the `requests` package. Others 
 
 You can import modules (currently only requests) and use it normally:
 
-![](<../../../.gitbook/assets/image (60) (1).png>)
+![](<../../../.gitbook/assets/image (60) (1) (1).png>)
 
 #### Running Async
 

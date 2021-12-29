@@ -16,7 +16,7 @@ Once you have all the information above you can now create a [REST connector](..
 * **`Content-Type`**: `application/json`
 * **`Accept`**: `application/vnd.vimeo.*+json;version=3.4`
 
-![](<../../.gitbook/assets/image (58) (1).png>)
+![](<../../.gitbook/assets/image (58) (1) (1).png>)
 
 #### Method Setup
 
@@ -28,9 +28,9 @@ Create a method called Submit. The **HTTP Method** should be `POST` and the **UR
 
 In this tutorial the video submitted will first uploaded to an AWS S3 Bucket and then uploaded to Vimeo. For this make sure you have a fully configured [Storage connector](../../docs/back-end/connectors/storage.md) with an [upload](../../docs/back-end/connectors/storage.md#upload) method as well.
 
-![](<../../.gitbook/assets/image (62) (1) (1).png>)
+![](<../../.gitbook/assets/image (62) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (60) (1) (1).png>)
+![](<../../.gitbook/assets/image (60) (1) (1) (1).png>)
 
 ## Frontend Setup
 
@@ -38,7 +38,7 @@ In the frontend you will call the connectors you previously setup.
 
 Add a button and an action `on click`. This first action should be the Storage method of upload file you previously created.
 
-![](<../../.gitbook/assets/image (65).png>)
+![](<../../.gitbook/assets/image (65) (1).png>)
 
 On the `success` of this action add another connetor call to the Vimeo connector to submit the video. The request body should be the following:
 
@@ -51,17 +51,17 @@ On the `success` of this action add another connetor call to the Vimeo connector
 }
 ```
 
-![](<../../.gitbook/assets/image (59) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (59) (1) (1) (1) (1).png>)
 
 Create a global variable called `vimeoLink` and set the result of the API call in it: `$.response.link`
 
 ![](<../../.gitbook/assets/image (47) (1).png>)
 
-![](<../../.gitbook/assets/image (51) (1).png>)
+![](<../../.gitbook/assets/image (51) (1) (1).png>)
 
 This vimeoLink variable stores the final link of the uploaded video. So if you want you can save on your database with [hosted tables](../../docs/front-end/actions/hosted-tables.md) or send an [email](../../docs/back-end/connectors/e-mail.md) to notify someone. In this tutorial you will simply redirect to it with an [External Link](../../docs/front-end/actions/external-link.md) action.
 
-![](<../../.gitbook/assets/image (66) (1) (1).png>)
+![](<../../.gitbook/assets/image (66) (1) (1) (1).png>)
 
 ## Testing your application
 

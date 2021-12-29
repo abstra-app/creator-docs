@@ -12,7 +12,7 @@ For this to work you need to allow `https://*.abstra.app/sign-in` as a callback 
 
 If your authentication flow requires, you may also need to fill the **`client secret`**
 
-![](<../../.gitbook/assets/image (52) (1) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1) (1).png>)
 
 Some providers don't implement some features that Abstra requires, so you have to overwrite the OIDC metadata. In this case, Abstra tries to fill them automatically (such as Auth0's `end_session_endpoint`), but you may have to fill them yourself, or get in touch with us.
 
@@ -41,7 +41,7 @@ Abstra allows you to authenticate method/statement calls without an user token w
 
 To protect some assets, Abstra allows you to create and set access rules for them.
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (50) (1).png>)
 
 Access rules can be of the **`user`** or **`role`** type.&#x20;
 
@@ -55,6 +55,6 @@ For the **`role`** type you need to specify the path of the role inside the user
 
 Notice that inside the profile object there is an entry named **`https://example.com/roles`** (per OIDC standards the key must be an **uri**, but it may vary in your provider). That entry is the roles list in our case, so we can configure the access rule as follows:
 
-![](<../../.gitbook/assets/image (51) (1) (1).png>)
+![](<../../.gitbook/assets/image (51) (1) (1) (1).png>)
 
 To see an example check out [using Auth0 roles](../../tutorials/common-tecniques/auth0-roles.md).

@@ -26,7 +26,7 @@ The `bestBand` example shows how to read a variable using [Mustache notation](ar
 
 Abstra comes with 7 different variable types: &#x20;
 
-![](<../../.gitbook/assets/image (62) (1).png>)
+![](<../../.gitbook/assets/image (62) (1) (1).png>)
 
 * **Text**: any text value you may want to store, such as names, urls, and other textual information
 * **Yes/No**: any boolean values. For example you might want to store if a user has clicked a button
@@ -43,9 +43,9 @@ Abstra comes with 7 different variable types: &#x20;
 
 When you have some hosted tables created, you can create variables with types according to them:
 
-![](<../../.gitbook/assets/image (59) (1) (1).png>)
+![](<../../.gitbook/assets/image (59) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (66) (1).png>)
+![](<../../.gitbook/assets/image (66) (1) (1).png>)
 
 The first is typed as a single row of the table, so you can get auto suggestions for the complete row or each column:
 
