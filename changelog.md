@@ -4,6 +4,10 @@ description: Lists important changes to the editor
 
 # Changelog
 
+## 26/12/2021 - 01/01/2022
+
+* Adding [input masks](docs/front-end/elements/inputs/text.md#masks)
+
 ## 19/12/2021 - 25/12/2021
 
 * Added Breakpoints functionality;
