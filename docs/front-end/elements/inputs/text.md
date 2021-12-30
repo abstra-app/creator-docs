@@ -4,7 +4,7 @@ Text inputs are basic single line text inputs for your application. They are com
 
 ![](../../../../.gitbook/assets/screenshot-from-2021-08-26-11-33-23.png)
 
- A text input configuration is divided in 3 different sections. In the first section you can configure it's dimensions, position, responsivity and all of it's arguments.
+&#x20;A text input configuration is divided in 3 different sections. In the first section you can configure it's dimensions, position, responsivity and all of it's arguments.
 
 ![](../../../../.gitbook/assets/screenshot-from-2021-08-27-11-36-56.png)
 
@@ -26,3 +26,16 @@ The  third configuration section let's you change you input `Placeholder`.
 
 ![](../../../../.gitbook/assets/screenshot-from-2021-08-27-11-40-13.png)
 
+## Masks
+
+You can customize the acceptable format of each input by using masks
+
+![Mask is a optional parameter, so you have to add on the + button](<../../../../.gitbook/assets/image (53).png>)
+
+Examples of masks:
+
+`00/00/0000` for dates
+
+`(000) 000 - 0000` for US phone numbers
+
+`aaa` for currency codes
