@@ -14,4 +14,4 @@ On the component element on the page displaying the component you can add a trig
 
 To select which event you what to capture you can click on the trigger and edit the event filter
 
-![](<../../../.gitbook/assets/image (49) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (49) (1) (1) (1) (1).png>)

@@ -8,8 +8,9 @@
 
 * [Getting started](tutorials/getting-started.md)
 * [Lessons](tutorials/common-tecniques/README.md)
-  * [Editable list (To Do app)](tutorials/common-tecniques/editable-list-to-do-app.md)
   * [Basic form](tutorials/common-tecniques/basic-form.md)
+  * [Collapsible sidebar](tutorials/common-tecniques/collapsible-sidebar.md)
+  * [Editable list (To Do app)](tutorials/common-tecniques/editable-list-to-do-app.md)
   * [Variable dropdown items](tutorials/common-tecniques/variable-dropdown-items.md)
   * [Running Abstra apps natively on Android with Cordova](tutorials/common-tecniques/running-abstra-apps-natively-on-android-with-cordova.md)
   * [Replicating an ER Diagram on Hosted Tables](tutorials/common-tecniques/replicating-an-er-diagram-on-hosted-tables.md)

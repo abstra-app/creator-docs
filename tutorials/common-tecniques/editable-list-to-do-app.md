@@ -23,7 +23,7 @@ Also, we need to add the CRUD operations that will be used by our frontend.
 
 ## Task component
 
-![Task item with a checkbox and an input](<../../.gitbook/assets/image (62).png>)
+![Task item with a checkbox and an input](<../../.gitbook/assets/image (62) (1).png>)
 
 ![Create an task variable for input editing](<../../.gitbook/assets/image (50).png>)
 
@@ -39,5 +39,5 @@ Also, we need to add the CRUD operations that will be used by our frontend.
 
 ![Adding a buttom in the same page for create task](<../../.gitbook/assets/image (66).png>)
 
-![Refresh collection after reload](<../../.gitbook/assets/image (61).png>)
+![Refresh collection after reload](<../../.gitbook/assets/image (61) (1).png>)
 

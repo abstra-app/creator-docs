@@ -30,7 +30,7 @@ The  third configuration section let's you change you input `Placeholder`.
 
 You can customize the acceptable format of each input by using masks
 
-![Mask is a optional parameter, so you have to add on the + button](<../../../../.gitbook/assets/image (53).png>)
+![Mask is a optional parameter, so you have to add on the + button](<../../../../.gitbook/assets/image (53) (1).png>)
 
 Examples of masks:
 

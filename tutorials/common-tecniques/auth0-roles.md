@@ -44,7 +44,7 @@ You are done! Now you can test this with Abstra.
 
 Let's create a project with a protected page for `super-admin` users only. First go to your project and then **Settings** > **Authentication**. Scroll down to **Try now** and check to see the roles you injected.
 
-![](<../../.gitbook/assets/image (49) (1) (1).png>)
+![](<../../.gitbook/assets/image (49) (1) (1) (1).png>)
 
 You can access your roles via `$.user.profile["https://example.com/roles"]`
 
