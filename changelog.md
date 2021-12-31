@@ -6,7 +6,9 @@ description: Lists important changes to the editor
 
 ## 26/12/2021 - 01/01/2022
 
-* Adding [input masks](docs/front-end/elements/inputs/text.md#masks)
+* Adding [input masks](docs/front-end/elements/inputs/text.md#masks).
+* Bugfix: allowing empty numeric inputs.
+* [New modal mechanics](docs/front-end/actions/show-modal.md#customization-with-springs).
 
 ## 19/12/2021 - 25/12/2021
 
