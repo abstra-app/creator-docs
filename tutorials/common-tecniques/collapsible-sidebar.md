@@ -28,5 +28,5 @@ Notice that the expanded sidebar is shown glued to the top. You can fix that by 
 
 ![Just the expaned sidebar should have this offset in px](<../../.gitbook/assets/image (62).png>)
 
-![This should work like this](../../.gitbook/assets/collapsible-sidebar-2.gif)
+![It should work like this](../../.gitbook/assets/collapsible-sidebar-2.gif)
 
