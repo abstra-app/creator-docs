@@ -2,7 +2,7 @@
 
 Abstra allows you to use your own authentication provider (OIDC and OAuth2.0) for in app authentication / authorization. You only need to fill the **`Authority`** (the URL of the provider) and the **`Client ID`** (your client application's identifier as registered with the OIDC/OAuth2 provider).
 
-![](<../../.gitbook/assets/image (57) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (57) (1) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 For this to work you need to allow `https://*.abstra.app/sign-in` as a callback URL and `https://*.abstra.app/sign-out` as a logout URL&#x20;
@@ -16,7 +16,7 @@ If your authentication flow requires, you may also need to fill the **`client se
 
 Some providers don't implement some features that Abstra requires, so you have to overwrite the OIDC metadata. In this case, Abstra tries to fill them automatically (such as Auth0's `end_session_endpoint`), but you may have to fill them yourself, or get in touch with us.
 
-![](<../../.gitbook/assets/image (54) (1) (1).png>)
+![](<../../.gitbook/assets/image (54) (1) (1) (1).png>)
 
 There are several authentication providers services. Abstra itself uses Auth0. Learn how to integrate Auth0 into your application here: [Authentication with Auth0](../../tutorials/common-tecniques/auth-with-auth0.md).
 
@@ -35,7 +35,7 @@ For example name can be accessed with `$.user.profile.name` or `{{ user.profile.
 
 Abstra allows you to authenticate method/statement calls without an user token with **api tokens**. Check how to use them in [calling methods/statements outside Abstra apps](../../tutorials/common-tecniques/calling-connectors-or-tables-from-outside-abstra.md).
 
-![](<../../.gitbook/assets/image (53) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (53) (1) (1).png>)
 
 ### Access Rules
 

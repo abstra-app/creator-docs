@@ -18,7 +18,7 @@ Notice that no distances to the right of the page are fixed. This is important b
 
 Now you have both components, you can add a click event on the hamburger menu icon to show the expanded version of the sidebar.
 
-![You only need to trigger the expanded version](<../../.gitbook/assets/image (61).png>)
+![You only need to trigger the expanded version](<../../.gitbook/assets/image (61) (1).png>)
 
 Now you should have a working sidebar like that:
 
@@ -26,7 +26,7 @@ Now you should have a working sidebar like that:
 
 Notice that the expanded sidebar is shown glued to the top. You can fix that by making an offset on the expanded sidebar with the same size as your navbar
 
-![Just the expaned sidebar should have this offset in px](<../../.gitbook/assets/image (62).png>)
+![Just the expaned sidebar should have this offset in px](<../../.gitbook/assets/image (62) (1).png>)
 
 ![It should work like this](../../.gitbook/assets/collapsible-sidebar-2.gif)
 

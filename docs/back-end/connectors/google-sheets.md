@@ -4,37 +4,53 @@ description: You don't have to manage a database to have your data organized.
 
 # Google Sheets
 
-You can access your google spreadsheets using Abstra. Create one connector for each document.
-
-![](../../../.gitbook/assets/image%20%2839%29.png)
+This connector is used to access your google spreadsheets with Abstra. Create the connector and select the spreadsheet in order to begin using it.
 
 You need to authorize access to the specific spreadsheets you need
 
-![](../../../.gitbook/assets/image%20%2836%29.png)
+![](<../../../.gitbook/assets/image (36).png>)
 
 Select the spreadsheet
 
-![](../../../.gitbook/assets/image%20%2831%29.png)
+![](<../../../.gitbook/assets/image (31).png>)
 
-Add a method for each query you want to make.
+These are the methods you can use to interact with your spreadsheet:
 
-![Use A1 notation for ranges](../../../.gitbook/assets/image%20%2843%29.png)
+* Get range
+* Insert Row
+* Update Rows
+* Delete Rows
 
-Test to see if this is working
+#### Get Range
 
-![](../../../.gitbook/assets/image%20%2830%29.png)
+With this method, you can select a range from the spreadsheet using the A1 notation
 
-Also you can set the first row as a header. For example you have a sheet like this:
+![](<../../../.gitbook/assets/image (62).png>)
 
-![](../../../.gitbook/assets/image%20%2840%29.png)
+If you choose to use the first row as a header, the return will be an array of JSON objects, with the keys being the first row of the range, otherwise, the return will be an array of arrays, each one representing a row on the table.
 
-If you check the _set first row as header_ box, your result will be transformed into:
+![Examples of the value the method returns, with and without selecting to use the first row as header](<../../../.gitbook/assets/image (54).png>)
 
-![](../../../.gitbook/assets/image%20%2841%29.png)
+#### Insert Row
 
-![](../../../.gitbook/assets/image%20%2844%29.png)
+With this method, you can insert a row in a table that is in your spreadsheet. You just need to fill the range of the table you are inserting the values, and they will be added to the first empty row in that range or bellow it. If you select the _Use first row as header_ option, the value can be a JSON object with the keys being the names of the columns, otherwise, the value has to be an array representing the row.
 
-This makes it easier to use the data in [collections](../../front-end/elements/collection.md) and tables like so:
+![Examples for the insert row value, with and without using the first row as header](<../../../.gitbook/assets/image (61).png>)
 
-![](../../../.gitbook/assets/image%20%2842%29.png)
+#### Update Rows
 
+With this method, you can update rows in a table that is in your spreadsheet. You just need to fill the range of the table you are updating the values, fill the filter and the new values for the rows that match the filter. If you select the _Use first row as header_ option, the filter and value can be a JSON object with the keys being the names of the columns, otherwise, they should be JSON objects where the keys are the indexes of the columns in their order. Only the values you add to the update are going to be changed in the matched rows.
+
+![Examples for updating all items where id equals 3, setting their value to R$5,00](<../../../.gitbook/assets/image (66).png>)
+
+#### Delete Rows
+
+This method is used to delete rows from a table in your spreadsheet. First you need to input the range of the table using A1 notation, and then fill the filter that will select the rows that are going to be deleted. If you select the _Use first row as header_ option, the filter can be a JSON object with the keys being the names of the columns, otherwise, they should be JSON objects where the keys are the indexes of the columns in their order.&#x20;
+
+![Examples for deleting all items where the name is Notebook](<../../../.gitbook/assets/image (64).png>)
+
+#### Using parameters in the methods
+
+You can add parameters to your methods, that will be filled in the front end, by adding keywords that begin with a dollar sign. This example updates an item with an id that will be provided by the front end, setting the value to another parameter that will be provided in the front end.
+
+![](<../../../.gitbook/assets/image (55).png>)

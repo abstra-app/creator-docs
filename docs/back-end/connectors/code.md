@@ -27,7 +27,7 @@ To return data, just create a variable called output\_data its value will be ret
 
 For example, the following method passes an object with a key `num` as the `input_data` and has the `$num` param; The `output_data` is the squares of integers smaller then the input:
 
-![](<../../../.gitbook/assets/image (64) (1).png>)
+![](<../../../.gitbook/assets/image (64) (2).png>)
 
 And can be used like this:
 

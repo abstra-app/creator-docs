@@ -18,9 +18,9 @@ and following methods:
 
 `GET /Cidades.json`
 
-``![](<../../.gitbook/assets/image (61) (1) (1).png>)``![](<../../.gitbook/assets/image (63) (1).png>)``
+``![](<../../.gitbook/assets/image (61) (2).png>)``![](<../../.gitbook/assets/image (63) (2).png>)``
 
-``![](<../../.gitbook/assets/image (54).png>)``![](<../../.gitbook/assets/image (60) (1).png>)``
+``![](<../../.gitbook/assets/image (54) (1).png>)``![](<../../.gitbook/assets/image (60) (1).png>)``
 
 ## Step 2: Adding variables
 
@@ -30,17 +30,17 @@ Add 3 variables:
 * cities: Array/List -> used for store the list of cities
 * selectedState: Text -> used for store the id of selected state
 
-![](<../../.gitbook/assets/image (53) (1) (1).png>)![](<../../.gitbook/assets/image (48).png>)![](<../../.gitbook/assets/image (57).png>)![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (53) (2).png>)![](<../../.gitbook/assets/image (48).png>)![](<../../.gitbook/assets/image (57) (1).png>)![](<../../.gitbook/assets/image (56).png>)
 
 ## Step 3: Grabbing the list of states and cities
 
 At the page start, you can add an action to fetch the states and cities list
 
-![](<../../.gitbook/assets/image (66) (1).png>)![](<../../.gitbook/assets/image (49) (1).png>)![](<../../.gitbook/assets/image (59) (1).png>)![](<../../.gitbook/assets/image (52) (1).png>)![](<../../.gitbook/assets/image (58) (1).png>)
+![](<../../.gitbook/assets/image (66) (2).png>)![](<../../.gitbook/assets/image (49) (1).png>)![](<../../.gitbook/assets/image (59) (1).png>)![](<../../.gitbook/assets/image (52) (2).png>)![](<../../.gitbook/assets/image (58) (1).png>)
 
 ## Step 4: Configuring the dropdowns
 
-![](<../../.gitbook/assets/image (55).png>)![](<../../.gitbook/assets/image (62) (1) (1).png>)![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (55) (1).png>)![](<../../.gitbook/assets/image (62) (2).png>)![](<../../.gitbook/assets/image (47).png>)
 
 States dropdown -> variable
 
