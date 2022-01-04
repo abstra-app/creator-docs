@@ -4,6 +4,10 @@ description: Lists important changes to the editor
 
 # Changelog
 
+## 02/01/2022 - 08/01/2022
+
+* Bugfix: handling error when variable's type points to a deleted table. Now we display a message informing this.
+
 ## 26/12/2021 - 01/01/2022
 
 * Adding [input masks](docs/front-end/elements/inputs/text.md#masks).
