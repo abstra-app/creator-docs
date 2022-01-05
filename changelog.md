@@ -7,6 +7,7 @@ description: Lists important changes to the editor
 ## 02/01/2022 - 08/01/2022
 
 * Bugfix: handling error when variable's type points to a deleted table. Now we display a message informing this.
+* Added an alternative for popup login: [Redirect Login](docs/front-end/actions/redirect-sign-in-sign-up.md).&#x20;
 
 ## 26/12/2021 - 01/01/2022
 
