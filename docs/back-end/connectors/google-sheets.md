@@ -29,7 +29,7 @@ With this method, you can select a range from the spreadsheet using the A1 notat
 
 If you choose to use the first row as a header, the return will be an array of JSON objects, with the keys being the first row of the range, otherwise, the return will be an array of arrays, each one representing a row on the table.
 
-![Examples of the value the method returns, with and without selecting to use the first row as header](<../../../.gitbook/assets/image (54).png>)
+![Examples of the value the method returns, with and without selecting to use the first row as header](<../../../.gitbook/assets/image (54) (1).png>)
 
 #### Insert Row
 

@@ -22,7 +22,7 @@ Once you have all the information above you can now create a [REST connector](..
 
 Create a method called Submit. The **HTTP Method** should be `POST` and the **URL Path** should be `/me/videos`.
 
-![](<../../.gitbook/assets/image (56) (1).png>)
+![](<../../.gitbook/assets/image (56) (1) (1).png>)
 
 ## Storage connector
 
@@ -38,7 +38,7 @@ In the frontend you will call the connectors you previously setup.
 
 Add a button and an action `on click`. This first action should be the Storage method of upload file you previously created.
 
-![](<../../.gitbook/assets/image (65) (1).png>)
+![](<../../.gitbook/assets/image (65) (1) (1).png>)
 
 On the `success` of this action add another connetor call to the Vimeo connector to submit the video. The request body should be the following:
 
@@ -55,7 +55,7 @@ On the `success` of this action add another connetor call to the Vimeo connector
 
 Create a global variable called `vimeoLink` and set the result of the API call in it: `$.response.link`
 
-![](<../../.gitbook/assets/image (47) (1).png>)
+![](<../../.gitbook/assets/image (47) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (51) (1) (1).png>)
 

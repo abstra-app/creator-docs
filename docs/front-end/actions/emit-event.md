@@ -10,7 +10,7 @@ To do that you can add an action that dispatches the event
 
 On the component element on the page displaying the component you can add a trigger that catches the event so you can start an action flow
 
-![](<../../../.gitbook/assets/image (47) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (47) (1) (1) (1) (1).png>)
 
 To select which event you what to capture you can click on the trigger and edit the event filter
 

@@ -20,7 +20,7 @@ and following methods:
 
 ``![](<../../.gitbook/assets/image (61) (2).png>)``![](<../../.gitbook/assets/image (63) (2).png>)``
 
-``![](<../../.gitbook/assets/image (54) (1).png>)``![](<../../.gitbook/assets/image (60) (1).png>)``
+``![](<../../.gitbook/assets/image (54) (1) (1).png>)``![](<../../.gitbook/assets/image (60) (1).png>)``
 
 ## Step 2: Adding variables
 
@@ -30,7 +30,7 @@ Add 3 variables:
 * cities: Array/List -> used for store the list of cities
 * selectedState: Text -> used for store the id of selected state
 
-![](<../../.gitbook/assets/image (53) (2).png>)![](<../../.gitbook/assets/image (48).png>)![](<../../.gitbook/assets/image (57) (1).png>)![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (53) (2).png>)![](<../../.gitbook/assets/image (48).png>)![](<../../.gitbook/assets/image (57) (1).png>)![](<../../.gitbook/assets/image (56) (1).png>)
 
 ## Step 3: Grabbing the list of states and cities
 
@@ -40,7 +40,7 @@ At the page start, you can add an action to fetch the states and cities list
 
 ## Step 4: Configuring the dropdowns
 
-![](<../../.gitbook/assets/image (55) (1).png>)![](<../../.gitbook/assets/image (62) (2).png>)![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (55) (1).png>)![](<../../.gitbook/assets/image (62) (2).png>)![](<../../.gitbook/assets/image (47) (1).png>)
 
 States dropdown -> variable
 

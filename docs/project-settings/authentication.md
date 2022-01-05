@@ -16,7 +16,7 @@ If your authentication flow requires, you may also need to fill the **`client se
 
 Some providers don't implement some features that Abstra requires, so you have to overwrite the OIDC metadata. In this case, Abstra tries to fill them automatically (such as Auth0's `end_session_endpoint`), but you may have to fill them yourself, or get in touch with us.
 
-![](<../../.gitbook/assets/image (54) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (54) (1) (1) (1) (1).png>)
 
 There are several authentication providers services. Abstra itself uses Auth0. Learn how to integrate Auth0 into your application here: [Authentication with Auth0](../../tutorials/common-tecniques/auth-with-auth0.md).
 
@@ -47,7 +47,7 @@ Access rules can be of the **`user`** or **`role`** type.&#x20;
 
 For the **`user`** type you can specify emails addresses (including wildcards ex: `*.sales@abstra.app`) that will only allow users that match at least one email.
 
-![](<../../.gitbook/assets/image (47) (1) (1).png>)
+![](<../../.gitbook/assets/image (47) (1) (1) (1).png>)
 
 For the **`role`** type you need to specify the path of the role inside the user profile. For example, when we tested our login we got the following information from the provider:
 
