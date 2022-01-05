@@ -8,6 +8,7 @@ description: Lists important changes to the editor
 
 * Bugfix: handling error when variable's type points to a deleted table. Now we display a message informing this.
 * Added an alternative for popup login: [Redirect Login](docs/front-end/actions/redirect-sign-in-sign-up.md).&#x20;
+* Added option to choose item overflow for collection
 
 ## 26/12/2021 - 01/01/2022
 
