@@ -4,6 +4,10 @@ description: Lists important changes to the editor
 
 # Changelog
 
+## 09/01/2022 - 15/01/2022
+
+* Now you can edit multiple elements at once
+
 ## 02/01/2022 - 08/01/2022
 
 * Bugfix: handling error when variable's type points to a deleted table. Now we display a message informing this.
