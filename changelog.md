@@ -6,7 +6,7 @@ description: Lists important changes to the editor
 
 ## 09/01/2022 - 15/01/2022
 
-* Now you can edit multiple elements at once
+* Now you can edit, add and remove spring and breakpoints of multiple elements at once
 
 ## 02/01/2022 - 08/01/2022
 
