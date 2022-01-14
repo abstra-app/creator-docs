@@ -33,6 +33,7 @@
 ## Documentation <a href="#docs" id="docs"></a>
 
 * [Front-end](docs/front-end/README.md)
+  * [Breakpoints](docs/front-end/breakpoints.md)
   * [Actions](docs/front-end/actions/README.md)
     * [Emit Event](docs/front-end/actions/emit-event.md)
     * [Hosted Tables](docs/front-end/actions/hosted-tables.md)

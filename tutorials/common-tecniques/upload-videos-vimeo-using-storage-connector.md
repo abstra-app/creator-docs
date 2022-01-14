@@ -22,7 +22,7 @@ Once you have all the information above you can now create a [REST connector](..
 
 Create a method called Submit. The **HTTP Method** should be `POST` and the **URL Path** should be `/me/videos`.
 
-![](<../../.gitbook/assets/image (56) (1) (1).png>)
+![](<../../.gitbook/assets/image (56) (1) (1) (1).png>)
 
 ## Storage connector
 
@@ -61,7 +61,7 @@ Create a global variable called `vimeoLink` and set the result of the API call i
 
 This vimeoLink variable stores the final link of the uploaded video. So if you want you can save on your database with [hosted tables](../../docs/front-end/actions/hosted-tables.md) or send an [email](../../docs/back-end/connectors/e-mail.md) to notify someone. In this tutorial you will simply redirect to it with an [External Link](../../docs/front-end/actions/external-link.md) action.
 
-![](<../../.gitbook/assets/image (66) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (66) (1) (1) (1) (1).png>)
 
 ## Testing your application
 
@@ -71,4 +71,4 @@ That's it. Now we just test the application.
 
 Note that the video may not be available right away but in a few moments (depending on the video size) it will be live:
 
-![](<../../.gitbook/assets/image (63) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (63) (1) (1) (1) (1).png>)

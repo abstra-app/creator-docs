@@ -41,13 +41,13 @@ With this method, you can insert a row in a table that is in your spreadsheet. Y
 
 With this method, you can update rows in a table that is in your spreadsheet. You just need to fill the range of the table you are updating the values, fill the filter and the new values for the rows that match the filter. If you select the _Use first row as header_ option, the filter and value can be a JSON object with the keys being the names of the columns, otherwise, they should be JSON objects where the keys are the indexes of the columns in their order. Only the values you add to the update are going to be changed in the matched rows.
 
-![Examples for updating all items where id equals 3, setting their value to R$5,00](<../../../.gitbook/assets/image (66).png>)
+![Examples for updating all items where id equals 3, setting their value to R$5,00](<../../../.gitbook/assets/image (66) (1).png>)
 
 #### Delete Rows
 
 This method is used to delete rows from a table in your spreadsheet. First you need to input the range of the table using A1 notation, and then fill the filter that will select the rows that are going to be deleted. If you select the _Use first row as header_ option, the filter can be a JSON object with the keys being the names of the columns, otherwise, they should be JSON objects where the keys are the indexes of the columns in their order.&#x20;
 
-![Examples for deleting all items where the name is Notebook](<../../../.gitbook/assets/image (64).png>)
+![Examples for deleting all items where the name is Notebook](<../../../.gitbook/assets/image (64) (1).png>)
 
 #### Using parameters in the methods
 

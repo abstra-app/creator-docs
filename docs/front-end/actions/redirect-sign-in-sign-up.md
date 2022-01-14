@@ -2,7 +2,7 @@
 
 The `Redirect Sign in / Sign up` action is used to sign in your application's users.
 
-![](<../../../.gitbook/assets/image (56).png>)
+![](<../../../.gitbook/assets/image (56) (1).png>)
 
 You can choose page that the user will be redirected to after a successful login or a failed login.
 

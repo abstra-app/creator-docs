@@ -19,7 +19,7 @@ We will add 2 extra columns (`description` and `done`)
 
 Also, we need to add the CRUD operations that will be used by our frontend.
 
-![](<../../.gitbook/assets/image (67).png>)![](<../../.gitbook/assets/image (64) (1).png>)![](<../../.gitbook/assets/image (69) (1).png>)![](<../../.gitbook/assets/image (70).png>)![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (67) (1).png>)![](<../../.gitbook/assets/image (64) (1) (1).png>)![](<../../.gitbook/assets/image (69) (1).png>)![](<../../.gitbook/assets/image (70).png>)![](<../../.gitbook/assets/image (51).png>)
 
 ## Task component
 
@@ -37,7 +37,7 @@ Also, we need to add the CRUD operations that will be used by our frontend.
 
 ![Main page with an collection of task items for each task in List all tasks query](<../../.gitbook/assets/image (58).png>)
 
-![Adding a buttom in the same page for create task](<../../.gitbook/assets/image (66) (1).png>)
+![Adding a buttom in the same page for create task](<../../.gitbook/assets/image (66) (1) (1).png>)
 
 ![Refresh collection after reload](<../../.gitbook/assets/image (61) (1) (1).png>)
 

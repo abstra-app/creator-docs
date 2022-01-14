@@ -35,7 +35,7 @@ Abstra comes with 7 different variable types: &#x20;
 * **Array / List**: when you want to store a list, for example the results of  a [Checkbox](elements/inputs/checkbox.md) with multiple answer allowed.
 * **Object / Dictionary**: when you have more complex variables and it can have fields inside. For example you can have a meeting object like the following:
 
-![](<../../.gitbook/assets/image (63) (1) (1).png>)
+![](<../../.gitbook/assets/image (63) (1) (1) (1).png>)
 
 * **Anything**: a variable that accepts any of the other types above.
 
@@ -45,7 +45,7 @@ When you have some hosted tables created, you can create variables with types ac
 
 ![](<../../.gitbook/assets/image (59) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (66) (1) (1).png>)
+![](<../../.gitbook/assets/image (66) (1) (1) (1).png>)
 
 The first is typed as a single row of the table, so you can get auto suggestions for the complete row or each column:
 
