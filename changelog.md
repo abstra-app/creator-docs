@@ -4,10 +4,16 @@ description: Lists important changes to the editor
 
 # Changelog
 
+## 16/01/2022 - 22/01/2022
+
+* Bug fix week
+* Add option for more fonts, weights and style
+
 ## 09/01/2022 - 15/01/2022
 
 * Now you can edit, add and remove spring and breakpoints of multiple elements at once
 * We now have support for [breakpoints](docs/front-end/breakpoints.md)
+* Bug fix week
 
 ## 02/01/2022 - 08/01/2022
 
