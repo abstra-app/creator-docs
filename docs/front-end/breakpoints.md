@@ -31,7 +31,7 @@ Having breakpoints on the page doesnt make your elements behave differently on e
 
 You can add breakpoints on the element related to the breakpoint in the interface by pressing `Ctrl+B` or `right-click + add breakpoint`
 
-![Adding breakpoints on elements](<../../.gitbook/assets/image (64).png>)
+![Adding breakpoints on elements](<../../.gitbook/assets/image (64) (1).png>)
 
 The breakpoint attached to the element is related to the current active breakpoint on the view, which is the highlighted one.
 

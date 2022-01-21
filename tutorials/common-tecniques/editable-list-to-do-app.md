@@ -19,7 +19,7 @@ We will add 2 extra columns (`description` and `done`)
 
 Also, we need to add the CRUD operations that will be used by our frontend.
 
-![](<../../.gitbook/assets/image (67) (1).png>)![](<../../.gitbook/assets/image (64) (1) (1).png>)![](<../../.gitbook/assets/image (69) (1).png>)![](<../../.gitbook/assets/image (70).png>)![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (67) (1).png>)![](<../../.gitbook/assets/image (64) (1) (1) (1).png>)![](<../../.gitbook/assets/image (69) (1).png>)![](<../../.gitbook/assets/image (70).png>)![](<../../.gitbook/assets/image (51).png>)
 
 ## Task component
 
@@ -31,7 +31,7 @@ Also, we need to add the CRUD operations that will be used by our frontend.
 
 ![Set item on page start](<../../.gitbook/assets/image (52) (1).png>)
 
-![Update task on input change](<../../.gitbook/assets/image (60).png>)
+![Update task on input change](<../../.gitbook/assets/image (60) (1).png>)
 
 ## Main page
 

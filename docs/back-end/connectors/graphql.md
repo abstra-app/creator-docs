@@ -1,38 +1,21 @@
 # GraphQL
 
-![Configuration](../../../.gitbook/assets/screenshot_from_2021-04-26_09-35-32.png)
+This connector is used to make requests to GraphQL API.
 
-![Queries](../../../.gitbook/assets/image%20%289%29.png)
+### Configuration
 
-You can write regular GraphQL here, for example:
+To configure the connector, simply add the endpoint in the _url_ field and add any header you may need for the request. Then, you can create all the queries and mutations you need by adding new methods to the connector.
 
-```text
-SELECT * FROM "Users" u WHERE u.name LIKE '%John%'
-```
+![](<../../../.gitbook/assets/image (64).png>)
 
-## Passing parameters to the query
+### Creating queries and mutations
 
-You can add **params** to your query by naming them **$variable**. When you use this query in the frontend, you can dinamically fill the parameters:
+Queries and mutations are the methods of the connector. To make one, simply create a new method and fill the _query_ field. Other optional parameters are _JSON Path_, to parse the response of the API with the [JSON Path](https://jsonpath.com) query language, and the headers parameter, for query-specific headers you may need.
 
-```text
-SELECT * FROM "Users" u WHERE u.name = $name
-```
+![](<../../../.gitbook/assets/image (60).png>)
 
-Insert example:
+### Adding variables to your method
 
-```text
-INSERT INTO "Users"(name, email) VALUES ($name,$email)
-```
+If you wish to add variables to your method, simply add them like you normally would, and fill the variables parameter when using the connector.
 
-Update example:
-
-```text
-UPDATE "Users" SET name = $name WHERE u.email = $email
-```
-
-Delete example:
-
-```text
-DELETE FROM "Users" WHERE u.email = $email
-```
-
+![](<../../../.gitbook/assets/image (55).png>)

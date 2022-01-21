@@ -47,10 +47,10 @@ With this method, you can update rows in a table that is in your spreadsheet. Yo
 
 This method is used to delete rows from a table in your spreadsheet. First you need to input the range of the table using A1 notation, and then fill the filter that will select the rows that are going to be deleted. If you select the _Use first row as header_ option, the filter can be a JSON object with the keys being the names of the columns, otherwise, they should be JSON objects where the keys are the indexes of the columns in their order.&#x20;
 
-![Examples for deleting all items where the name is Notebook](<../../../.gitbook/assets/image (64) (1).png>)
+![Examples for deleting all items where the name is Notebook](<../../../.gitbook/assets/image (64) (1) (1).png>)
 
 #### Using parameters in the methods
 
 You can add parameters to your methods, that will be filled in the front end, by adding keywords that begin with a dollar sign. This example updates an item with an id that will be provided by the front end, setting the value to another parameter that will be provided in the front end.
 
-![](<../../../.gitbook/assets/image (55).png>)
+![](<../../../.gitbook/assets/image (55) (1).png>)
