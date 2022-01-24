@@ -35,7 +35,7 @@ For example name can be accessed with `$.user.profile.name` or `{{ user.profile.
 
 Abstra allows you to authenticate method/statement calls without an user token with **api tokens**. Check how to use them in [calling methods/statements outside Abstra apps](../../tutorials/common-tecniques/calling-connectors-or-tables-from-outside-abstra.md).
 
-![](<../../.gitbook/assets/image (53) (1) (1).png>)
+![](<../../.gitbook/assets/image (53) (1) (1) (1).png>)
 
 ### Access Rules
 

@@ -54,3 +54,16 @@ The first is typed as a single row of the table, so you can get auto suggestions
 The second is typed as a list of rows, just like the result of a [Query](actions/hosted-tables.md), so you can get suggestions for the list, the size of the list, the first row and its columns:&#x20;
 
 ![](../../.gitbook/assets/tl.gif)
+
+### Variable Path
+
+When using a composite type variable you may want to set/read just a specific field of it.\
+For this we have the variable path argument in most places where you use variables.
+
+For example you have a variable obj:
+
+![](<../../.gitbook/assets/image (53).png>)
+
+You can set an input to bind itself to just that field:
+
+![](<../../.gitbook/assets/Kapture 2022-01-24 at 19.11.52.gif>)
