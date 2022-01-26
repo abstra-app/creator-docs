@@ -18,7 +18,6 @@
   * [Replicating an ER Diagram on Hosted Tables](tutorials/common-tecniques/replicating-an-er-diagram-on-hosted-tables.md)
   * [Formating numbers](tutorials/common-tecniques/formating-numbers.md)
   * [Using Table Types](tutorials/common-tecniques/table-types.md)
-  * [Dynamic interfaces](tutorials/common-tecniques/dynamic-interfaces.md)
   * [Embedding third party applications](tutorials/common-tecniques/embedding-third-party-applications.md)
   * [Authentication with Auth0](tutorials/common-tecniques/auth-with-auth0.md)
   * [Integrating with Auth0 Roles](tutorials/common-tecniques/auth0-roles.md)
