@@ -8,9 +8,9 @@ Some providers, such as Google’s Gmail, require you to enable _less secure_ ap
 
 You can use the `+ Add method` to setup a new e-mail to be sent.
 
-![](../../../.gitbook/assets/screenshot-from-2021-07-06-14-05-27.png)
-
 ### Plain Text
+
+![](<../../../.gitbook/assets/image (66).png>)
 
 With this method you can send plain text e-mails. When creating the template you need to fill at least the subject and body of the e-mail.
 

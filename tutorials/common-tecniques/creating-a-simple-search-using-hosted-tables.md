@@ -30,7 +30,7 @@ select * from countries where name ilike '%'||$name||'%'
 
 In the frontend, we have 2 elements: an text input and a table.
 
-![](<../../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (67) (1).png>)
 
 {% hint style="info" %}
 If we want to customize the table, we can use the [collection element](../../docs/front-end/elements/collection.md).

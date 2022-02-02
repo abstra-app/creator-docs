@@ -17,7 +17,7 @@ Every new page you make in Abstra have by default 3 breakpoints
 
 These breakpoints can be edited by selecting the view and going to the breakpoint inspector on the right.
 
-![Going to the breakpoint inspector](<../../.gitbook/assets/image (67) (1).png>)
+![Going to the breakpoint inspector](<../../.gitbook/assets/image (67) (1) (1).png>)
 
 In this section you can manage all your page breakpoints. Notice that you can change the breakpoint name by double-clicking its name.
 
