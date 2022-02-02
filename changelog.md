@@ -4,6 +4,14 @@ description: Lists important changes to the editor
 
 # Changelog
 
+## 30/01/2022 - 05/02/2022
+
+* Added Cc and Bcc fields to [email connector](docs/back-end/connectors/e-mail.md)
+
+## 23/01/2022 - 29/01/2022
+
+* Lots of bug fixes and internal improvements to make our product more robust
+
 ## 16/01/2022 - 22/01/2022
 
 * Bug fix week
