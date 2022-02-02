@@ -10,6 +10,8 @@ You can use the `+ Add method` to setup a new e-mail to be sent.
 
 ![](../../../.gitbook/assets/screenshot-from-2021-07-06-14-05-27.png)
 
+### Plain Text
+
 With this method you can send plain text e-mails. When creating the template you need to fill at least the subject and body of the e-mail.
 
 You can add **parameters** to your subject and body by adding `$` in front of named keywords. When you use this method in the front-end, you can can dynamically fill the parameters. For example, sending e-mail like:
@@ -26,7 +28,9 @@ $signature
 
 Will ask you to fill `$name`, `$number`, `$product` and `$signature` dynamically.
 
-Another **parameter** that you can dynamically fill is additional e-mail addresses.
+You can specify **To**, **Cc** or **Bcc** fields. By default only the **To** field is added but the others can be added with add properties.
+
+When you use this method you can dynamically fill additional e-mail addresses (To, Cc, Bcc).
 
 You can fill it by passing a comma separated list of emails such as:
 
