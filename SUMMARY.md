@@ -58,7 +58,7 @@
     * [External link](docs/front-end/actions/external-link.md)
     * [Popup Sign in / Sign up](docs/front-end/actions/sign-in-sign-up.md)
     * [Redirect Sign in/Sign up](docs/front-end/actions/redirect-sign-in-sign-up.md)
-    * [Sign in with Usename/Password](docs/front-end/actions/sign-in-with-usename-password.md)
+    * [Sign in with Username/Password](docs/front-end/actions/sign-in-with-username-password.md)
     * [Logout / Sign out](docs/front-end/actions/logout-sign-out.md)
   * [Arguments](docs/front-end/arguments/README.md)
     * [Expression mode](docs/front-end/arguments/expression-mode.md)

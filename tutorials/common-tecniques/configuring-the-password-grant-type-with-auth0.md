@@ -22,4 +22,4 @@ Finally go to **Settings** and scroll down to **API Authorization Settings** and
 
 ![](<../../.gitbook/assets/Kapture 2022-02-04 at 11.12.51.gif>)
 
-Thats it. Now you can use the [Username/Password Login action](../../docs/front-end/actions/sign-in-with-usename-password.md)
+Thats it. Now you can use the [Username/Password Login action](../../docs/front-end/actions/sign-in-with-username-password.md)
