@@ -4,32 +4,36 @@ description: Lists important changes to the editor
 
 # Changelog
 
-## 30/01/2022 - 05/02/2022
+## 2022-02-06 to 2022-02-12
+
+* Adding after [loop event](https://community.abstra.app/news-9a282l1t/post/feature-improvement-after-loop-event-2DAa9kx9Isiwd2I)
+
+## 2022-01-30 to 2022-02-05
 
 * Added Cc and Bcc fields to [email connector](docs/back-end/connectors/e-mail.md)
 
-## 23/01/2022 - 29/01/2022
+## 2022-01-23 to 2022-01-29
 
 * Lots of bug fixes and internal improvements to make our product more robust
 
-## 16/01/2022 - 22/01/2022
+## 2022-01-16 to 2022-01-22
 
 * Bug fix week
 * Add option for more fonts, weights and style
 
-## 09/01/2022 - 15/01/2022
+## 2022-01-09 to 2022-01-15
 
 * Now you can edit, add and remove spring and breakpoints of multiple elements at once
 * We now have support for [breakpoints](docs/front-end/breakpoints.md)
 * Bug fix week
 
-## 02/01/2022 - 08/01/2022
+## 2022-01-02 to 2022-01-08
 
 * Bugfix: handling error when variable's type points to a deleted table. Now we display a message informing this.
 * Added an alternative for popup login: [Redirect Login](docs/front-end/actions/redirect-sign-in-sign-up.md).&#x20;
 * Added option to choose item overflow for collection
 
-## 26/12/2021 - 01/01/2022
+## 2021-12-26 to 2022-01-01
 
 * Adding [input masks](docs/front-end/elements/inputs/text.md#masks).
 * Bugfix: allowing empty numeric inputs.
