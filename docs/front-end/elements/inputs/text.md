@@ -39,3 +39,9 @@ Examples of masks:
 `(000) 000 - 0000` for US phone numbers
 
 `aaa` for currency codes
+
+And you can also have multiple masks on the same input by writing pipes | between them and the input value will adjust based on text length
+
+(PATTERN-A)|(PATTERN-B)|(PATTERN-C)
+
+Example: 000.000.000-00|00.000.000/0000-00

@@ -4,6 +4,10 @@ description: Lists important changes to the editor
 
 # Changelog
 
+## 2022-02-13 to 2022-02-19
+
+* Adding option on text input of multiple [masks](https://docs.abstra.app/docs/front-end/elements/inputs/text)
+
 ## 2022-02-06 to 2022-02-12
 
 * Adding after [loop event](https://community.abstra.app/news-9a282l1t/post/feature-improvement-after-loop-event-2DAa9kx9Isiwd2I)
