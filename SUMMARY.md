@@ -29,8 +29,6 @@
   * [Conditional rendering](tutorials/common-tecniques/conditional-rendering.md)
   * [Dropdown Menu](tutorials/common-tecniques/dropdown-menu.md)
   * [Utilizing Cookies](tutorials/common-tecniques/utilizing-cookies.md)
-* [Sample Projects](tutorials/projects/README.md)
-  * [BMI Calculator](tutorials/projects/bmi-calculator.md)
 
 ## Documentation <a href="#docs" id="docs"></a>
 
