@@ -30,7 +30,7 @@ Add 3 variables:
 * cities: Array/List -> used for store the list of cities
 * selectedState: Text -> used for store the id of selected state
 
-![](<../../.gitbook/assets/image (53) (2).png>)![](<../../.gitbook/assets/image (48).png>)![](<../../.gitbook/assets/image (57) (1) (1).png>)![](<../../.gitbook/assets/image (56) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (53) (2).png>)![](<../../.gitbook/assets/image (48).png>)![](<../../.gitbook/assets/image (57) (1) (1) (1).png>)![](<../../.gitbook/assets/image (56) (1) (1) (1).png>)
 
 ## Step 3: Grabbing the list of states and cities
 

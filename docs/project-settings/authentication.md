@@ -2,7 +2,7 @@
 
 Abstra allows you to use your own authentication provider (OIDC and OAuth2.0) for in app authentication / authorization. You only need to fill the **`Authority`** (the URL of the provider) and the **`Client ID`** (your client application's identifier as registered with the OIDC/OAuth2 provider).
 
-![](<../../.gitbook/assets/image (57) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (57) (1) (1) (1) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 For this to work you need to allow `https://*.abstra.app/sign-in` as a callback URL and `https://*.abstra.app/sign-out` as a logout URL&#x20;

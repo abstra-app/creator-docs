@@ -4,40 +4,45 @@ description: Lists important changes to the editor
 
 # Changelog
 
-## 2022-02-13 to 2022-02-19
+## 2022/02/20 - 2022/02/26
+
+* Added color and rich text options for variable types
+
+## 2022/02/13 - 2022/02/19
 
 * Adding option on text input of multiple [masks](https://docs.abstra.app/docs/front-end/elements/inputs/text)
+* New action layout with better context
 
-## 2022-02-06 to 2022-02-12
+## 2022/02/06 - 2022/02/12
 
 * Adding after [loop event](https://community.abstra.app/news-9a282l1t/post/feature-improvement-after-loop-event-2DAa9kx9Isiwd2I)
 
-## 2022-01-30 to 2022-02-05
+## 2022/01/30 - 2022/02/05
 
 * Added Cc and Bcc fields to [email connector](docs/back-end/connectors/e-mail.md)
 
-## 2022-01-23 to 2022-01-29
+## 2022/01/23 - 2022/01/29
 
 * Lots of bug fixes and internal improvements to make our product more robust
 
-## 2022-01-16 to 2022-01-22
+## 2022/01/16 - 2022/01/22
 
 * Bug fix week
 * Add option for more fonts, weights and style
 
-## 2022-01-09 to 2022-01-15
+## 2022/01/09 - 2022/01/15
 
 * Now you can edit, add and remove spring and breakpoints of multiple elements at once
 * We now have support for [breakpoints](docs/front-end/breakpoints.md)
 * Bug fix week
 
-## 2022-01-02 to 2022-01-08
+## 2022/01/02 - 2022/01/08
 
 * Bugfix: handling error when variable's type points to a deleted table. Now we display a message informing this.
 * Added an alternative for popup login: [Redirect Login](docs/front-end/actions/redirect-sign-in-sign-up.md).&#x20;
 * Added option to choose item overflow for collection
 
-## 2021-12-26 to 2022-01-01
+## 2021/12/26 - 2022/01/01
 
 * Adding [input masks](docs/front-end/elements/inputs/text.md#masks).
 * Bugfix: allowing empty numeric inputs.

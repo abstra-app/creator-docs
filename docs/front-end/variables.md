@@ -24,14 +24,18 @@ The `bestBand` example shows how to read a variable using [Mustache notation](ar
 
 ### Variable Types
 
-Abstra comes with 7 different variable types: &#x20;
+Abstra comes with 11 different variable types: &#x20;
 
-![](<../../.gitbook/assets/image (62) (1) (2).png>)
+![](<../../.gitbook/assets/image (57).png>)
 
 * **Text**: any text value you may want to store, such as names, urls, and other textual information
 * **Yes/No**: any boolean values. For example you might want to store if a user has clicked a button
 * **Number**: any numerical values, decimal or integer
 * **Image**: the same as a text variable but it preview the result of the image URL
+* **Component**: a reference to a component
+* **Icon**: string with SVG path of an icon
+* **Color**: string with hex of a color
+* **Rich Text**: string with rich text formatting
 * **Array / List**: when you want to store a list, for example the results of  a [Checkbox](elements/inputs/checkbox.md) with multiple answer allowed.
 * **Object / Dictionary**: when you have more complex variables and it can have fields inside. For example you can have a meeting object like the following:
 
