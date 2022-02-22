@@ -4,6 +4,8 @@ description: In this tutorial, we will learn how to make an collapsible sidebar
 
 # Collapsible sidebar
 
+[Example](https://create.abstra.app/template/2b3ddcf3-770f-483b-ab0c-c99c3f67b3bf)
+
 First, lets create the two versions of our sidebar (collapsed and expanded).
 
 ![We just drew the elements, no components are involved yet](<../../.gitbook/assets/image (71).png>)
