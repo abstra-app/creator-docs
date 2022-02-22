@@ -101,6 +101,7 @@
     * [MySQL](docs/back-end/connectors/mysql.md)
     * [PostgreSQL](docs/back-end/connectors/postgresql.md)
     * [REST APIs](docs/back-end/connectors/restful-api.md)
+    * [REST v2](docs/back-end/connectors/rest-v2.md)
     * [SSH](docs/back-end/connectors/ssh-server.md)
     * [Telegram](docs/back-end/connectors/telegram.md)
 * [Project Settings](docs/project-settings/README.md)

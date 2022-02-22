@@ -7,6 +7,7 @@ description: Lists important changes to the editor
 ## 2022/02/20 - 2022/02/26
 
 * Added color and rich text options for variable types
+* Added [restv2](docs/back-end/connectors/rest-v2.md) connector
 
 ## 2022/02/13 - 2022/02/19
 
