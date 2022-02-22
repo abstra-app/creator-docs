@@ -38,7 +38,7 @@ If we want to customize the table, we can use the [collection element](../../doc
 
 Also we need to add a variable which we will use to link the input field and the table query.
 
-![](<../../.gitbook/assets/image (68).png>)
+![](<../../.gitbook/assets/image (68) (1).png>)
 
 Now we can just link the input field and the variable
 

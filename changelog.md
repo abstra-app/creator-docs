@@ -8,6 +8,7 @@ description: Lists important changes to the editor
 
 * Added color and rich text options for variable types
 * Added [restv2](docs/back-end/connectors/rest-v2.md) connector
+* Now you can share templates
 
 ## 2022/02/13 - 2022/02/19
 
