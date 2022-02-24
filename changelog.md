@@ -9,6 +9,24 @@ description: Lists important changes to the editor
 * Added color, rich text and datetime options for variable types
 * Added [restv2](docs/back-end/connectors/rest-v2.md) connector
 * Now you can share templates
+* [Expression](docs/front-end/arguments/expression-mode.md) mode is smarter and accepts both return and expression statements
+* We've changed our code editor in order to give you more readability and life qualities when you're in need of writing down that piece of code.
+  * Line ordering.
+  * Code fold.
+  * Commands addition such as
+    * Ctrl-F (Cmd on macOS) to search inside the code.
+    * Ctrl-D (Cmd on macOS) to search inside the code.
+    * Ctrl-ArrowLeft & Ctrl-ArrowRight (Alt on macOS) to move the cursor forward and backward a group. (Will select the group if shift is pressed).
+    * Ctrl-Backspace (Alt on macOS) to delete a group backward.
+    * Ctrl-Delete (Alt on macOS) to delete a group forward.
+    * Ctrl-A (Cmd on macOS) to select all.
+    * Cmd-Backspace (only on macOS): to delete to line start.
+    * Cmd-Delete (only on macOS): to delete to line end.
+    * Ctrl-ArrowUp (only on macOS): To move the line up ( duplicate line up with Shift)
+    * Ctrl-ArrowDown (only on macOS): to move the line down (duplicate line down with Shift)
+  * Bracket closing, that is, when you open a bracket our editor will close it automatically.
+  * Bracket matching, that is, the editor will highlight the closing bracket so you know where it ends more easily.
+  * More autocompletion! Now we've added some native javascript syntax to our autocomplete. And more is on the way. ;)
 
 ## 2022/02/13 - 2022/02/19
 

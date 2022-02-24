@@ -46,6 +46,7 @@
     * [Upload file](docs/front-end/actions/upload-file.md)
     * [Scroll to element](docs/front-end/actions/scroll-to-element.md)
     * [Periodic](docs/front-end/actions/periodic.md)
+    * [Delay](docs/front-end/actions/periodic-1.md)
     * [For each](docs/front-end/actions/for-each.md)
     * [Show message](docs/front-end/actions/show-message.md)
     * [Show modal](docs/front-end/actions/show-modal.md)
