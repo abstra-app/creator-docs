@@ -9,6 +9,7 @@ description: Lists important changes to the editor
 * Added color, rich text and datetime options for variable types
 * Added [restv2](docs/back-end/connectors/rest-v2.md) connector
 * Now you can share templates
+* [Expression](docs/front-end/arguments/expression-mode.md) mode is smarter and accepts both return and expression statements
 
 ## 2022/02/13 - 2022/02/19
 
