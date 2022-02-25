@@ -88,6 +88,7 @@
     * [HTML](docs/front-end/elements/html.md)
   * [Variables](docs/front-end/variables.md)
   * [Shortcuts](docs/front-end/shortcuts.md)
+  * [Code Editor](docs/front-end/code-editor.md)
 * [Back-end](docs/back-end/README.md)
   * [Connectors](docs/back-end/connectors/README.md)
     * [Code](docs/back-end/connectors/code.md)
