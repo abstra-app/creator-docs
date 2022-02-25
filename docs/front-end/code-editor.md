@@ -30,11 +30,11 @@ We have some commands at your disposal to ease your coding moments in Abstra.
 
 ![](../../.gitbook/assets/gifctrl-d.gif)
 
-* Ctrl-ArrowLeft & Ctrl-ArrowRight (Alt on macOS) to move the cursor forward and backward a group. (Will select the group if shift is pressed).
+* Ctrl-ArrowLeft & Ctrl-ArrowRight (option on macOS) to move the cursor forward and backward a group. (Will select the group if shift is pressed).
 
 ![](<../../.gitbook/assets/gifmovegroup (1).gif>)
 
-* Ctrl-Backspace & Ctrl-Delete (Alt on macOS) to delete a group backward and forward.
+* Ctrl-Backspace & Ctrl-Delete (option on macOS) to delete a group backward and forward.
 
 ![](../../.gitbook/assets/gifctrl-del.gif)
 
@@ -46,7 +46,7 @@ We have some commands at your disposal to ease your coding moments in Abstra.
 
 ![](../../.gitbook/assets/gifcmd-del.gif)
 
-* Ctrl-ArrowUp & Ctrl-ArrowDown(only on macOS): To move the line up and down( duplicate line up with Shift)
+* option-ArrowUp & option-ArrowDown(only on macOS): To move the line up and down( duplicate line up with Shift)
 
 ![](../../.gitbook/assets/gifctrl-up-down.gif)
 
