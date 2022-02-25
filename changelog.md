@@ -21,8 +21,7 @@ description: Lists important changes to the editor
       * Ctrl-Backspace (Option on macOS) to delete a group backward.
       * Ctrl-Delete (Option on macOS) to delete a group forward.
       * Ctrl-A (Cmd on macOS) to select all.
-      * Cmd-Backspace (only on macOS): to delete to line start.
-      * Cmd-Delete (only on macOS): to delete to line end.
+      * Cmd-Delete (only on macOS): to delete to line start.
       * Option-ArrowUp (only on macOS): To move the line up ( duplicate line up with Shift)
       * Option-ArrowDown (only on macOS): to move the line down (duplicate line down with Shift)
     * Bracket closing, that is, when you open a bracket our editor will close it automatically.

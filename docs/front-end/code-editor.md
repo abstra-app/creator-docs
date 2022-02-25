@@ -42,7 +42,7 @@ We have some commands at your disposal to ease your coding moments in Abstra.
 
 ![](../../.gitbook/assets/gifcmd-a.gif)
 
-* Cmd-Delete (only on macOS): to delete to line end.
+* Cmd-Delete (only on macOS): to delete to line start.
 
 ![](../../.gitbook/assets/gifcmd-del.gif)
 
