@@ -20,7 +20,7 @@ and following methods:
 
 ``![](<../../.gitbook/assets/image (61) (2).png>)``![](<../../.gitbook/assets/image (63) (2).png>)``
 
-``![](<../../.gitbook/assets/image (54) (1) (1).png>)``![](<../../.gitbook/assets/image (60) (1) (1) (1).png>)``
+``![](<../../.gitbook/assets/image (54) (1) (1).png>)``![](<../../.gitbook/assets/image (60) (1) (1) (1) (1).png>)``
 
 ## Step 2: Adding variables
 

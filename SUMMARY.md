@@ -9,6 +9,7 @@
 
 * [Getting started](tutorials/getting-started.md)
 * [Lessons](tutorials/common-tecniques/README.md)
+  * [Responsivity](tutorials/common-tecniques/responsivity.md)
   * [Creating a simple search using hosted tables](tutorials/common-tecniques/creating-a-simple-search-using-hosted-tables.md)
   * [Basic form](tutorials/common-tecniques/basic-form.md)
   * [Collapsible sidebar](tutorials/common-tecniques/collapsible-sidebar.md)

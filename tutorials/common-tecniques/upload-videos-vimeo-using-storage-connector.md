@@ -30,7 +30,7 @@ In this tutorial the video submitted will first uploaded to an AWS S3 Bucket and
 
 ![](<../../.gitbook/assets/image (62) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (60) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (60) (1) (1) (1) (1) (1) (1).png>)
 
 ## Frontend Setup
 
@@ -71,4 +71,4 @@ That's it. Now we just test the application.
 
 Note that the video may not be available right away but in a few moments (depending on the video size) it will be live:
 
-![](<../../.gitbook/assets/image (63) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (63) (1) (1) (1) (1) (1).png>)

@@ -41,7 +41,7 @@ Importing python modules is currently limited to the `requests` package. Others 
 
 You can import modules (currently only requests) and use it normally:
 
-![](<../../../.gitbook/assets/image (60) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (60) (1) (1) (1) (1) (1).png>)
 
 #### Running Async
 

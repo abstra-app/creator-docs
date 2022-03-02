@@ -35,7 +35,7 @@ If you choose to use the first row as a header, the return will be an array of J
 
 With this method, you can insert a row in a table that is in your spreadsheet. You just need to fill the range of the table you are inserting the values, and they will be added to the first empty row in that range or bellow it. If you select the _Use first row as header_ option, the value can be a JSON object with the keys being the names of the columns, otherwise, the value has to be an array representing the row.
 
-![Examples for the insert row value, with and without using the first row as header](<../../../.gitbook/assets/image (61).png>)
+![Examples for the insert row value, with and without using the first row as header](<../../../.gitbook/assets/image (61) (1).png>)
 
 #### Update Rows
 

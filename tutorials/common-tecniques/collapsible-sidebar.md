@@ -8,7 +8,7 @@ description: In this tutorial, we will learn how to make an collapsible sidebar
 
 First, lets create the two versions of our sidebar (collapsed and expanded).
 
-![We just drew the elements, no components are involved yet](<../../.gitbook/assets/image (71).png>)
+![We just drew the elements, no components are involved yet](<../../.gitbook/assets/image (71) (1).png>)
 
 Now we can transform each version into one component.
 
@@ -20,7 +20,7 @@ Notice that no distances to the right of the page are fixed. This is important b
 
 Now you have both components, you can add a click event on the hamburger menu icon to show the expanded version of the sidebar.
 
-![You only need to trigger the expanded version](<../../.gitbook/assets/image (61) (1).png>)
+![You only need to trigger the expanded version](<../../.gitbook/assets/image (61) (1) (1).png>)
 
 Now you should have a working sidebar like that:
 

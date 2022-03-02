@@ -27,11 +27,11 @@ Also, we need to add the CRUD operations that will be used by our frontend.
 
 ![Create an task variable for input editing](<../../.gitbook/assets/image (50).png>)
 
-![](<../../.gitbook/assets/image (65) (1) (1).png>)![](<../../.gitbook/assets/image (68) (1) (1).png>)
+![](<../../.gitbook/assets/image (65) (1) (1).png>)![](<../../.gitbook/assets/image (68) (1) (1) (1).png>)
 
 ![Set item on page start](<../../.gitbook/assets/image (52) (1).png>)
 
-![Update task on input change](<../../.gitbook/assets/image (60) (1) (1).png>)
+![Update task on input change](<../../.gitbook/assets/image (60) (1) (1) (1).png>)
 
 ## Main page
 
@@ -39,5 +39,5 @@ Also, we need to add the CRUD operations that will be used by our frontend.
 
 ![Adding a buttom in the same page for create task](<../../.gitbook/assets/image (66) (1) (1) (1) (1).png>)
 
-![Refresh collection after reload](<../../.gitbook/assets/image (61) (1) (1).png>)
+![Refresh collection after reload](<../../.gitbook/assets/image (61) (1) (1) (1).png>)
 

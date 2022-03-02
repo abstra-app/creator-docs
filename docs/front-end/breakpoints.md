@@ -11,7 +11,7 @@ description: >-
 
 Every new page you make in Abstra have by default 3 breakpoints
 
-![3 breakpoints created for every new page](<../../.gitbook/assets/image (63).png>)
+![3 breakpoints created for every new page](<../../.gitbook/assets/image (63) (1).png>)
 
 ### Breakpoints inspector
 

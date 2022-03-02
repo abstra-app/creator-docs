@@ -12,7 +12,7 @@ To configure the connector, simply add the endpoint in the _url_ field and add a
 
 Queries and mutations are the methods of the connector. To make one, simply create a new method and fill the _query_ field. Other optional parameters are _JSON Path_, to parse the response of the API with the [JSON Path](https://jsonpath.com) query language, and the headers parameter, for query-specific headers you may need.
 
-![](<../../../.gitbook/assets/image (60) (1).png>)
+![](<../../../.gitbook/assets/image (60) (1) (1).png>)
 
 ### Adding variables to your method
 

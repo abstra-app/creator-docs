@@ -40,7 +40,7 @@ Abstra comes with many different variable types: &#x20;
 * **Array / List**: when you want to store a list, for example the results of  a [Checkbox](elements/inputs/checkbox.md) with multiple answer allowed.
 * **Object / Dictionary**: when you have more complex variables and it can have fields inside. For example you can have a meeting object like the following:
 
-![](<../../.gitbook/assets/image (63) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (63) (1) (1) (1) (1).png>)
 
 * **Anything**: a variable that accepts any of the other types above.
 

@@ -19,7 +19,7 @@ Go to the settings tab and inside of it, on the general tab, there will be a but
 
 Press it to make a modal appear where you will set the template's name, description and visibility. Have in mind that every template must have a name and description. A template can have private or public visibility. To learn more read [share a template](templates.md#share-a-template).
 
-![](<../../.gitbook/assets/image (68).png>)
+![](<../../.gitbook/assets/image (68) (1).png>)
 
 After deciding your template name and description just press on publish and you're all set. Your template will be ready to be used when you create new projects.
 
