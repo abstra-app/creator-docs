@@ -6,11 +6,11 @@ description: >-
 
 # Responsivity
 
-## &#x20;Default behavior
+## Default behavior
 
 By default, any element will keep its size and position relative to the top-right corner of the view.
 
-![Notice that the navbar bottom is not always ligned to the view bottom](../../.gitbook/assets/default-responsivity.gif)
+![Notice that the navbar bottom is not always aligned to the view bottom](../../.gitbook/assets/default-responsivity.gif)
 
 ## Springs
 
@@ -34,35 +34,35 @@ Using the spring shooter in the responsivity inspector tab, you can add springs 
 
 ### Behavior
 
-#### Fixing element to the view
+#### Fixing an element to the view
 
-![You can fix elements to the right by using the spring shooter or anchoring the spring to the side of the view.](../../.gitbook/assets/01-fixing-right.gif)
+![You can fix elements to the right of the view by using the spring shooter or anchoring the spring to the side.](../../.gitbook/assets/01-fixing-right.gif)
 
 #### Chaining elements
 
 ![Chaining elements allows you to fix their position relative to the view, in this case, to the top right corner.](../../.gitbook/assets/02-chaining-elements.gif)
 
-#### Fixing element to both sides and showing it stretch (not fixed width)
+#### Fixing an element to both sides makes it stretch (when not fixed-width)
 
 ![By fixing boths sides of an element you can make it stretch with the view.](../../.gitbook/assets/03-fix-elem-both-notfixed.gif)
 
-#### Fixing element to both sides and showing it center (fixed width)
+#### Fixing an element to both sides centers it (when fixed width)
 
 ![Fixing both sides of the element and setting it to fixed width allows the element to keep centered in the view.](../../.gitbook/assets/04-fix-elem-both-fixwid.gif)
 
-#### 2 columns, both flexible
+#### Two columns, both flexible
 
 ![Anchoring both elements with springs will make them both flexible, changing their size according to the size of the view.](../../.gitbook/assets/05-2col-bothflex.gif)
 
-#### 2 columns, both fixed
+#### Two columns, both fixed
 
 ![When setting both elements to fixed width, when resizing, both will retain their original sizes.](../../.gitbook/assets/06-2col-bothfixed.gif)
 
-#### 2 columns, 1 flexible, and 1 fixed
+#### Two columns, one flexible, and one fixed
 
 ![Having two distinct elements and one of them having a fixed width, only one of them will retain their original size while the other will resize accordingly.](../../.gitbook/assets/07-2col-flexandfixed.gif)
 
-#### Components to make elements fixed inside
+#### Components to make elements fixed amongst themselves
 
 ![You can make a component inside another component, using the springs to constrain how these components behave.](../../.gitbook/assets/08-comp-fixed-inbetween.gif)
 
