@@ -66,5 +66,5 @@ Using the spring shooter in the responsivity inspector tab, you can add springs 
 
 ![You can make a component inside another component, using the springs to constrain how these components behave.](../../.gitbook/assets/08-comp-fixed-inbetween.gif)
 
-You can always combine springs and [breakpoints](../../docs/front-end/breakpoints.md) to make fully responsive apps
+You can always combine springs and [breakpoints](../../docs/front-end/breakpoints.md) to make fully responsive apps.
 
