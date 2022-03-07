@@ -14,7 +14,7 @@ description: Lists important changes to the editor
 * Added [restv2](docs/back-end/connectors/rest-v2.md) connector
 * Now you can share templates
 * [Expression](docs/front-end/arguments/expression-mode.md) mode is smarter and accepts both return and expression statements
-* We've changed our [code editor](docs/front-end/arguments/code-editor.md) in order to give you more readability and life qualities when you're in need of writing down that piece of code.
+* We've changed our [code editor](docs/front-end/code-editor.md) in order to give you more readability and life qualities when you're in need of writing down that piece of code.
 
 ## 2022/02/13 - 2022/02/19
 

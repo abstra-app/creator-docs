@@ -7,7 +7,7 @@ description: >-
 
 # Expression mode
 
-All arguments have on their top-right corner a `JS` button which toggles it from the stock UI to a text area where the user can write JavaScript code and complex logic.
+All arguments have on their top-right corner a `JS` button which toggles it from the stock UI to a text area where the user can write JavaScript code and complex logic with our [code editor](../code-editor.md).
 
 ![](../../../.gitbook/assets/expression-identify.gif)
 
