@@ -30,6 +30,7 @@
   * [Conditional rendering](tutorials/common-tecniques/conditional-rendering.md)
   * [Dropdown Menu](tutorials/common-tecniques/dropdown-menu.md)
   * [Utilizing Cookies](tutorials/common-tecniques/utilizing-cookies.md)
+  * [Creating a Read and Update app](tutorials/common-tecniques/creating-a-read-and-update-app.md)
 
 ## Documentation <a href="#docs" id="docs"></a>
 
