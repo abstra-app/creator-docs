@@ -37,7 +37,7 @@ Also, we need to add the CRUD operations that will be used by our frontend.
 
 ![Main page with an collection of task items for each task in List all tasks query](<../../.gitbook/assets/image (58).png>)
 
-![Adding a buttom in the same page for create task](<../../.gitbook/assets/image (66) (1) (1) (1) (1).png>)
+![Adding a buttom in the same page for create task](<../../.gitbook/assets/image (66) (1) (1) (1) (1) (1).png>)
 
 ![Refresh collection after reload](<../../.gitbook/assets/image (61) (1) (1) (1).png>)
 

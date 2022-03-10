@@ -29,7 +29,7 @@ You can simulate a login/logout action and see what information your provider se
 Right bellow will appear a box containing all the information the provider sends, which can be accessed with the user context variable with `$.user` or `{{ user }}`.\
 For example name can be accessed with `$.user.profile.name` or `{{ user.profile.name }}`.
 
-![](<../../.gitbook/assets/image (49) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (49) (1) (1) (1) (1).png>)
 
 ### API Tokens
 
@@ -51,7 +51,7 @@ For the **`user`** type you can specify emails addresses (including wildcards ex
 
 For the **`role`** type you need to specify the path of the role inside the user profile. For example, when we tested our login we got the following information from the provider:
 
-![](<../../.gitbook/assets/image (49) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (49) (1) (1) (1) (1).png>)
 
 Notice that inside the profile object there is an entry named **`https://example.com/roles`** (per OIDC standards the key must be an **uri**, but it may vary in your provider). That entry is the roles list in our case, so we can configure the access rule as follows:
 

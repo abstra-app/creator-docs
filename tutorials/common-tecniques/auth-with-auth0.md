@@ -49,7 +49,7 @@ And that's it, now you can test these settings. On the right there is the Try no
 Right bellow will appear a box containing all the information the provider sends, which can be accessed with the user context variable with `$.user` or `{{ user }}`.\
 For example name can be accessed with `$.user.profile.name` or `{{ user.profile.name }}`.
 
-![](<../../.gitbook/assets/image (49) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (49) (1) (1) (1) (1).png>)
 
 ## Example
 

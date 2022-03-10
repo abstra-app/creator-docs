@@ -10,7 +10,7 @@ You can use the `+ Add method` to setup a new e-mail to be sent.
 
 ### Plain Text
 
-![](<../../../.gitbook/assets/image (66).png>)
+![](<../../../.gitbook/assets/image (66) (1).png>)
 
 With this method you can send plain text e-mails. When creating the template you need to fill at least the subject and body of the e-mail.
 

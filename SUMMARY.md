@@ -24,6 +24,7 @@
   * [Integrating with Auth0 Roles](tutorials/common-tecniques/auth0-roles.md)
   * [Configuring the Password Grant Type with Auth0](tutorials/common-tecniques/configuring-the-password-grant-type-with-auth0.md)
   * [Calling Connectors or Tables from outside Abstra](tutorials/common-tecniques/calling-connectors-or-tables-from-outside-abstra.md)
+  * [Importing Abstra data to Google Sheets](tutorials/common-tecniques/importing-abstra-data-to-google-sheets.md)
   * [Iterating over a list](tutorials/common-tecniques/iterating-over-a-variable.md)
   * [Adding charts](tutorials/common-tecniques/adding-charts.md)
   * [Upload videos Vimeo using Storage Connector](tutorials/common-tecniques/upload-videos-vimeo-using-storage-connector.md)

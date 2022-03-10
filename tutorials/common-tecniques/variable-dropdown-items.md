@@ -36,7 +36,7 @@ Add 3 variables:
 
 At the page start, you can add an action to fetch the states and cities list
 
-![](<../../.gitbook/assets/image (66) (2).png>)![](<../../.gitbook/assets/image (49) (1).png>)![](<../../.gitbook/assets/image (59) (1) (1).png>)![](<../../.gitbook/assets/image (52) (2).png>)![](<../../.gitbook/assets/image (58) (1).png>)
+![](<../../.gitbook/assets/image (66) (2).png>)![](<../../.gitbook/assets/image (49) (1) (1).png>)![](<../../.gitbook/assets/image (59) (1) (1).png>)![](<../../.gitbook/assets/image (52) (2).png>)![](<../../.gitbook/assets/image (58) (1).png>)
 
 ## Step 4: Configuring the dropdowns
 

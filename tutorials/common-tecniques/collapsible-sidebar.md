@@ -12,7 +12,7 @@ First, lets create the two versions of our sidebar (collapsed and expanded).
 
 Now we can transform each version into one component.
 
-![Each version of the sidebar is now a component](<../../.gitbook/assets/image (49).png>)
+![Each version of the sidebar is now a component](<../../.gitbook/assets/image (49) (1).png>)
 
 {% hint style="warning" %}
 Notice that no distances to the right of the page are fixed. This is important because the sidebar is aligned to the left.
