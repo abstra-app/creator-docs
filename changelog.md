@@ -8,6 +8,8 @@ description: Lists important changes to the editor
 
 * Added new block screen type in some actions: [call connector](docs/front-end/actions/call-connector.md), [execute statement](docs/front-end/actions/hosted-tables.md), [load script](docs/front-end/actions/load-external-script.md), [upload file](docs/front-end/actions/upload-file.md) and [api login](docs/front-end/actions/sign-in-with-username-password.md). You can now show a loading indicator that blocks the screen until the action flow is over.
 * Now we show logs of previous runs on triggers, actions an expressions
+* Added filter on page / component list
+* Added a global search for Pages/Components/Statements/Connectors/Methods
 
 ## 2022/02/20 - 2022/02/26
 
