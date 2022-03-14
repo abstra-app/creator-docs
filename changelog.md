@@ -4,6 +4,12 @@ description: Lists important changes to the editor
 
 # Changelog
 
+## 2022/03/13 - 2022/03/19
+
+* Added AWS WorkMail to our [email connector](docs/back-end/connectors/e-mail.md)
+* Added Listing of elements in a page/component
+* Added folders to components
+
 ## 2022/03/06 - 2022/03/12
 
 * Added new block screen type in some actions: [call connector](docs/front-end/actions/call-connector.md), [execute statement](docs/front-end/actions/hosted-tables.md), [load script](docs/front-end/actions/load-external-script.md), [upload file](docs/front-end/actions/upload-file.md) and [api login](docs/front-end/actions/sign-in-with-username-password.md). You can now show a loading indicator that blocks the screen until the action flow is over.
