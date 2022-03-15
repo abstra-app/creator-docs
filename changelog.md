@@ -7,7 +7,7 @@ description: Lists important changes to the editor
 ## 2022/03/13 - 2022/03/19
 
 * Added AWS WorkMail to our [email connector](docs/back-end/connectors/e-mail.md)
-* Added Listing of elements in a page/component
+* Added [Listing of elements](https://docs.abstra.app/docs/front-end/elements/elements-list) in a page/component
 * Added folders to components
 
 ## 2022/03/06 - 2022/03/12
