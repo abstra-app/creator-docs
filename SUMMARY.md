@@ -90,6 +90,7 @@
     * [Iframe](docs/front-end/elements/iframe.md)
     * [Subview](docs/front-end/elements/subview.md)
     * [HTML](docs/front-end/elements/html.md)
+    * [Elements list](docs/front-end/elements/elements-list.md)
   * [Variables](docs/front-end/variables.md)
   * [Shortcuts](docs/front-end/shortcuts.md)
 * [Back-end](docs/back-end/README.md)

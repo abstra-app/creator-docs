@@ -1,10 +1,3 @@
----
-description: >-
-  Some projects can be used multiple times as a base for something better and
-  more complex, but to start over from the beginning always feel harsh and a
-  lost of time. In order to avoid that pain we invi
----
-
 # Templates
 
 Some projects can be used multiple times as a base for something better and more complex, but to start over from the beginning always feel harsh and a lost of time. In order to avoid that pain we have the templates feature.\
